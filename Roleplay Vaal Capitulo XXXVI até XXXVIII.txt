@@ -1,0 +1,2185 @@
+Os números abaixo estão na tabela revisada, **Vaal_Economia.md**. Na régua do documento, 1 cobre vale ½ pêni inglês do século XIV, e 1 ouro vale 6 xelins e 3 pence. Cada preço parte do valor real da época e sobe com a guerra do Aurach. Os preços já narrados nos capítulos I–XXIV continuam valendo, e cada um tem sua leitura na seção *Âncoras da Crônica*.
+
+## 1. Quanto dinheiro André tem — 20/Mai/852, manhã da inspeção
+
+**Até 17 de fevereiro** (o que os capítulos registram):
+
+| Movimento | Valor | Saldo |
+|---|---|---|
+| Fim do Cap. XXIV: ~72 que ele tinha na guilda + 100 do Duque | +172 | 172 |
+| Reagentes em Thara, estrada, família de Drennor, galo | −14 o −4 c | ~158 |
+| Irmãos de Kragenhall (3 pratas cada) | −9 p | |
+| Os 4 tenentes (2 ouros cada) | −8 | |
+| Svana, fevereiro adiantado | −1 | |
+| Os 10 ouros de Nerith (recuperados na clareira e devolvidos) | 0 | **148 o 20 p 1 c** |
+
+**De 17 de fevereiro a 20 de maio** (três meses não narrados):
+
+| Movimento | Valor | Saldo |
+|---|---|---|
+| Salário de fevereiro, março e abril (100/mês) | +300 | 448 o 20 p 1 c |
+| **Bellatrix, 3 meses, do bolso dele** | **−150** | 298 o 20 p 1 c |
+| Svana: março, abril e maio | −3 | 295 o 20 p 1 c |
+| Arco longo de teixo, aljava, 2 dúzias de flechas de guerra | −3 o 27 p | 291 o 23 p 1 c |
+| Reagentes da Nevasca e do Trovão do Cap. XXXVI | −13 p | 291 o 10 p 1 c |
+| Bancada de alquimia (pressuposto, ver seção 6) | −30 | **261 o 10 p 1 c** |
+
+**Resultado: 261 ouros, 10 pratas e 1 cobre.**
+
+- **Pendente:** no fim de maio entram 100 do salário e saem 50 para Bellatrix; em 1º de junho, 1 ouro para Svana.
+- **Sobra mensal:** 100 − 50 (Bellatrix) − 1 (Svana) = **49 ouros/mês**. Ele come na mesa dos oficiais, dorme na tenda, e a forragem do Cavalo é do exército. Quase nada mais sai do bolso.
+- **Bellatrix custa metade do que ele ganha.** São 600 ouros por ano, o preço de um senhorio pequeno, todo ano.
+
+## 2. Inventário completo
+
+**No corpo** (o kit do Duque):
+- espada de dragão;
+- muda de seda azul;
+- gambeson nobre sob medida;
+- aketon;
+- hauberk de mestre (mangas curtas, até a coxa);
+- brigantina preta;
+- chausses, cuisses, joelheiras e grevas.
+
+**No corpo** (peças próprias):
+- botas, braçais, luvas sem dedos;
+- rig de peito com a adaga de Caius;
+- gancho de troféu;
+- arco longo de teixo, aljava e 24 flechas.
+
+**No rig**, presumido depois do Cap. XXXVI: Andorinha, Gato e duas vagas.
+
+**No baú da tenda:**
+- Mel Branco, Oriole Dourado, Óleo de Necrófago e a **Decocção do Basilisco**;
+- kit de alquimia de campo e a bancada (pressuposta);
+- kit de manutenção de lâmina (do ferreiro de Coldbeck);
+- o bestiário de Eridith, com a carta de aniversário de Eveline dentro;
+- o livrinho de Maelstrom;
+- os dois tratados do Duque;
+- Pó Espectral, mutagênico de grifo (grau nunca avaliado) e um maço de penas de grifo nunca contado;
+- 1 frasco de veneno de basilisco, de uns quatro meses;
+- penas e presas de basilisco;
+- o couro albino, que ele usa de cama;
+- diário de Medeus e a corrente arrebentada.
+
+**Ingredientes:** nunca foram inventariados. O provável: o fundo de uma garrafa de Espírito Anão, umas 3–4 glândulas de góblin de Coldbeck em álcool, e talvez a gordura de lobo do Cap. XI. Para destilar de novo, ele precisa repor quase tudo.
+
+**Documentos:**
+- a nomeação de capitão;
+- o contrato de guerra;
+- as cartas de Eveline;
+- a Ordenança;
+- o original do Manual das Três Formações;
+- o dossiê de 42 folhas de Bellatrix sobre Volkovar.
+
+**Fora da tenda:**
+- Cavalo e o cavalo de carga, nos currais do forte;
+- **Aposta**, o cavalo de guerra que era de Soren, nos estábulos da guilda em Thara;
+- a cabeça do basilisco albino, sem um olho, montada atrás da cadeira de Theron;
+- o galo Imperador, no mastro.
+
+**Não se vende:** o medalhão da Espada.
+
+**Dívida de honra:** o Mel Branco que Nerith gastou com ele (12–18 pratas).
+
+## 3. Quanto vale o que ele carrega
+
+| Grupo | Valor de reposição | Se vendesse tudo |
+|---|---|---|
+| **Kit do Duque:** espada (800), armadura (464), Cavalo (600), sela de guerra nobre (40) | **~1.900** | ~940 |
+| Aposta (o melhor cavalo de guerra de Thara) e cavalo de carga | ~555 | ~375 |
+| Livros: bestiário (550), dois tratados (280), livrinho (50) | ~880 | ~580 |
+| Despojos: couro albino gasto (150), veneno (80), cabeça-troféu (70), penas e presas (20), penas de grifo (6) | ~325 | ~230 *(com o selo do Taxidermista)* |
+| Alquimia: decocção e poções (140), bancada (30), kit (5), mutagênico (15), Pó Espectral (2) | ~190 | ~105 |
+| Adaga, arco, peças próprias, rig, kit de manutenção | ~15 | ~5 |
+| **Total** | **~3.870 ouros** | **~2.230 ouros** |
+
+O conjunto do Duque bate com o Cap. XXVI: vale o mesmo que uma casa boa em Thara (1.500–3.000). Repor só esse conjunto levaria **quase três anos** guardando cada ouro que sobra. E nem assim ele conseguiria: o aço de mestre de Vornheim só sai da montanha para quem o Clã aceita como cliente, e o Mestre Elmar não forja para plebeu. **Sem um duque que encomende por ele, André nunca mais compra essa espada.**
+
+Três ressalvas que derrubam o valor de revenda:
+- Revender presente de duque é insulto, e o Duque fica sabendo.
+- O couro albino perdeu metade do valor: foi só salgado, nunca curtido, e serviu de cama por quatro meses.
+- Veneno de basilisco é ilegal em vários reinos e perde força com os meses.
+
+## 4. O que ele poderia comprar com 261 ouros
+
+**Cabe no bolso hoje:**
+- um cavalo de guerra treinado dos mais baratos (150–400);
+- uma lâmina de mestre de Vornheim (100–200);
+- um arnês de placas de munição (80–150);
+- uma Decocção do Basilisco pronta (105–165);
+- uma casa de camponês próspero com 30 geiras de terra boa no interior (~80–190).
+
+**Só raspando o bolso:** a casa de artesão mais modesta de Thara (200–650).
+
+**Fora de alcance:**
+
+| Alvo | Preço | Quanto ele tem | Tempo guardando os 49/mês |
+|---|---|---|---|
+| Tomo de conclave | 300–800 | menos que o preço | — |
+| Casa boa em Thara | 1.500–3.000 | 1/6 a 1/11 | — |
+| Casa-forte + senhorio + licença ducal | 2.000–6.000 | 1/8 a 1/23 | **3 a 10 anos** |
+| Castelo pequeno | 10.000–25.000 | 1/38 a 1/96 | **16 a 42 anos** |
+| Castelo de verdade | 40.000–75.000 | — | **68 a 127 anos** |
+
+E o castelo não acaba na compra:
+- **Manter custa caro.** Uma casa-forte come 100–250 ouros por ano; um castelo pequeno, 300–800, mais do que ele guarda num ano inteiro. Castelo sem terra é uma conta que sangra.
+- **O título não se compra, concede-se.** Sem ele, a terra em volta não tem servos.
+
+O único caminho real é o que o próprio Duque abriu no Cap. XXIII: títulos e terras depois da guerra. É o "você conquista, eu faço render" de Eveline.
+
+## 5. André conseguiria viver como o quê?
+
+- **Pela renda, enquanto a guerra durar:** os 1.200 ouros brutos por ano são renda de **barão menor**. Os 588 que sobram são de **cavaleiro muito rico, quase barão**.
+- **Pela poupança:** 261 ouros são 30 anos de salário de um braçal, 87 anos de soldo de um lanceiro, ou dois a quatro anos de renda de um cavaleiro com feudo pequeno.
+- **Se parasse hoje e vivesse só do que tem em Thara:**
+
+| Padrão de vida | Duraria |
+|---|---|
+| Frugal | 6 a 8 anos |
+| Decente | 3 a 4 anos |
+| Confortável | cerca de 2 anos |
+| À moda nobre | dois meses e meio |
+
+Em resumo: **ele vive como um barão enquanto a guerra durar, tem a poupança de um mestre de ofício e carrega no corpo e na sela o preço de uma casa boa em Thara.** Não tem terra, título nem renda que sobreviva à paz. Se o contrato acabasse amanhã, seria um cavaleiro sem terra muito bem montado. Se vendesse os presentes do Duque, seria um camponês próspero, a vida que ele nunca quis.
+
+## 6. Pontos para você decidir
+
+1. **O quinto da guilda.** Não sei se o quinto (Artigo IV) incide sobre a parte de contrato do salário. Considerei que não. Se incidir, ele perde 10 ouros por mês e hoje teria **~231**.
+2. **A bancada de alquimia.** No Cap. XXXVI eu escrevi que a Nevasca e o Trovão eram de qualidade Superior. Pelas regras de alquimia, isso exige bancada, então assumi que ele comprou uma nos três meses não narrados. Sem ela, as duas poções seriam Padrão e a dose teria sido letal. Se preferir outra explicação, os 30 ouros voltam e ele fica com **~291**.
+3. **O cavalo de carga.** Foi Eveline quem arranjou, e eu contei como dele. Pode ser da guilda.
+4. **Dois Aurel.** Criei no Cap. XXXVI o feiticeiro Aurel Vrána, autor da entrada da Miriápode. O documento de economia já tinha o Mestre Aurel, taxidermista de Thara. Sugiro trocar o primeiro nome do feiticeiro.
+
+**20 de Maio de 852 — Forte Imperador. Fim da manhã.**
+
+*A água da tina já tinha esfriado quando saí dela.*
+
+*Svana esperava do outro lado da cortina do anexo, de costas, com a toalha estendida no braço como um estandarte de paz. Não disse nada sobre a cor da água. Não disse nada sobre o tempo que eu tinha passado lá dentro. Svana tinha esse talento raro de não dizer nada do jeito certo, e eu pagava trinta pratas por mês, em boa parte, por ele.*
+
+*A armadura estava estendida sobre o baú, peça por peça, na ordem em que eu a vestia. Ela tinha limpado tudo. O gambeson já não tinha a manga dura de sangue seco; alguém tinha esfregado aquele azul-escuro com sabão de cinza e água fervida até o tecido voltar a ser tecido. A brigantina brilhava preta e fosca nos rebites. Os elos do hauberk, que eu tinha certeza de ter trazido salpicados de verde, estavam limpos e untados de óleo. Ela tinha feito tudo isso enquanto eu estava dentro da água olhando para o teto.*
+
+André: "Você lavou o gambeson."
+
+Svana: "Esfreguei, senhor. Lavar de verdade leva dois dias para secar, e o general chega hoje." — ela me estendeu a túnica de seda. — "O sangue saiu quase todo. O que ficou, ninguém vê debaixo da brigantina."
+
+*O que ficou, ninguém vê. Vesti a seda, depois o aketon, depois o gambeson, e deixei que ela afivelasse as correias das costas, onde a mão não chega. As cãibras do Trovão ainda mordiam as coxas e os ombros cada vez que eu levantava os braços — uma dor surda, funda, a conta que o corpo cobrava depois de ter sido forte demais por dez minutos. Engoli a dor do jeito que se engole um pedaço de pão duro: devagar, mastigando, sem fazer cara.*
+
+*Quando ela fechou a última fivela da brigantina e me alcançou o cinto da espada, eu já estava pensando em outra coisa.*
+
+André: "Vou dar uma volta pelo forte."
+
+Svana: "Os tenentes fizeram a ronda das dez, senhor. O tenente Jorolav passou aqui para avisar que estava tudo em ordem."
+
+André: "Eu sei."
+
+*E sabia. Eu tinha quatro tenentes que confiavam em mim e em quem eu confiava, quinze sargentos que sabiam de cor o nome de cada homem do quarteirão, uma Ordenança que corria sozinha como um moinho bem montado, e nenhuma necessidade, nenhuma, de andar pelo forte numa manhã em que eu mal conseguia levantar o braço sem trincar os dentes. Mas eu precisava ver. Não as coisas: as pessoas fazendo as coisas. Era a única maneira que eu conhecia de tirar da cabeça uma menina sem nome deitada no capim da beira de uma estrada.*
+
+*Afivelei a espada e saí.*
+
+---
+
+*O sol de maio batia em cheio na praça de armas, e o Forte Imperador inteiro respirava.*
+
+*Três meses antes, aquele chão era um retângulo de lama riscado a fogo. Agora o fosso estava cheio d'água até a metade — o degelo tinha feito exatamente o que Radim prometera —, e o canal sob a muralha oeste corria limpo, com um gorgolejo de riacho de aldeia que eu tinha aprendido a ouvir à noite como quem ouve um relógio. As ruas entre os quarteirões eram de cascalho batido. Os varais da forja tinham trocado as maçãs secas de fevereiro por tiras de carne de caça defumando ao sol, e o cheiro de fumaça, gordura e ferro quente pairava sobre a linha norte como uma bandeira.*
+
+*Na praça, uma companhia inteira treinava a Parede. Duas linhas de duzentos homens fechavam e abriam ao toque de Milos — longo, dois curtos —, e o barulho dos escudos se encontrando era um só, um CLAC de porta de celeiro batendo, sem o desencontro de fevereiro, quando cada escudo chegava um pouco depois do vizinho. Jorolav andava atrás da segunda linha com as mãos de tábua cruzadas nas costas, e cada vez que um homem baixava o escudo meio palmo, a mão do tenente aparecia no ombro dele como um castigo de pedra.*
+
+*Fui andando devagar pela borda da praça. Não precisei chamar ninguém: em vinte passos, eu tinha um sargento ao lado.*
+
+Sargento Kuba: "Capitão! Capitão, bom dia, senhor!"
+
+*Kuba de Dubrava tinha dezenove anos e a braçadeira de couro cru havia três semanas, e usava a braçadeira como outros homens usariam uma coroa. Era bom sargento — sabia os nomes, corria antes de ser mandado, não bebia além da ração —, mas tinha aquele defeito que só o tempo cura: queria ser visto sendo bom.*
+
+Sargento Kuba: "O senhor vai inspecionar a Parede? Eu posso mandar formar a minha esquadra, senhor, a terceira do quarteirão de Dubrava, a gente fecha a tartaruga em catorze batidas agora, o tenente Jorolav cronometrou ontem—"
+
+André: "Treze. A divisão fecha em treze."
+
+Sargento Kuba: "A divisão fecha em treze, senhor, mas a minha esquadra sozinha fecha em—" — ele percebeu que estava se afogando e mudou de rumo sem trocar de fôlego. — "O senhor está com uma cara ótima hoje, capitão. Ouvi dizer que o senhor matou um bicho na floresta do tamanho de uma carroça. Os homens do portão disseram que a cabeça era maior que a de um boi. Que o senhor cortou as duas tenazes dele com dois golpes e—"
+
+André: "Foram cinco golpes. E eu quase perdi uma perna."
+
+Sargento Kuba: "...Cinco golpes, senhor. Ainda assim."
+
+*Deixei que ele me seguisse. Era mais fácil do que mandá-lo embora, e um puxa-saco atento ainda é um par de olhos.*
+
+*Passamos pela forja. Mestre Vavra tinha nove bigornas cantando ao mesmo tempo, e as pontas de ferrão saíam da última delas com o fio azulado da têmpera, uma a cada poucos fôlegos, para cair numa tina de óleo com um chiado de cobra. Vavra me viu e ergueu o martelo sem parar o ritmo — o cumprimento dele, que valia mais que qualquer continência. Passamos pelo celeiro, onde Jarv contava sacos com o olho bom e brigava com um carroceiro com o olho leitoso. Passamos pela fila do rancho da manhã, que já tinha acabado e que deixara para trás o cheiro de mingau e de pão de trigo. Um velho lanceiro que eu reconheci dos primeiros dias — um dos cinquenta veteranos de fevereiro, de barba grisalha — tirou o gorro quando passei, e não precisava.*
+
+*Havel treinava a cavalaria fora da muralha, no campo rio abaixo. Daqui, eu via só a poeira e ouvia o trovão abafado de cinquenta e duas montarias em linha. O galo, no mastro, olhava tudo de cima como um general que delegou o trabalho e se reservou o direito de reclamar.*
+
+Sargento Kuba: "É bonito, não é, senhor? Quando eu entrei, em março, o meu pai disse que eu ia morrer de disenteria numa vala. Ele não acreditou quando eu mandei o soldo. Ele mandou o padre de Dubrava ler a carta duas vezes, porque achou que o padre estava mentindo."
+
+*Olhei para ele. Pela primeira vez naquela manhã, o rapaz não estava tentando impressionar ninguém.*
+
+André: "Teu pai ainda acha que você vai morrer?"
+
+Sargento Kuba: — o sorriso dele ficou menor e mais verdadeiro — "Agora ele acha que eu vou morrer *rico*, senhor."
+
+*Foi no meio do sorriso dele que os gritos começaram.*
+
+---
+
+*Vinham do quarteirão de Zelenice, perto da fileira de tendas dos seguidores — o trem, as lavadeiras, as cozinheiras, as famílias que tinham vindo atrás dos homens e que viviam em barracas menores encostadas à muralha leste. Não eram gritos de treino. Eram vozes de homem, muitas, altas e se atropelando, e no meio delas uma palavra que eu conhecia bem demais e que, naquele forte, não tinha sido dita até então.*
+
+*Kuba parou de sorrir.*
+
+*Andei mais rápido. Doía. Não me importei.*
+
+*Quando dobrei a esquina da última tenda, havia uns trinta homens em roda, e mais vinham correndo das ruas vizinhas. No meio da roda, três soldados seguravam um quarto. Seguravam do jeito que se segura um porco que já tentou fugir duas vezes: um em cada braço, torcidos para trás, e o terceiro com o punho enfiado no cabelo dele, puxando a cabeça para cima para que todo mundo visse o rosto. E o rosto já tinha apanhado. O nariz escorria sangue sobre a boca, um olho estava fechando, e havia barro no cabelo e na túnica até a cintura.*
+
+Soldado: "—PORCO! Vagabundo! Fez isso com uma de nós, com uma de NÓS—"
+
+Outro soldado: "Tem que cortar! Tem que cortar fora e enfiar na boca dele—"
+
+Outro: "Pra forca! Pra forca com ele!"
+
+*Entrei na roda.*
+
+*Não precisei dizer nada. A primeira fileira me viu e recuou meio passo; a segunda viu a primeira recuar e calou a boca; e o silêncio correu pela roda de trás para a frente como água corre num sulco de arado, até que a única coisa que se ouvia no quarteirão de Zelenice era a respiração entupida de sangue do homem que estava sendo segurado.*
+
+*Olhei para os três que o seguravam. Depois olhei para ele. Depois para os três de novo.*
+
+André: "Espero que vocês tenham um motivo muito bom para isto." — não levantei a voz. Não precisei. — "Porque se não tiverem, eu tenho quatro homens criando desordem dentro do meu forte, e a Ordenança tem um artigo inteiro sobre isso, e vocês quatro vão conhecer cada linha dele de perto. Falem."
+
+*O que segurava o cabelo do homem — um sujeito de ombros largos e barba ruiva, de quem eu sabia o rosto mas não o nome — engoliu em seco e falou.*
+
+Soldado ruivo: "Capitão. Ele estava bêbado, senhor. Bêbado no meio da manhã. E ele agarrou uma das moças do trem, senhor, uma das lavadeiras. Uma menina de dezoito anos. Arrastou ela para trás das barracas, e ela gritou, e graças aos deuses ela gritou, capitão, porque a gente estava ali do lado. Pegamos ele com a mão nela. Em cima dela. Segurando."
+
+*A roda inteira murmurou, um murmúrio grosso que subiu e desceu de novo quando eu ergui a mão.*
+
+André: "Onde está a moça?"
+
+*Uma brecha se abriu na roda, do lado das barracas, e uma moça passou por ela. Tinha dezoito anos, como disseram, talvez menos aparentados, porque a fome do sul do Aurach envelhecia as pessoas por fora e as deixava meninas por dentro, ou o contrário. Cabelo castanho preso num pano, avental de lavadeira molhado até o peito, os braços nus até o cotovelo. E nos braços, acima dos pulsos, as marcas: quatro dedos de um lado, um polegar do outro, vermelhas e já começando a arroxear. Dedos de homem. Dedos fortes.*
+
+*Ela não chorava. Tinha os olhos baixos e os braços cruzados sobre o peito, e outras duas mulheres do trem a seguravam pelos ombros.*
+
+*Eu não precisava perguntar mais nada. Estava na pele dela.*
+
+*E havia um único caminho para aquilo. Eu tinha escrito o Artigo VIII com a minha própria mão, numa noite de fevereiro, à luz de uma vela de sebo: as mulheres e as famílias do trem são intocáveis. Eu tinha mandado erguer a forca do lado de fora do portão sul para que nunca precisasse usá-la e para que todo homem daquele forte passasse por ela toda manhã a caminho do campo e soubesse que ela existia. E um soldado meu tinha posto as mãos numa das nossas. Não numa mulher de Drennor, não numa prisioneira, não numa estranha numa estrada: numa das nossas.*
+
+*Andei até o homem que estava sendo segurado.*
+
+André: "Teu nome."
+
+Soldado acusado: "Capitão — capitão, por favor — eu não — pelos deuses, capitão, me escuta, eu não fiz o que eles estão dizendo, eu juro pela minha mãe, pela vida dos meus filhos, capitão, eu tenho dois filhos em Zelenice, eu—"
+
+*Meu punho acertou o rosto dele antes que ele terminasse a frase.*
+
+*Foi um soco curto, de baixo para cima, com a luva sem dedos e o peso do corpo inteiro atrás, e o nariz que já estava quebrado se quebrou de novo. O sangue espirrou quente na minha mão, no meu rosto, no peito da brigantina que Svana tinha acabado de limpar. Os dois homens que seguravam os braços dele cambalearam junto com o tranco.*
+
+André: — e dessa vez a voz saiu alta, de capitão diante da praça, e com tudo o que eu vinha engolindo desde as seis da manhã — "EU PERGUNTEI O TEU NOME!"
+
+Soldado acusado: — cuspindo sangue, a voz em pedaços — "Ctibor... Ctibor Mareš... de Zelenice... lanceiro, capitão, segunda linha, da Parede... capitão, ela... ela se ofereceu, capitão. Eu juro. Ela se ofereceu pra mim. Eu não peguei ninguém à força, ela veio, ela—"
+
+*A roda explodiu em xingamentos.*
+
+*Mas eu não estava olhando para ele. Estava olhando para ela.*
+
+*Foi meio segundo, talvez menos. Quando o homem disse "ela se ofereceu", a moça ergueu os olhos do chão — não para ele, não para mim, mas para os lados, rápida, como quem confere uma porta — e depois voltou a baixar. Não era medo, ou não só medo. Eu tinha visto aquele olhar antes, muitas vezes, nos jogos de dados dos mercenários de Caius, na cara do sujeito que tinha acabado de jogar e ainda não sabia se ia ganhar ou perder.*
+
+*Guardei aquilo onde eu guardo as coisas que ainda não sei onde pôr.*
+
+*Peguei Ctibor pela gola da túnica, arranquei-o das mãos dos três e o joguei na lama. Ele caiu de lado, e eu chutei a barriga dele uma vez, com a bota, e ele se dobrou em volta do pé como uma folha seca em volta de um galho.*
+
+André: "Levem ele para a forca."
+
+*O rugido da roda foi de festa. Ergui a mão de novo, e o rugido morreu pela metade.*
+
+André: "Eu disse *para a forca*. Não disse *enforquem*. Amarrem ele no tronco do cadafalso, ao lado da forca, e ponham dois homens de guarda. Ninguém toca nele. Ninguém joga uma pedra, ninguém cospe, ninguém encosta um dedo, porque o próximo que encostar vai para o tronco do lado. Ele vai a julgamento. É o que diz a Ordenança. Kuba."
+
+Sargento Kuba: — pálido, mas firme — "Senhor!"
+
+André: "Você e o ruivo. Levem."
+
+*Eles levaram.*
+
+---
+
+*A forca ficava do lado de fora do portão sul, a vinte passos da ponte de terra, num tablado de toras erguido no fim de março. Tinha dois homens de altura e uma travessa de carvalho, e a corda que pendia dela nunca tinha sido usada; o cânhamo ainda tinha a cor clara de corda nova. Ao lado, mais baixos, os cadafalsos das penas leves: três troncos com argolas de ferro para prender os pulsos, onde um homem que tivesse faltado à ronda ou brigado no rancho ficava uma hora ou duas com as mãos presas, enquanto os colegas, de passagem, lhe atiravam lama na cara. Era o castigo mais popular do forte. Os homens riam, o castigado ria quando o soltavam, e ninguém queria passar por aquilo duas vezes. Eu tinha pensado nos troncos com cuidado: castigo que diverte a tropa sobe a moral, e castigo que ninguém quer repetir mantém a ordem.*
+
+*A forca, eu tinha pensado com mais cuidado ainda. Era a última coisa na escada das penas, e a única que eu esperava nunca usar. Mandei erguê-la para que estivesse ali, todo dia, à vista de todos, como uma frase escrita em madeira: eu cumpro a lei inteira. Não metade, não a parte confortável. A lei inteira, até o último degrau, se o crime for do tamanho do degrau.*
+
+*E aquele crime era.*
+
+André: "Vít."
+
+*O escrivão apareceu do meu lado como se estivesse ali desde sempre, o livro debaixo do braço e a pena atrás da orelha.*
+
+André: "Quero tudo sobre o Ctibor Mareš. Família, onde mora, o que tem, o que faz aqui, há quanto tempo está aqui, quem recrutou, se já teve falta, se bebe, com quem divide a barraca. Tudo. Antes do meio-dia."
+
+Vít: "Sim, capitão."
+
+*Ele saiu, e eu fiquei olhando para a roda que se desfazia devagar, homens voltando aos quarteirões em grupos de três e quatro, falando baixo, olhando para trás.*
+
+*E então Nerith estava ali.*
+
+*Não a vi chegar. Nunca via. Ela tinha a capa preta jogada sobre os ombros e o rosto daquele jeito que eu já conhecia, imóvel por fora e fervendo por dentro, e havia um brilho violeta nas pontas dos dedos que ela não se dava ao trabalho de esconder.*
+
+Nerith: "O que aconteceu?"
+
+*Contei. Curto, sem enfeite: o grito, os três homens, a moça, as marcas nos braços, o nome. A cada frase, o violeta subia mais um dedo na mão dela, até que no fim os dedos inteiros da mão direita estavam envoltos numa luz que fazia o ar em volta tremer como sobre uma chapa quente.*
+
+Nerith: "Onde ele está?"
+
+André: "Amarrado no tronco, ao lado da forca."
+
+*Ela se virou na direção do portão sul.*
+
+André: "Nerith."
+
+Nerith: "Eu só vou olhar para ele."
+
+André: "Não vai."
+
+*Ela parou. Virou a cabeça devagar.*
+
+Nerith: "Gatinho. Um homem desta divisão pôs as mãos numa menina de dezoito anos que lava as nossas roupas. Eu sei exatamente o que se faz com isso. Eu faço em três segundos, e você nem precisa gastar a corda."
+
+André: "Eu não dei a sentença."
+
+Nerith: "Você precisa de uma sentença para—"
+
+André: "Preciso." — e dessa vez eu a encarei de frente, e falei baixo, do jeito que eu falo quando não vou repetir. — "Preciso de uma sentença para tudo o que acontece neste forte. É por isso que ele é um forte e não um acampamento de bandido. Ninguém pune por conta própria. Está escrito no Artigo I. Você estava lá quando eu escrevi." — pausa. — "E você sabe muito bem quem é o seu superior aqui, tenente."
+
+*O violeta morreu nos dedos dela como uma vela que se apaga com dois dedos molhados.*
+
+*Ela não respondeu. Comprimiu os lábios numa linha fina, cruzou os braços por baixo da capa e desviou o olhar para o portão, emburrada como eu nunca a tinha visto — uma emburração quieta, de quem perdeu a discussão e sabe que perdeu com razão, que é o pior jeito de perder.*
+
+*Andei na direção das barracas do trem. Depois de três passos, ouvi as botas de salto dela atrás de mim.*
+
+*Não falei nada. Ela também não.*
+
+---
+
+*A moça estava sentada num caixote de sabão na frente de uma das barracas do trem, com as duas mulheres que a tinham segurado e mais três ou quatro em volta, todas falando ao mesmo tempo e baixo, do jeito que as mulheres falam em volta de uma que se machucou. Quando me viram chegar, as vozes pararam todas de uma vez.*
+
+André: "Preciso falar com ela. A sós."
+
+Uma das mulheres: — uma senhora gorda de braços de amassar pão, desafiadora — "Com todo o respeito, capitão, a menina já passou por coisa demais hoje pra ficar sozinha com—"
+
+André: "A tenente Nerith vai estar junto."
+
+*A senhora olhou para Nerith. Nerith olhou para a senhora. A senhora deu um passo para trás.*
+
+*Levei a moça até a tenda de comando. Nerith entrou atrás de nós e fechou a aba. Lá dentro, longe do sol, a moça pareceu menor, encolhida no banco onde eu a mandei sentar, os braços marcados cruzados sobre o peito. Sentei na frente dela, do outro lado da mesa de campanha. Nerith ficou de pé, encostada no mastro da tenda, de braços cruzados.*
+
+André: "Como você se chama?"
+
+Moça: "...Hedvika, senhor."
+
+André: "De onde?"
+
+Hedvika: "De Stromov."
+
+*Stromov. A vila a nordeste, que tinha queimado no outono.*
+
+André: "Hedvika, eu preciso que você me conte o que aconteceu. Tudo. Do começo. Onde você estava, o que estava fazendo, o que ele disse, o que você disse, onde ele pôs as mãos e quando. Cada coisa."
+
+*Ela ficou calada. Olhou para o chão. Depois para as próprias mãos.*
+
+Hedvika: "Eu já disse. Os homens já disseram. Todo mundo viu."
+
+André: "Eu não vi. E sou eu que vou dar a sentença. Então eu preciso ouvir de você."
+
+Hedvika: "Pra quê? Pra decidir se eu mereci?"
+
+André: "Para decidir o que aconteceu."
+
+*Ela ergueu os olhos, e havia uma coisa dura neles agora, uma coisa que se armava.*
+
+Hedvika: "Vocês são todos iguais. O senhor é capitão, mas é igual. Um homem bota as mãos numa mulher, e a primeira coisa que os homens querem saber é o que *ela* fez. O que *ela* disse. Onde *ela* estava. O senhor vai proteger ele, não vai? Porque ele é seu soldado. O senhor é conivente com estu—"
+
+*O tapa estalou na tenda como um galho seco partido.*
+
+*Nerith não tinha descruzado os braços para chegar até a mesa. Tinha descruzado só a mão direita, no último instante, e a mão abriu o rosto da moça de lado, e voltou para debaixo da capa tão depressa quanto saíra. Hedvika levou a mão à bochecha, os olhos arregalados.*
+
+Nerith: — sem levantar a voz, que era o jeito dela de gritar — "Você vai respeitar o capitão. Ele mandou amarrar o teu agressor no tronco do lado da forca, do lado de fora do portão, na frente de seiscentos homens, sem perguntar a ninguém. Ele está aqui perguntando a *você*. Responde o que ele pergunta."
+
+*Não interferi. Talvez devesse. Mas Nerith tinha sido vendida pelo pai por cinco pratas, e se havia uma pessoa naquela tenda que sabia o que era um corpo de mulher tratado como mercadoria, não era eu. Ela tinha os seus motivos para estar com raiva, e eu não ia lhe tirar aquilo.*
+
+André: "Hedvika. Eu vou perguntar mais uma vez. Do começo."
+
+*Ela demorou. Muito. Esfregou a bochecha, depois os braços, depois as mãos uma na outra. Quando falou, a voz já não tinha a dureza de antes.*
+
+Hedvika: "Eu estava estendendo roupa atrás das barracas. Perto da muralha. Ele apareceu. Estava bêbado, dava pra sentir de longe. Ele disse... ele disse que tinha recebido o soldo, que tinha dinheiro guardado, que era viúvo e se sentia sozinho, e que..."
+
+André: "E que..."
+
+Hedvika: — muito baixo — "...que me dava dez pratas se eu deitasse com ele. Atrás das barracas. Rápido."
+
+*Nerith ficou imóvel encostada no mastro.*
+
+André: "E você?"
+
+*Ela não respondeu. Fechou os olhos.*
+
+André: "Hedvika."
+
+Hedvika: "...Eu peguei as moedas."
+
+*O silêncio na tenda ficou tão denso que eu ouvia, lá fora, o martelo de Vavra na linha norte.*
+
+Hedvika: "Eu peguei as moedas. E aí eu gritei. Gritei como se ele estivesse me agarrando. Ele ficou assustado, ele não entendeu, ele... ele me segurou pelos braços pra eu parar de gritar, ele dizia 'cala a boca, cala a boca, pelos deuses, cala a boca', e foi aí que os homens chegaram. E viram ele me segurando."
+
+*Ninguém disse nada por um tempo.*
+
+*Depois Nerith desencostou do mastro.*
+
+Nerith: "Por quê?"
+
+Hedvika: "Eu achei que... que ia dar certo. Que eu ficava com as dez pratas e ele não ia ter como dizer nada, porque quem ia acreditar num bêbado? Os homens iam bater nele, e ele ia ficar quieto, e eu ia..." — a voz sumiu. — "Eu achei que conseguia me safar."
+
+André: "Você tem família aqui? Alguém no trem? Mãe, irmão, alguém que dependa de você?"
+
+Hedvika: "Não tenho ninguém. Minha família toda ficou em Stromov."
+
+*Foi a vez de Nerith atravessar a tenda.*
+
+*O segundo tapa foi mais forte que o primeiro, e Hedvika caiu meio de lado no banco, e Nerith se inclinou sobre ela com as duas mãos na mesa e o rosto a um palmo do dela, e quando falou, a voz tinha uma coisa que eu nunca tinha ouvido nela — não raiva só, mas uma espécie de nojo antigo, de coisa velha que voltava.*
+
+Nerith: "Se você tivesse uma mãe doente, eu entenderia. Se você tivesse um irmão pequeno morrendo de fome numa barraca, eu entenderia. Se alguém estivesse te obrigando, eu mesma ia lá fora agora e quebrava os dedos de quem fosse. Mas você não tem ninguém. Você fez isso por dez pratas. Por *ganância*. E você ouviu os homens lá fora, menina? Você ouviu o que eles estavam gritando? 'Pra forca. Cortem fora. Enfiem na boca dele.' Se o capitão fosse outro homem — se fosse o capitão que esta divisão tinha antes dele —, aquele imbecil bêbado já estaria pendurado na corda agora, de olho virado, com a língua roxa para fora. Um homem que, por mais imbecil que seja, não fez o que você disse que ele fez. E aquele sangue ia estar na tua mão. E na *dele*." — ela apontou para mim sem tirar os olhos da moça. — "Você ia sujar a mão dele com o sangue de um inocente. Por dez pratas."
+
+*Hedvika chorava agora, de verdade, um choro sem som, os ombros sacudindo.*
+
+*Levantei e fui até a aba da tenda.*
+
+André: "Guardas."
+
+*Os dois lanceiros de guarda entraram.*
+
+André: "Levem ela até a forca. Fica sob guarda, perto do tronco do Ctibor. Ninguém toca nela."
+
+*Hedvika se levantou de um salto quando eles a pegaram pelos braços.*
+
+Hedvika: "Não — não, capitão, por favor, pelo amor dos deuses, eu falei a verdade, eu falei tudo, o senhor pediu e eu falei! Capitão! Eu devolvo as moedas! Eu devolvo! Por favor — não me leva pra forca, eu não tenho ninguém, eu não tenho ninguém—" — e quando viu que não adiantava, que os guardas a arrastavam e eu não me movia, o choro virou outra coisa. — "Maldito! Maldito, você e essa bruxa! Que os deuses te queimem, que a Chama te pegue, você e todo mundo que—"
+
+*A aba fechou e cortou o resto.*
+
+---
+
+*Ficamos sozinhos na tenda, Nerith e eu.*
+
+*Ela ficou parada no meio do chão por um tempo, olhando para a aba fechada, as mãos ainda tremendo de leve. Depois se virou para mim, e o rosto dela tinha perdido a pedra.*
+
+Nerith: "Gatinho... me desculpa."
+
+André: "Pelo quê?"
+
+Nerith: "Lá fora. Quando você me mandou não ir. Se fosse eu, eu tinha ido. Eu tinha ido até aquele tronco e feito ele em pedaços antes de você conseguir abrir a boca. E ele não tinha feito." — ela respirou fundo. — "Eu ia ter matado um homem por causa de uma mentira. Eu ia ter agido com imprudência, do mesmo jeito que na grota."
+
+*Olhei para ela. Pensei em dizer alguma coisa sobre a grota, sobre a clareira, sobre o que eu sabia e o que ela achava que eu não sabia. Não disse.*
+
+André: "Você parou quando eu mandei. É isso que importa."
+
+*Ela não respondeu, mas os ombros dela baixaram um dedo.*
+
+André: "E agora vem a parte difícil."
+
+Nerith: "Difícil? Ela mentiu. Ele é inocente. É só soltar um e—"
+
+André: "Não é inocente." — sentei na beira da mesa e esfreguei o rosto com a mão que ainda tinha o sangue dele seco nos nós dos dedos. — "Ele estava bêbado no meio da manhã, e a ração de cerveja não deixa ninguém bêbado no meio da manhã. Então ele guardou, ou comprou de algum mascate, e isso já é falta. Ele foi atrás das barracas do trem, que é onde os homens não vão, e ofereceu dinheiro a uma menina de dezoito anos sem família, que lava roupa por cobre e come do que sobra do rancho. Ele sabia exatamente para quem estava oferecendo. Escolheu ela porque ela não tinha ninguém. E quando ela gritou, ele pôs as mãos nela." — fiz uma pausa. — "Ela mentiu sobre o que ele fez. Ele não mentiu sobre o que ela fez. Mas os dois sabiam o que estavam fazendo, Nerith. A mentira dela é maior que o pecado dele. O pecado dele é mais feio que a mentira dela. Eu tenho de pesar as duas coisas na mesma balança, na frente de seiscentos homens que já decidiram tudo antes de mim."
+
+*Nerith ficou calada. Depois, devagar:*
+
+Nerith: "E o que você vai fazer?"
+
+André: "Vou fazer eles ouvirem."
+
+*Levantei e saí da tenda.*
+
+---
+
+*Bellatrix tinha subido à torre sudoeste uma hora antes, quando Svana, servindo o vinho da manhã com as mãos menos firmes do que de costume, contou o que tinha visto na rua de Zelenice — não por segredo, mas porque aquilo não era segredo, era notícia, e notícia corre num forte mais depressa que água no canal.*
+
+*Da torre, ela via tudo: a ponte de terra, o portão sul, o tablado da forca com o homem amarrado no tronco do lado e a moça sentada no chão sob guarda, a vinte passos dele, e a multidão que se juntava devagar, quarteirão por quarteirão, como uma maré enchendo uma enseada. Os sentinelas da torre, dois rapazes com as bestas de Drennor apoiadas nas ameias, tinham-lhe cedido o canto da plataforma sem que ela pedisse — os soldados da Décima Segunda tinham aprendido em três meses que era mais fácil ceder um canto à tenente de olhos lilás do que descobrir o que acontecia quando não cediam.*
+
+*Ela tirou da manga um biscoito de amêndoa, partiu-o ao meio e comeu a metade devagar, os olhos fixos lá embaixo.*
+
+Bellatrix: — para si mesma, ou para o vento — "Vamos ver, menino. Vamos ver como se pesa uma mentira na frente de uma multidão que já quer sangue."
+
+---
+
+*Quando atravessei o portão sul, a multidão já estava inteira lá fora: seiscentos, setecentos homens, talvez mais, espalhados pelo capim entre a ponte de terra e a forca, com os sargentos tentando manter algum desenho de fileira e desistindo. As mulheres do trem estavam num canto, juntas, de braços cruzados. Os tenentes tinham chegado — Jorolav na frente, como uma parede de um homem só; Mathias com o livro; Jarv com o olho bom vigiando tudo; Svan encostado no pé da torre, olhando para os rostos como olhava para as pegadas de um bicho. Nerith tinha vindo atrás de mim e parou ao pé do tablado.*
+
+*Quando os homens viram que eu ia até onde estava a moça, e não até o tronco, o murmúrio começou.*
+
+Soldado: "...vai soltar ele..."
+
+Outro: "...vai é pegar a menina, olha lá..."
+
+Outro: "...falei que ia proteger o homem dele, falei..."
+
+Outro: "...capitão não ia fazer isso, o capitão..."
+
+*Peguei Hedvika pelo braço. Ela gritou e tentou se soltar, e eu não deixei. Levei-a pelos degraus de tora até o alto do tablado, até debaixo da travessa de carvalho, até onde a corda clara pendia vazia a um palmo da cabeça dela. Ela olhou para cima, para o laço, e a cor fugiu inteira do rosto dela.*
+
+*O murmúrio virou um rumor grosso, de bicho. Alguém gritou "É ELA A VÍTIMA!", e outros repetiram.*
+
+*Me inclinei até a orelha de Hedvika, de costas para a multidão, e falei baixo, tão baixo que só ela ouviu.*
+
+André: "Você vai contar a eles o que me contou. Tudo. Do começo. Em voz alta, para o último homem lá de trás ouvir."
+
+Hedvika: — num fio — "Eles vão me matar..."
+
+André: "Talvez. Mas me escuta, e escuta bem: a lei de Karên me deixa usar esta corda em você. Você criou desordem numa divisão em campanha, jogou soldado contra soldado, fez homens espancarem um companheiro e pedirem a morte dele com base numa mentira. Isso tem nome em tempo de guerra. Chama-se sabotagem. E a pena de sabotagem contra a tropa é esta coisa que está pendurada em cima da tua cabeça."
+
+*Ela começou a tremer inteira.*
+
+Hedvika: "Por favor... por favor, senhor... eu não sabia, eu não..."
+
+André: "Então conta. Agora. É a tua única chance de descer deste tablado andando."
+
+*Ela olhou para mim. Olhou para a corda. Olhou para os setecentos rostos lá embaixo.*
+
+*E contou.*
+
+*Contou em prantos, com a voz quebrando a cada três palavras, e eu a fiz recomeçar duas vezes quando a voz sumiu, mais alto, até que a última fileira ouvisse: as dez pratas, as moedas na mão, o grito falso, o homem tentando calar a boca dela, os soldados chegando. Quando ela disse "eu achei que conseguia me safar", a multidão já não murmurava. Estava calada como um campo antes da tempestade.*
+
+*E então o campo desabou.*
+
+Soldado: "VADIA!"
+
+Outro: "VAGABUNDA! Desgraçada! Quase mataram o homem por causa de você!"
+
+Outro: "CRIA DO DIABO!"
+
+Outro: "Pra forca! PRA FORCA COM ELA!"
+
+*E o grito pegou, como pega o fogo em palha seca, e em três fôlegos centenas de homens que meia hora antes pediam a corda para o Ctibor pediam a corda para a moça com a mesmíssima fome, o mesmo rosto, a mesma boca aberta. Hedvika caiu de joelhos no tablado e cobriu a cabeça com os braços.*
+
+André: "SILÊNCIO!"
+
+*Não foi o meu grito que os calou. Foi Jorolav, lá embaixo, dando um passo à frente, e logo atrás dele os outros três tenentes, e Milos, do pé da torre, levando a corneta à boca e soltando três toques curtos — recuar — que metade daqueles homens obedeceu antes de entender que não era treino. O silêncio voltou aos pedaços.*
+
+*Desci os dois degraus do tablado, fui até o tronco, soltei as argolas dos pulsos de Ctibor Mareš e o levei para cima também. Ele subiu mancando, com o olho fechado e o nariz torto, olhando para a corda como Hedvika tinha olhado. Pus os dois lado a lado debaixo da travessa. A moça ajoelhada. O homem de pé, mal se equilibrando.*
+
+*Virei para a multidão.*
+
+André: "Olhem bem para estes dois. Os dois. Olhem.
+
+"Uma hora atrás, vocês queriam pendurar este homem nesta corda. Agora querem pendurar esta moça na mesma corda. A mesma boca, o mesmo grito, uma hora de diferença. É por isso que esta corda é minha, e não de vocês. É por isso que está escrito no Artigo I que ninguém pune por conta própria neste forte. Porque se a corda fosse de vocês, ela já teria matado um homem hoje, e agora estaria matando uma mulher, e amanhã vocês não iam saber direito qual dos dois mereceu."
+
+*Ninguém respondeu. Deixei o silêncio pesar um pouco.*
+
+André: "Eu tenho motivo para punir os dois. E vou punir os dois.
+
+"Um crime é mais grave do que o outro, e todo mundo aqui sabe qual. Mas eu não vou aceitar caos neste forte. Não vou aceitar discórdia, homem contra homem, quarteirão contra quarteirão. Não vou aceitar mentira, e não vou aceitar extorsão. E não vou aceitar mais uma coisa, e quero que vocês gravem isto, porque a partir de hoje é lei: dentro desta divisão não se compra mulher. Ninguém paga por corpo neste acampamento. Nem com prata, nem com cobre, nem com pão, nem com uma ração dobrada.
+
+"Vocês sabem quem são as mulheres do nosso trem. São as viúvas de Dornefeld. São as filhas de Stromov e de Kragenhall. São mulheres que a guerra deixou sem casa, sem marido, sem pai, sem nada além do que conseguem carregar nas costas e lavar com as mãos. Elas fariam qualquer coisa por umas moedas de prata — e é exatamente por isso que nenhum homem meu vai oferecer. Quem oferece sabe para quem está oferecendo. Escolhe a que não tem ninguém. Eu não comando homens que escolhem a que não tem ninguém."
+
+*Virei para Ctibor.*
+
+André: "Ctibor Mareš, de Zelenice. Lanceiro da segunda linha da Parede. Você estava bêbado em serviço, o que a ração não permite. Você foi atrás das barracas do trem oferecer prata a uma menina sem família, o que de hoje em diante esta divisão proíbe. E quando ela gritou, você pôs as mãos nela, e o Artigo VIII diz que as mulheres do trem são intocáveis, seja qual for o motivo da mão. Mas você não fez o que ela disse que você fez, e apanhou como se tivesse feito, inclusive de mim." — pausa. — "Você está dispensado do serviço desta divisão. Vai receber o teu soldo até hoje e as tuas dez pratas de volta. E vai receber dezesseis pratas a mais, dois meses de soldo, como indenização pela surra e pela acusação. Do meu bolso. Volta para Zelenice. Volta para os teus filhos. E quando alguém lá perguntar por que você voltou, conta a verdade inteira, as duas metades."
+
+*Ctibor abriu a boca. Não saiu nada. Depois ele balançou a cabeça, uma vez, e as pernas dele cederam, e ele se sentou no tablado como um saco de grão.*
+
+*Virei para Hedvika.*
+
+André: "Hedvika, de Stromov. Você mentiu sobre um crime que a lei pune com a morte. Jogou homem contra homem dentro de uma divisão em campanha. Quase fez esta corda descer pela primeira vez sobre o pescoço errado. A lei me deixa usar esta corda em você." — ela soluçou mais alto. — "Não vou usar. Mas você está banida da Décima Segunda Divisão. Dois soldados vão te acompanhar até a tua barraca. Você pega o que é teu e sai. Daqui em diante, não pisa a menos de duzentos metros desta divisão, nem deste forte, nem de nenhum acampamento nosso, nunca mais. Se pisar, é tratada como sabotadora. As dez pratas do Ctibor ficam com ele."
+
+*Mathias, ao pé do tablado, escrevia tudo no livro, e a pena dele arranhava o pergaminho tão alto no silêncio que eu ouvia de cima.*
+
+*Me agachei diante de Hedvika, de forma que só ela me ouvisse, e o rosto dela, molhado, sujo de terra do tablado, ergueu-se devagar.*
+
+André: "Escuta uma última coisa. Se fosse outro capitão no meu lugar, ele não ia te mandar embora. Ia te chamar na tenda à noite e te dizer que você só não ia para a corda se pagasse por isso com o que você tem. Ou coisa muito pior. Já vi homem fazer isso por menos." — levantei. — "Seja mais inteligente da próxima vez, Hedvika. O mundo lá fora não tem Ordenança."
+
+*Ela não respondeu. Ficou olhando para mim como se eu fosse uma coisa que ela não sabia nomear.*
+
+*Fiz sinal aos guardas. Eles a ergueram, com mais cuidado do que antes, e a levaram pelos degraus, através da multidão que se abria em silêncio, até as barracas do trem. As mulheres do trem a viram passar sem dizer uma palavra. A senhora de braços de amassar pão desviou o rosto.*
+
+*Voltei para a beira do tablado. Pus a mão aberta na travessa de carvalho, ao lado do laço.*
+
+André: "Uma última coisa, e depois vocês voltam ao trabalho.
+
+"Esta forca não é uma ameaça. Eu não mandei construir esta coisa para que vocês tivessem medo. Mandei construir para que vocês soubessem que ela existe. É um instrumento da lei, como a fossa, como o tronco, como o Livro da Divisão. Hoje ela não foi usada. Eu espero, com tudo o que eu tenho, que ela nunca seja. Mas se um dia um homem desta divisão fizer o que vocês pensaram que o Ctibor fez — se fizer de verdade, com prova, com julgamento, com direito de fala —, esta corda vai descer. E quem der a sentença vai chutar o tronco debaixo dos pés dele com a própria bota. Eu. Pessoalmente. Porque quem condena um homem à morte e manda outro fazer o serviço não merece ser obedecido."
+
+*Desci do tablado.*
+
+*A multidão ficou parada mais um instante, como se esperasse mais alguma coisa. Depois se desfez, devagar, em grupos, de volta pelo portão, falando baixo. E a coisa que eu ouvi, passando entre eles, não foi o nome da moça nem o do homem. Foi o meu, e uma palavra junto que eu não estava acostumado a ouvir junto com o meu nome.*
+
+*Justo.*
+
+---
+
+*Lá em cima, na torre sudoeste, Bellatrix comeu a outra metade do biscoito.*
+
+Bellatrix: "Ah, menino." — e havia nela uma satisfação profunda, quase física, a mesma de quem acaba de ver uma peça de xadrez bem jogada num tabuleiro onde ela própria não tem lugar. — "Você não julgou o crime. Julgou a plateia. Mostrou a eles a cara deles mesmos, gritando pela forca duas vezes na mesma hora, e depois deu a cada um o que todos queriam dar: ao homem, a desonra e o dinheiro; à moça, o desprezo e a vida. Ninguém saiu daí achando que você foi fraco. E ninguém saiu achando que você foi cruel." — ela sacudiu as migalhas dos dedos enluvados sobre a ameia. — "O teu tio-avô de livro nunca soube fazer isso. Ele só sabia fazer as pessoas terem medo."
+
+*Os dois sentinelas da torre fingiram não ouvir.*
+
+*Lá embaixo, ao pé do tablado vazio, Nerith ficou parada olhando para André enquanto ele subia de volta pelo portão sul, rodeado dos tenentes, a mão direita ainda manchada do sangue de Ctibor. Não tinha dito nada durante o julgamento inteiro. Não ia dizer nada agora. Mas havia nela uma coisa que tinha mudado de lugar, como uma pedra que a água move um dedo por ano — uma coisa que talvez se parecesse com o que ela teria sentido, aos dez anos, se alguém tivesse parado o pai dela na porta da Torre de Selmyr e perguntado, diante de todos, quanto exatamente valia uma filha.*
+
+*Ela seguiu atrás dele, a dez passos. Como sempre.*
+
+---
+
+*O general chegou ao platô de Cravenmoor às duas da tarde, pela estrada do oeste, e chegou primeiro à Sétima.*
+
+*A coluna era pequena para um general: uma dúzia de guarda-costas de capas cinzentas com o cervo coroado de Karên bordado no peito, um escrivão de dedos manchados montado numa mula, três capitães de estado-maior e o próprio Hadrian, num cavalo cinzento velho que tinha a cara de quem já vira quatro invernos de guerra e não pretendia se impressionar com o quinto. Mas não foi o general que a Sétima olhou quando a coluna atravessou o portão sul do acampamento grande. Foi o homem que cavalgava à direita dele.*
+
+*Sir Jan Žižka de Trocnov montava um garanhão negro tão grande que os cavalos dos guarda-costas pareciam potros ao lado dele, e vinha vestido dos pés à cabeça numa armadura de placas que refletia o sol de maio como um espelho de ourives. Trazia o bascinete debaixo do braço, aberto, e por isso a Sétima inteira pôde ver o rosto: vinte e seis anos, queixo forte, olhos claros de quem nunca na vida teve de abaixá-los, e por cima do lábio um bigode espesso, castanho, de pontas aparadas com um cuidado que denunciava um espelho e um criado dedicados só a ele. Era o bigode mais famoso do Primeiro Exército. Dizia-se que Sir Jan nunca tinha perdido uma batalha, e era verdade; dizia-se que era o melhor espadachim montado de Karên, e era quase verdade; e dizia-se que tinha deixado uma donzela chorando em cada castelo entre Veldhal e o Aurach, e isso, até onde se sabia, era a verdade mais bem documentada do reino.*
+
+*Era primo do general, filho de casa nobre, sangue azul até a medula, e cavalgava com a postura exata, o sorriso exato e a vaidade exata de um cavaleiro de canção de taverna — o cavaleiro de armadura reluzente que os bardos pintavam e que as damas suspiravam ao ler nos romances, com a diferença de que aquele existia, e sabia disso, e gostava.*
+
+*Seraphine tinha formado a guarda de honra da Sétima na praça da plataforma — trinta homens com os cintos finalmente certos — e Theron esperava de pé no alto dos degraus da tenda de comando, de armadura de escamas azuis e douradas, capa azul-meia-noite, com Luna um passo atrás, à esquerda, os três livros debaixo do braço. O Coronel Vantis, que passara a manhã ensaiando um relatório que ninguém lhe tinha pedido, estava de pé ao lado da guarda de honra com o queixo erguido e foi solenemente ignorado por todos.*
+
+*Hadrian apeou devagar, como apeiam os homens velhos que não querem que se perceba que são velhos, e subiu os degraus da plataforma.*
+
+Hadrian: "Mestre Theron."
+
+Theron: "General."
+
+*Apertaram-se as mãos pelo antebraço, como se apertam os soldados. Hadrian era como os despachos o descreviam e mais cansado: grisalho, de barba curta, a armadura amassada no ombro esquerdo de algum golpe que ele nunca mandara desamassar, os olhos de quem dormia pouco e mal havia muito tempo.*
+
+Hadrian: "Cinco meses." — ele olhou em volta, devagar, para a praça, a paliçada, as tendas em linha. — "Cinco meses atrás eu estive neste platô. Acho que o senhor ainda não tinha chegado. Havia merda escorrendo para o riacho de onde os homens bebiam, e um sentinela dormindo em cima de um barril de breu a dez passos de uma forja acesa. Eu me lembro do sentinela. Mandei açoitar." — ele fez uma pausa. — "Hoje eu entrei pelo portão e me pediram a senha. A senha certa, de hoje, e não a de dezembro."
+
+Theron: "A Sétima trabalhou."
+
+Hadrian: "A Sétima trabalhou porque alguém a pôs para trabalhar." — ele se virou para os homens que tinham subido atrás dele. — "Mestre Theron, estes são o Capitão Renwick, que o senhor conhece por carta, o Capitão Bořek e o Capitão Hollis, do meu estado-maior. O escrivão Dalibor. E este é Sir Jan Žižka de Trocnov, meu primo e o meu braço direito, o homem que o meu estado-maior chama, quando eu não estou ouvindo, de 'a vaidade com cavalo'."
+
+*Sir Jan sorriu sem o menor constrangimento e inclinou a cabeça para Theron com uma cortesia impecável, que só não chegou a ser uma reverência porque o orgulho dele não sabia fazer reverência.*
+
+Sir Jan: "Grão-Mestre. Uma honra. Meu primo fala do senhor como os padres falam dos santos — com respeito e alguma desconfiança." — e então os olhos claros dele passaram de Theron para a mulher atrás dele, e ficaram ali, e o sorriso mudou de qualidade. — "E esta é...?"
+
+Theron: "Luna. Minha conselheira tática."
+
+Sir Jan: — com uma meia reverência que fez a armadura tilintar — "Senhora Luna. Ninguém me avisou que a Sétima tinha uma conselheira. Teria vindo mais depressa."
+
+Luna: — sem perder o compasso — "Sir. Ninguém me avisou que o general tinha um bigode. Eu teria trazido uma régua."
+
+*Um dos guarda-costas tossiu de um jeito que não era tosse. Hadrian não sorriu, mas o canto da boca dele fez algo parecido.*
+
+Hadrian: "Pois bem. Vou ser direto, porque é a única coisa que me resta de tempo. Jan e o Dalibor vão fazer o inventário da divisão: homens, armas, munição, animais, provisões, doentes. Tudo."
+
+Luna: "Com todo o respeito, general, o inventário já está feito. Fiz com o intendente Fayfar, linha por linha, na semana passada. Está aqui." — ela ergueu o primeiro dos três livros.
+
+Hadrian: "Não duvido, senhora. Ouvi falar das suas habilidades em mais de um despacho, e nenhum deles era elogio de cortesia. Mas Veldhal exige uma versão oficial feita pelo estado-maior do exército, com o selo do exército, e com um homem do estado-maior assinando embaixo. É a Coroa, não sou eu. A Coroa conta o que paga."
+
+*Theron olhou para Luna. Luna olhou para Theron.*
+
+Theron: "Luna. Acompanhe Sir Jan e o escrivão. Mostre a eles o que eles precisarem ver."
+
+*Sir Jan sorriu como um homem a quem acabam de servir o vinho que ele queria antes de pedir.*
+
+Sir Jan: "Senhora. Seria um prazer ser guiado."
+
+Luna: — descendo os degraus com os livros debaixo do braço e sem olhar para trás — "É por aqui, sir. Tente acompanhar."
+
+---
+
+*Hadrian começou a inspeção pela paliçada, como começam os soldados velhos, e o que ele viu primeiro não foi a paliçada. Foram os números.*
+
+Hadrian: "No papel, Mestre Theron, há duas divisões neste acampamento. A Sétima e a Décima Segunda. Eu estou vendo uma."
+
+Theron: "Separei as duas há quase quatro meses, general. No primeiro dia de fevereiro."
+
+Hadrian: "Por quê?"
+
+Theron: "Porque os ânimos entre elas estavam em ponto de faca. Literalmente. Na manhã em que separei, houve facas puxadas na fila da sopa. A Sétima chamava a Décima Segunda de queimadora de criança, e a Décima Segunda comia depois da Sétima, sempre, do que sobrava. Juntar as duas seria costurar um braço gangrenado num corpo são."
+
+*Hadrian ficou calado um momento, as mãos cruzadas nas costas.*
+
+Hadrian: "Dornefeld." — não era pergunta. — "Eu sei o que a Décima Segunda fez. Eu recebi os relatórios. Eu arranquei a patente do Von Erivan com as minhas próprias mãos, na frente do estado-maior inteiro, e assinei a ordem de recuo para este platô. Oitocentos camponeses de Karên, mortos pelos soldados de Karên." — a voz dele baixou. — "Não o culpo pela separação, Mestre. Teria feito o mesmo. Onde está a Décima Segunda agora?"
+
+Theron: "A um quilômetro daqui. Seguindo o riacho, para o sul."
+
+*Hadrian assentiu e continuou andando.*
+
+*Andou a paliçada inteira, do portão sul ao portão leste, e depois o depósito, e depois as latrinas — foi às latrinas pessoalmente, e cheirou o ar, e olhou para onde a água das valas corria, e voltou sem dizer nada —, e depois o campo de treino, onde a Parede da Sétima fechou para ele em vinte e seis batidas, e a ala dos doentes, onde Mestre Karel tinha trinta e oito leitos ocupados em vez de duzentos e catorze. A cada coisa que via, Hadrian ficava um pouco mais calado. Quando chegaram de volta à paliçada, perto do portão sul, ele parou e apoiou o antebraço numa das estacas, endurecidas a fogo até ficarem pretas como ferro.*
+
+Hadrian: "É um milagre."
+
+Theron: "Não é milagre. É latrina, senha e sopa."
+
+Hadrian: "Quem disse isso?"
+
+Theron: "Uma feiticeira de vinte e quatro anos, que agora está mostrando o depósito ao seu primo."
+
+*Hadrian soltou um som que, num homem menos cansado, teria sido uma risada.*
+
+Hadrian: "Eu estava certo, então. Quando escrevi ao Duque, em janeiro. 'Falta cabeça, não corpo.' Meu estado-maior achou que eu estava louco de pedir magos. O Coronel Vorce disse, na minha cara, que magos eram bons para fogueira e para nada mais." — ele bateu de leve na estaca. — "Meus parabéns, Mestre Theron. O senhor me deu uma divisão."
+
+Theron: "A Sétima ainda é pequena, general. Setecentos e nove homens presentes. Seiscentos e setenta e um aptos."
+
+Hadrian: "Não por muito tempo."
+
+*Theron esperou.*
+
+Hadrian: "Cinco mil homens. Já estão em marcha. Chegam aqui em duas semanas." — ele olhou de frente para Theron. — "A Sétima foi um regimento de seis mil no começo desta guerra, Mestre, antes de virar o que o senhor encontrou. Eu vou devolver a ela o tamanho que ela tinha. Com os cinco mil vêm provisões, armas, forragem, e uma ordem minha, já assinada, que dá prioridade absoluta a esta divisão em todo o abastecimento do avanço. Antes da Quinta, antes da Oitava, antes de qualquer outra. E daqui a um mês eu quero a Sétima na vanguarda."
+
+*O silêncio que se seguiu foi longo.*
+
+Theron: "Vanguarda de quê, general?"
+
+Hadrian: "De um avanço."
+
+Theron: "Contra o quê?"
+
+Hadrian: "O alvo eu digo quando os cinco mil estiverem neste platô. Até lá, nem o vento." — ele esfregou o rosto. — "Não é desconfiança do senhor. É que eu já perdi três planos este ano para ouvidos que eu achava que eram meus."
+
+*Theron aceitou com um aceno curto. Depois fez a pergunta que interessava.*
+
+Theron: "E esses cinco mil? Que tipo de homem são? Se são levas de camponês com forcado, general, eu preciso de seis meses, não de um."
+
+Hadrian: "Não são camponeses. São homens de armas, treinados. Quinhentas montarias. Lança, machado, espada, malha. Moral alta, porque foram bem pagos e bem comidos a vida inteira, longe da frente." — ele fez uma pausa. — "São da reserva da retaguarda. Do Quarto Exército."
+
+*Theron ergueu uma sobrancelha.*
+
+Theron: "Do General Crace?"
+
+Hadrian: "Do General Crace, que vai passar o resto do ano me escrevendo cartas de três páginas sobre isso. Que escreva. A Coroa decidiu."
+
+*E Theron entendeu tudo de uma vez — entendeu como se entende o desenho de uma batalha quando se vê, do alto de um morro, para onde as bandeiras estão andando.*
+
+Theron: "O alto comando está apostando tudo num contra-ataque."
+
+Hadrian: "Está."
+
+Theron: "Tirar cinco mil homens treinados da reserva da retaguarda para um único golpe no avanço é esvaziar a mão para dar um soco só, general. Se o soco não derrubar o adversário, não sobra mão para aparar o dele. E Drennor ainda tem o melhor exército deste continente. O Volk tem dezesseis mil homens em Volkovar, a dois dias rio acima, e são dezesseis mil profissionais, não levas."
+
+Hadrian: "Eu sei."
+
+Theron: "Então por quê?"
+
+*Hadrian ficou um tempo olhando para fora da paliçada, para o leste, onde a fumaça das fogueiras de Volkovar se misturava com as nuvens baixas da tarde.*
+
+Hadrian: "Porque eu também não gosto, Mestre. Se eu mandasse, esperava mais um ano. Juntava, treinava, fortificava, deixava o Valmir gastar a primavera dele contra as nossas paliçadas novas. Mas eu não mando. A Coroa manda. E a Coroa está sem ouro."
+
+*Theron não disse nada. Hadrian continuou, baixo, para que os guarda-costas não ouvissem.*
+
+Hadrian: "Os cofres de Veldhal estão no fundo. Eu vi as contas, Theron. A coroa de guerra que estão batendo agora tem mais estanho que ouro, e os cambistas anões já cobram um quinto a mais para trocá-la. Mais um ano disto e o rei não paga nem o soldo do avanço, quanto mais o de quatro exércitos. E não é só o ouro." — ele se inclinou mais na estaca. — "Chegam boatos. Os nobres das ligas do oeste estão insatisfeitos. Os do sul também. Pagam imposto de guerra há quatro anos por uma guerra que não é deles, e cada vez que um cobrador do rei passa pelos portões deles, a resposta demora mais a voltar. E o senhor conhece o rei."
+
+Theron: "Conheço."
+
+Hadrian: "O Aldemar foi um bom rei. Calculista, administrador, frio. Herdou um reino forte e o governou bem nos primeiros anos. Mas quatro invernos desta guerra o gastaram. Hoje ele governa mais da mesa do banquete do que da mesa do conselho. Caça, falcoaria, músicos, vinho de Solhavn. Assina o que o chanceler põe na frente dele e pergunta das contas uma vez por mês, se tanto." — ele fez uma pausa. — "E o primo dele, o Duque Sigismund..."
+
+Theron: "O Sigismund de Hradmark."
+
+Hadrian: "O Sigismund de Hradmark. Um homem muito mais responsável do que o rei. Trabalha, conta, governa, cobra, não falha uma assembleia. Também é muito mais cruel. No inverno passado enforcou o conselho inteiro de uma vila mineira de Hradmark porque o imposto atrasou dez dias. Doze homens, na praça, numa manhã. E metade da nobreza de Karên o admira justamente por isso. Dizem que é o que o reino precisa." — Hadrian bateu de leve com o punho na estaca preta. — "São tempos estranhos, Mestre. E perigosos."
+
+*Theron ficou calado por um tempo que pareceu longo. Depois foi até a paliçada, ao lado do general, e apoiou também as mãos nas estacas, e olhou para o mesmo leste.*
+
+Theron: "Posso dizer o que eu vejo, general? Como um velho que já serviu a um duque do Império e viu como os reinos caem?"
+
+Hadrian: "Diga."
+
+Theron: "Eu vejo um reino em que as quatro paredes estão rachando ao mesmo tempo.
+
+"No leste, a guerra. Drennor tem o melhor exército e um rei que não odeia ninguém, só tem fome, o que é pior. O Valmir é paciente. Ele não precisa vencer esta guerra este ano. Precisa apenas que Karên não vença. Cada inverno que passa sem vitória nossa é uma vitória dele, porque ele está ganhando a guerra que importa, que é a do ouro.
+
+"No norte, Vornheim. O velho Harald Stenmark vende aço aos dois lados, e vende enquanto os dois pagam. No dia em que a coroa de guerra de Karên tiver mais estanho do que ouro — e o senhor acabou de me dizer que esse dia está perto —, Vornheim passa a vender só para Drennor. Os anões não têm lado. Têm balança.
+
+"No oeste, quatro exércitos parados em paz armada, olhando para as florestas de Aelren e para as velas de Maelmark. A Rainha Maelisande não vai atacar ninguém, ela mal segura o próprio reino entre os humanos, os elfos de Dol Aerith e a Chama. O Torvald Hraegg não vai desembarcar enquanto Karên tiver dentes. Mas os quatro exércitos estão lá, comendo, e quem paga a comida deles são os duques do oeste — Konrad Darrow de Morvayne e os condes da Liga das Marcas. Pagam por um exército que guarda uma fronteira que ninguém ataca, enquanto o ouro do imposto deles some no Aurach. Se o senhor fosse o Konrad, o que pensaria?"
+
+Hadrian: "Que a guerra do leste não é minha."
+
+Theron: "E que o rei que a mantém também não é.
+
+"No sul, Solhavn. O Rei Edmund rezou até entregar metade do trono ao Hierofante. E a Chama, general, a Chama não perdoa o Aldemar por ser frio com ela. A Duquesa Ingrid de Seldmar e os nobres da Liga do Sul ouvem os bispos antes de ouvirem o rei. Faz quatro anos que os púlpitos do sul dizem que esta guerra é castigo dos deuses por um rei que tolera magos, guildas e elfos. Eu sei o que eles dizem. Eu sou um dos magos."
+
+*Hadrian não respondeu. Theron continuou, a voz baixa e plana, do jeito que ele citava o Código.*
+
+Theron: "E no centro de tudo isso, general, um rei que trocou o conselho pelo banquete, e um primo dele que trabalha, conta, governa e enforca conselhos municipais. O senhor sabe o que acontece num reino em que o rei é amado por poucos e o primo é temido e admirado por muitos? Eu sei. Já vi acontecer duas vezes, no Império. Primeiro vêm as cartas: 'Vossa Graça, o reino precisa de mão firme.' Depois vêm as assembleias em que o rei não aparece. Depois vem um inverno ruim, uma batalha perdida, um cofre vazio. E então, numa manhã qualquer, o primo responsável está sentado na cadeira do rei, e ninguém sabe dizer em que dia exatamente aquilo começou."
+
+Hadrian: "E a Chama?"
+
+Theron: "A Chama vai estar ao lado de quem prometer a ela a fogueira que o Aldemar nunca deu. E um homem que enforca doze vereadores por dez dias de atraso no imposto não vai ter escrúpulo de queimar um mago, um elfo ou uma guilda inteira se isso lhe comprar os púlpitos do sul." — ele fez uma pausa. — "Sem falar do Duque Roderick, em Thara, que é leal ao rei até o ponto em que a lealdade custar mais caro que Thara, nem um dia depois. E do Império de Saravault, ao sul de tudo, que é maior do que Karên e Drennor juntos, que tem legiões que fecham a tartaruga em doze batidas de coração e que está assistindo a esta guerra, general, como um abutre assiste a dois lobos brigando pelo mesmo cervo."
+
+*Por um longo tempo, os dois homens ficaram calados, lado a lado, apoiados na paliçada da Sétima, olhando para o leste.*
+
+Hadrian: "É por isso que eles querem o contra-ataque."
+
+Theron: "É por isso. A Coroa precisa de uma vitória antes que o ouro acabe. Antes que o oeste pare de pagar. Antes que o sul pare de rezar pelo rei. Antes que o Sigismund pare de escrever cartas e comece a juntar homens. Uma vitória grande, no Aurach, que faça os púlpitos calarem e os cofres respirarem por mais um ano." — a voz dele não mudou de tom. — "Não é uma estratégia, general. É uma aposta."
+
+Hadrian: "Eu sei."
+
+Theron: "Então vamos garantir que, se é uma aposta, a gente não perca."
+
+*Hadrian se virou para olhar para ele, e havia nos olhos cansados do general uma coisa que talvez fosse respeito e talvez fosse alívio.*
+
+Hadrian: "Concordo com cada palavra, Mestre Theron. Concordo com tanta coisa que eu preferia não ter ouvido nenhuma." — ele se endireitou, e a armadura amassada rangeu. — "E a Décima Segunda? O senhor disse que fica a um quilômetro daqui. Seguindo o riacho."
+
+*Theron apontou com o queixo, para o sul.*
+
+*Hadrian seguiu o gesto com os olhos — e parou.*
+
+*De lá, da paliçada da Sétima, a um quilômetro de distância, no alto da colina rasa dentro da curva do córrego, o Forte Imperador se via inteiro: o retângulo de terra socada e madeira apontada, o fosso brilhando com a água do degelo, a paliçada dupla, as quatro torres de canto e as duas gêmeas do portão sul, os quarteirões de barracas alinhados em ruas de pente, a fumaça das doze chaminés de forno subindo reta no ar parado da tarde, e o mastro no centro da praça com uma coisa pequena e ruiva no topo, que o general não conseguia distinguir àquela distância. Diante do portão sul, um tablado com uma travessa de carvalho. E no campo rio abaixo, uma linha de cavalaria manobrando em silêncio, tão alinhada que, de longe, parecia uma única fera de muitas patas.*
+
+Hadrian: "...Aquilo é a Décima Segunda?"
+
+Theron: "Aquilo é a Décima Segunda."
+
+Hadrian: "Quem construiu aquilo?"
+
+Theron: "A Décima Segunda. Em oito dias, com pás de lavrador. Desenhada a fogo num chão de lama por um rapaz de dezessete anos."
+
+*Hadrian ficou olhando muito tempo. Não disse mais nada.*
+
+---
+
+*O inventário oficial levou três horas, e Sir Jan Žižka de Trocnov passou as três ao lado de Luna.*
+
+*Contou flechas com ela no paiol, e ela sabia de cor quantas eram antes de ele terminar de contar o primeiro feixe. Contou sacos de trigo com ela no depósito, e ela sabia de cor em que dia cada um tinha chegado e de onde. Contou cavalos com ela no estábulo leste, e ela sabia de cor o nome de cada cavalariço e qual dos animais mancava da pata traseira. O escrivão Dalibor escrevia, suava e desistia de fazer perguntas, porque cada vez que abria a boca, Luna já tinha respondido.*
+
+*E Sir Jan, que jamais na vida tinha precisado contar coisa nenhuma, descobriu que contar flechas podia ser a atividade mais interessante do mundo, desde que se contassem ao lado de uma feiticeira de cabelos castanhos ondulados, olhos âmbar-esverdeados e uma língua mais afiada que a espada dele.*
+
+Sir Jan: — na saída do paiol, com o bascinete debaixo do braço e o sol batendo no peitoral — "Senhora Luna. Vou ser franco, porque a franqueza é a única virtude que não me custa nada."
+
+Luna: "Duvido que seja a única, sir. Mas prossiga."
+
+Sir Jan: "Já conheci damas de corte em Veldhal, em Thara, em mais castelos do que tenho dedos. Já conheci condessas que tocavam alaúde e baronesas que recitavam poesia de Aelren de cor. Nenhuma delas jamais conseguiu me dizer quantos virotes há numa caixa sem abrir a tampa."
+
+Luna: "Nenhuma delas teve a sorte de ter o intendente Fayfar como professor. Ele conta virotes até dormindo. Eu desconfio que conta até sonhando."
+
+Sir Jan: — com um sorriso largo debaixo do bigode — "Então permita-me ao menos uma pergunta, senhora, uma só, que não tem nada a ver com virotes."
+
+Luna: "Uma."
+
+Sir Jan: "O que uma mulher como a senhora está fazendo neste platô de lama, contando sacos de trigo para um velho mago, quando poderia estar em qualquer corte de Karên deixando duques sem fala?"
+
+*Luna parou no meio do caminho. Olhou para ele de cima a baixo — a armadura espelhada, o bigode aparado, os olhos claros que nunca tinham baixado para ninguém — e deixou o silêncio durar um pouco mais do que era confortável.*
+
+*Ela gostava. Era impossível não gostar. O homem era bonito como um cavalo de raça é bonito, falava bem, cheirava a couro bom e a óleo de armadura e não a suor de acampamento, e era, até agora, a primeira pessoa em quatro meses de platô que olhava para ela como se ela fosse alguma coisa além de uma cabeça que sabia contar. Seria fácil gostar mais. Seria fácil deixar.*
+
+*Mas Luna conhecia o nome dele muito antes de conhecer o bigode. Conhecia das lavadeiras da Sétima, que tinham vindo de três castelos diferentes do oeste; das cozinheiras do trem, que tinham uma prima em Veldhal; das canções de taverna, inclusive das que os bardos só cantavam depois da meia-noite. Conhecia a história da filha do burgomestre de Pedra Alta, que esperara uma primavera inteira por uma carta que nunca veio. Conhecia a da viúva do castelão de Brannec, que ainda mandava perguntar por ele aos viajantes. O cavaleiro de armadura reluzente dos romances era sempre o mesmo, de canção em canção. Só mudava o nome da donzela.*
+
+Luna: "Sir Jan. Eu vou responder com a mesma franqueza com que o senhor perguntou, porque eu também acho que franqueza não custa nada."
+
+Sir Jan: "Por favor."
+
+Luna: "Eu estou neste platô de lama porque aqui eu sou a pessoa que sabe quantos virotes há na caixa. Numa corte qualquer de Karên, eu seria só mais uma das damas que o senhor visitou entre uma batalha e outra." — ela sorriu, e foi um sorriso de verdade, divertido, quase afetuoso. — "E eu ouvi falar da filha do burgomestre de Pedra Alta, sir. Ela tinha uma letra muito bonita, dizem. Escreveu dezessete cartas."
+
+*Pela primeira vez naquela tarde, o sorriso de Sir Jan Žižka de Trocnov oscilou meio dedo. Só meio. Depois voltou, mais largo do que antes, porque ele era o tipo de homem para quem uma porta fechada era um convite de outra natureza.*
+
+Sir Jan: "Dezoito, na verdade. Uma eu respondi."
+
+Luna: "Uma de dezoito." — ela retomou o caminho para o estábulo, os livros debaixo do braço, a saia de lã roçando a lama. — "Que cavaleiro generoso. Venha, sir. Ainda falta contar os cavalos, e eles, pelo menos, não esperam carta."
+
+*Sir Jan ficou parado um instante no meio do caminho, olhando-a se afastar. Depois riu — uma risada franca, alta, de homem que gosta de perder quando o adversário merece —, ajeitou a ponta do bigode com dois dedos, enfiou o bascinete debaixo do braço e foi atrás dela.*
+
+*O escrivão Dalibor, que tinha ouvido tudo, anotou no livro do inventário, na linha dos cavalos, uma observação que não lhe tinham pedido e que nunca chegaria ao estado-maior: "Sir J. Ž. — 1 derrota."*
+
+---
+
+((**FIM DO CAPÍTULO XXXVII — "Instrumento da Lei" · Estado e Linha do Tempo**
+
+**DATA:** 20 de Maio de 852, fim da tarde · Forte Imperador e acampamento da Sétima, platô de Cravenmoor.
+
+**ANDRÉ:**
+- **Mana:** ~150, cheia.
+- **Toxicidade:** 0.
+- **Ferimentos:** nenhum. As cãibras do Trovão seguem até a noite. Nós dos dedos da mão direita esfolados do soco em Ctibor.
+- **Equipamento:** tudo íntegro. A brigantina voltou a ter respingos de sangue (de Ctibor) logo depois de limpa.
+- **Moeda:** 261 o 10 p 1 c − 16 pratas (indenização a Ctibor, do bolso dele) = **260 ouros, 24 pratas e 1 cobre**. As 10 pratas devolvidas a Ctibor eram dele mesmo.
+
+**O CASO CTIBOR × HEDVIKA:**
+- **Ctibor Mareš, de Zelenice:** lanceiro da 2ª linha da Parede, viúvo, mãe e dois filhos em Zelenice. Dispensado do serviço, com soldo até o dia, as próprias 10 pratas de volta e 16 pratas de indenização.
+- **Hedvika, de Stromov:** 18 anos, lavadeira do trem, sem família. Banida da 12ª, sem as 10 pratas, proibida de chegar a menos de 200 m de qualquer acampamento da divisão.
+- **Registro:** Mathias lavrou a sentença no Livro da Divisão. Vít levantou a ficha de Ctibor.
+- **Lei nova:** a Ordenança ganha um parágrafo no Artigo VIII — **"dentro da divisão não se compra mulher"**: prostituição proibida no acampamento, com prata, cobre, pão ou ração.
+- **A forca** (tablado de toras do fim de março, fora do portão sul) e os **troncos do castigo da lama** continuam sem uso capital. André declarou em público que, se um dia a corda descer, ele mesmo chuta o tronco.
+- **Na tropa:** André agora é visto também como **justo**.
+- **Nerith:** quis executar Ctibor, foi contida por André ("Ninguém pune por conta própria — Artigo I"), deu dois tapas em Hedvika e pediu desculpas a André. A admiração dela por ele cresceu mais um degrau.
+- **Bellatrix**, da torre sudoeste: "Você não julgou o crime. Julgou a plateia."
+- **Novo NPC:** sargento Kuba de Dubrava, 19 anos, braçadeira há três semanas, puxa-saco e bom sargento.
+
+**HADRIAN NA SÉTIMA:**
+- **Comitiva:** 12 guarda-costas, o escrivão Dalibor, os capitães Renwick, Bořek e Hollis, e **Sir Jan Žižka de Trocnov** (26 anos, primo e braço direito do general, invicto, bigode famoso, garanhão negro, armadura de placas completa, bascinete, galanteador).
+- **Inventário oficial:** feito por Jan e Dalibor, guiados por Luna.
+- **Reforço:** **5.000 homens de armas** (500 montarias), tirados da reserva do Quarto Exército (Crace), chegam em ~2 semanas (**~3/Jun**). Devolvem à Sétima o tamanho de regimento que ela tinha no começo da guerra.
+- **Prioridade:** a Sétima passa à frente da Quinta e da Oitava no abastecimento.
+- **Vanguarda:** a Sétima lidera um **avanço daqui a ~1 mês (~20/Jun)**. O alvo, Hadrian só revela quando os 5.000 chegarem.
+- **Theron:** acha que é uma aposta, não uma estratégia, mas aceita.
+- **Hadrian viu o Forte Imperador de longe** ("Aquilo é a Décima Segunda?"). A inspeção da 12ª ainda está por vir.
+
+**GEOPOLÍTICA CANONIZADA:**
+- **A Coroa:** os cofres de Veldhal estão no fundo; a coroa de guerra já tem mais estanho que ouro, e os cambistas cobram um quinto a mais para trocá-la.
+- **O rei:** Aldemar III foi um bom rei, calculista e administrador. Quatro invernos de guerra o gastaram, e hoje ele governa da mesa do banquete.
+- **Duque Sigismund Reuvenn de Hradmark:** primo do rei, responsável e cruel (enforcou os 12 vereadores de uma vila mineira por 10 dias de atraso no imposto), admirado por muitos nobres. Possível usurpador.
+- **Liga das Marcas do Oeste:** o Duque Konrad Darrow de Morvayne e seus condes, que sustentam os 4 exércitos do oeste em paz armada.
+- **Liga do Sul:** a Duquesa Ingrid de Seldmar e os nobres que ouvem os bispos antes do rei.
+- **Fora de Karên:**
+  - a Chama quer a fogueira que Aldemar nunca deu;
+  - Vornheim deixa de vender a Karên quando o ouro acabar;
+  - Saravault observa "como um abutre".
+
+**CORREÇÃO:** no Cap. XXXVI, Luna diz que a coluna de Hadrian "saiu de Pedravale". Pedravale está com Drennor desde janeiro (Cap. XXI). Leia "saiu do quartel-general do avanço".
+
+**PARA CONFIRMAR:** na sua semente, Jan é "primo de Halden". Li como primo de Hadrian. Se Halden for outra pessoa, me diga quem.
+
+**FIOS:**
+- a inspeção da 12ª;
+- o que André vai pedir a Hadrian;
+- o alvo do avanço;
+- Crace furioso pelos 5.000;
+- Jan × Luna ("Sir J. Ž. — 1 derrota");
+- Sigismund;
+- Hedvika banida na estrada.))
+
+**20 de Maio de 852 — Acampamento da Sétima Divisão, platô de Cravenmoor. Quatro da tarde.**
+
+*O sol de maio já descia para o oeste quando Sir Jan Žižka de Trocnov subiu os degraus da plataforma de madeira no centro do acampamento da Sétima com um rolo de pergaminho na mão e a expressão de quem trazia uma notícia que não sabia bem como dar.*
+
+*Hadrian e Theron o esperavam à mesa de campanha que os ordenanças tinham arrastado para fora da tenda de comando, à sombra da lona. Luna estava sentada na ponta da mesa com os três livros empilhados ao lado do cotovelo e uma caneca de chá frio nas mãos, a cara de quem já sabia exatamente o que o pergaminho dizia. Atrás de Jan vinha o escrivão Dalibor, suado, com os dedos manchados de tinta até a segunda falange e o ar abatido de um homem que passou três horas sendo corrigido por uma mulher que nem precisava olhar para o papel.*
+
+Sir Jan: "General. Grão-Mestre." — ele desenrolou o pergaminho sobre a mesa com um floreio que parecia quase uma rendição. — "O inventário oficial da Sétima Divisão do Primeiro Exército do Leste, lavrado pelo estado-maior do general, com o selo do exército e a minha assinatura."
+
+*Hadrian puxou o pergaminho para si e começou a ler. Theron não puxou nada. Esperou.*
+
+*Luna empurrou o primeiro dos seus livros pela mesa até encostar no pergaminho de Jan. Abriu na página certa sem procurar.*
+
+*Hadrian leu as duas colunas lado a lado. Efetivo: setecentos e nove presentes, seiscentos e setenta e um aptos, trinta e oito na enfermaria. Flechas: trinta e uma mil e quatrocentas. Virotes, lanças, escudos, sacos de trigo, de feijão, de sal, barris de cerveja, cavalos de sela, de tração, de carga, mulas. Linha por linha, número por número, até a última ferradura.*
+
+*Batia tudo. Não quase tudo. Tudo.*
+
+Hadrian: — erguendo os olhos para Jan — "Nenhuma diferença?"
+
+Sir Jan: "Uma, primo." — ele fez uma pausa teatral. — "No inventário da senhora Luna, a égua de carga número dezenove está listada como 'manca da traseira esquerda'. No nosso, como 'sã'. Fomos até o estábulo conferir." — outra pausa. — "Manca da traseira esquerda."
+
+*Dalibor fechou os olhos como quem revive uma derrota.*
+
+*Theron se recostou na cadeira de campanha e olhou para Luna com uma coisa no rosto que, num homem menos contido, seria orgulho escancarado.*
+
+Theron: "Não foi por acaso que você foi a melhor aluna que já sentou à minha mesa de guerra, Luna."
+
+Luna: — sem nenhuma modéstia, girando a caneca nos dedos — "Claro que não foi, mestre. Eu estou na lista dos melhores. Com o Soren, com o Faelar e com o André." — ela tomou um gole de chá frio. — "E, graças aos deuses, bem longe da lista dos piores. Onde mora, por exemplo, a Seraphine."
+
+*Atrás dela, nos degraus da plataforma, alguém pigarreou.*
+
+*Seraphine Valenne vinha subindo da praça com a capa de montaria ainda empoeirada da patrulha, as luvas de couro na mão esquerda e o cabelo ruivo curto desarrumado pelo vento da estrada. Tinha ouvido. Era evidente pelo jeito como parou no último degrau, com a cabeça meio inclinada e uma sobrancelha erguida.*
+
+*Quatro meses antes, aquela frase teria acendido fogo na mão dela. Teria havido uma resposta venenosa, um "plebeia" cuspido por entre os dentes, talvez uma faísca no ar. Agora houve um segundo de silêncio. Depois, o canto da boca de Seraphine subiu.*
+
+Seraphine: "Que bom saber que eu encabeço alguma lista, Luna. Na Casa Valenne me ensinaram que o importante é estar no topo." — ela tirou a luva da mão direita, dedo por dedo. — "O assunto da lista é um detalhe."
+
+*Luna riu de verdade, e até Theron deixou escapar um sopro de ar pelo nariz que, nele, equivalia a uma gargalhada.*
+
+*Não era maturidade inteira. Seraphine ainda tinha a mandíbula um pouco mais tensa do que a frase pedia, e o olhar que lançou a Luna prometia acerto de contas para depois. Mas era alguma coisa. Era o primeiro degrau de uma escada que ela tinha passado a vida inteira se recusando a subir.*
+
+*Ela endireitou o corpo e se voltou para os dois estranhos à mesa, e a postura mudou por completo: costas retas, queixo erguido, mão aberta junto ao peito. A Seraphine dos salões. A que tinha sido educada vinte e seis anos para ser condessa.*
+
+Seraphine: "General. Perdão pela poeira. Seraphine Valenne, da Espada de Thara, tenente sob o comando do Mestre Theron. Voltei agora da patrulha da ravina leste."
+
+Hadrian: "Tenente Valenne." — ele inclinou a cabeça. — "Os despachos falam da senhora. Piras dos mortos de doença, estacas endurecidas a fogo, uma matilha de carniçais na ravina. Bom trabalho."
+
+*Seraphine não corou. Quase.*
+
+*E então Sir Jan Žižka de Trocnov se levantou.*
+
+*Levantou-se devagar, com o rangido elegante da armadura de placas, deu a volta à mesa, parou diante dela e se curvou — não a meia reverência de soldado que fizera a Luna ao meio-dia, mas uma reverência inteira, de salão, a mão direita sobre o peitoral e a esquerda estendida, palma para cima, à espera da mão dela.*
+
+Sir Jan: "Valenne. Do condado de Valenne, no Ducado de Thara. A casa dos três cálices de prata sobre campo vermelho." — os olhos claros dele brilhavam. — "Eu conheci o Conde Aldric numa justa em Veldhal, há seis anos. Ele perdeu para mim no terceiro choque e me mandou um barril de vinho no dia seguinte, com um bilhete dizendo que nunca tinha sido derrubado com tanta cortesia. Ninguém me disse que ele tinha uma filha. Ou, se disse, ninguém me disse que ela era assim."
+
+*Seraphine olhou para a mão estendida de Jan por um segundo inteiro. Luna viu o lampejo passar pelos olhos âmbar dela — o nome do pai dito em voz alta, o condado que já não era dela, a herança que um bebê lhe tomara no berço. E viu Seraphine engolir o lampejo e pôr a mão nua sobre a palma do cavaleiro com a graça exata de uma dama de corte.*
+
+Seraphine: "O meu pai tem uma filha, sir. Teve. A filha dele hoje é da Espada." — um sorriso fino. — "E se o senhor derrubou o Conde Aldric no terceiro choque, deve ser porque nos dois primeiros ele estava distraído com alguma coisa mais importante. Costumava ser o vinho."
+
+Sir Jan: — beijando o ar a um dedo dos nós dos dedos dela, como manda a etiqueta — "Então eu brindarei ao vinho. Que me deu uma vitória sobre o pai e, seis anos depois, uma desculpa para conhecer a filha."
+
+Seraphine: "O senhor sempre fala em brindes, sir?"
+
+Sir Jan: "Só quando a companhia merece, senhora."
+
+Seraphine: "Então espero que o senhor tenha trazido vinho suficiente. Pelo que se diz nos salões de Thara, a sua companhia costuma merecer muitos brindes por noite."
+
+Sir Jan: — sem se abalar, encantado — "Os salões de Thara exageram. Eu só brindo a uma dama por noite. É uma questão de método."
+
+*Luna revirou os olhos com tanta força que quase viu o próprio cérebro.*
+
+Luna: (Já atrás de outro rabo de saia? Não fazem nem quatro horas que ele estava contando flechas comigo e jurando que eu era a única mulher de Karên que sabia quantos virotes cabem numa caixa.)
+
+*Por cima da cabeça dos dois, Luna encontrou o olhar de Theron. Theron encontrou o olhar de Hadrian. E Hadrian, com a paciência infinita de um homem que conhece o primo desde que o primo usava fraldas de linho bordado, ergueu os olhos para a lona da tenda como quem pede aos deuses uma coisa que eles já recusaram muitas vezes.*
+
+*Seraphine recolheu a mão com a mesma graça com que a dera e se voltou para Theron, e a dama de salão sumiu tão depressa quanto tinha aparecido.*
+
+Seraphine: "Mestre. Peço licença para dar o relatório da patrulha."
+
+Theron: "Mais tarde, Seraphine. O general ainda não terminou a inspeção."
+
+Seraphine: "Ainda não?" — ela olhou para o sol, que já tocava a linha das colinas do oeste. — "Quatro horas, e ainda não terminou?" — e então, com uma inocência tão calculada que chegava a ser obra de arte: — "Ah. Claro. Falta a divisão do André."
+
+*Não disse "a Décima Segunda". Disse "a divisão do André". E o sorriso de canto que acompanhou a frase não era para o general, nem para Jan, nem para Luna. Era para Theron, que entendeu perfeitamente o que ela queria dizer e não respondeu.*
+
+*Seraphine fez uma reverência curta ao general, outra mais curta ainda a Sir Jan, e desceu os degraus em direção à fileira das tendas das feiticeiras, batendo as luvas contra a coxa para tirar a poeira.*
+
+*Sir Jan a acompanhou com os olhos até ela sumir atrás da segunda tenda. Depois se voltou para a mesa, bateu palmas uma vez, e o som estalou pela praça como um chicote.*
+
+Sir Jan: "Pois bem! Vocês aí!" — os criados do general e três dos guarda-costas apareceram como se tivessem brotado do cascalho. — "Desfaçam as carroças. Os barris de Aelren, os presuntos defumados, os queijos de Veldhal, os faisões, a cesta de figos de Solhavn, tudo. Preparem a tenda principal para um banquete." — ele se virou para Theron com um sorriso largo. — "O general me fez carregar mantimento de banquete por três dias de estrada, Grão-Mestre, e agora eu entendo por quê. Ninguém transforma um chiqueiro num quartel em cinco meses sem merecer uma mesa decente. Esta noite, a Sétima come como uma corte. E todas as belas damas deste acampamento estão convidadas." — os olhos dele foram a Luna e voltaram, sem pressa nenhuma. — "A senhora Luna. A senhora Valenne. E quantas mais houver."
+
+Hadrian: "Ele tem razão, Theron. Passamos a noite aqui e partimos amanhã de manhã, depois da revista. Já que eu vou mandar cinco mil homens para este lugar, quero comer pelo menos uma vez na mesa onde eles vão comer."
+
+*Theron aceitou com um aceno. Luna não disse nada, mas guardou na cabeça o "e quantas mais houver" para usar contra Sir Jan em algum momento oportuno do resto da vida dele.*
+
+Hadrian: — levantando-se, com o rangido da armadura amassada — "E agora, Mestre Theron, a última coisa da minha lista." — ele pôs o elmo debaixo do braço. — "Vamos ver essa Décima Segunda."
+
+---
+
+*Os quatro saíram pelo portão sul da Sétima a cavalo — Hadrian no cinzento velho, Theron num baio alto da guilda, Luna numa égua parda e Jan no garanhão negro, que andava de lado como se a estrada lhe devesse obediência — e tomaram o caminho de cascalho que acompanhava o braço do córrego para o sul. Os guarda-costas ficaram para trás, a pedido de Theron e por ordem de Hadrian: um quilômetro de platô dentro das linhas de Karên não pedia escolta, e Hadrian queria ver a Décima Segunda como ela era, não como ficaria ao ver uma dúzia de capas cinzentas com o cervo do exército chegando pela estrada.*
+
+*Durante os primeiros duzentos passos, ninguém falou. Depois Hadrian falou.*
+
+Hadrian: "Theron. Esse capitão de dezessete anos."
+
+Theron: "André."
+
+Hadrian: "Os despachos dizem coisas a respeito dele que não podem ser verdade. O meu escrivão anotou uma lista. Eu li a lista ontem à noite e achei que o escrivão estava bêbado."
+
+Sir Jan: — de cima do garanhão negro, sem virar a cabeça — "Diga-me uma coisa, Grão-Mestre, que eu nunca fui a Thara com tempo de aprender os costumes. Em Thara as crianças viram capitão? Ou só as que sabem cuspir fogo?"
+
+*Luna olhou para Jan de lado. Theron não.*
+
+Theron: "Só as que sabem cuspir fogo, sir. E só depois de terem cuspido muito."
+
+*Ele deixou o baio andar um pouco. Depois começou a falar, na voz plana com que costumava citar o Código pelo número.*
+
+Theron: "Aos dezesseis, sozinho, numa aldeia chamada Coldbeck, entrou numa toca de góblins com uma espada de têmpera cozida e uma poção no estômago. Trinta e seis góblins e um hobgóblin. A espada quebrou no meio contra o hobgóblin, e ele arrancou a cabeça do bicho com as mãos. Tirou quatro mulheres de lá vivas.
+
+"Semanas depois, em Grimsby, desfez uma maldição de striga. Uma striga, general, coisa que a minha própria clériga, que tem cento e oitenta e quatro anos e é a maior exorcista do ducado, admitiu diante do Conselho que não saberia desfazer. Ele desfez segurando a besta fora do túmulo da mãe com um Yrden sustentado a noite inteira, deitado dentro do túmulo, ao lado de um esqueleto, com sangue escorrendo do nariz.
+
+"Em janeiro, no palácio do Duque de Thara, cinco assassinos invadiram os jardins para sequestrar o Duque e o herdeiro. Ele matou os cinco sozinho, sem uma poção, com um único Aard. Cantarolando ópera.
+
+"Em fevereiro, na estrada para cá, matou um basilisco albino e uma bruxa aquática anciã na mesma caverna, os dois juntos. Também sozinho. Destilou a decocção do basilisco em campo, numa brasa, em quatro horas.
+
+"E hoje de manhã, pelo que me contaram os sentinelas do Forte, matou uma miriápode do tamanho de dois bois de carga na floresta do leste, com cinco golpes de espada."
+
+*Silêncio na estrada.*
+
+Sir Jan: "Grão-Mestre. Com todo o respeito que eu devo ao senhor, que é muito, e ao meu primo, que é algum." — ele finalmente virou a cabeça. — "Isso não é um capitão. É uma canção de taverna. E das ruins, que exageram em tudo para ganhar a cerveja do fim da noite."
+
+Luna: "É verdade, sir."
+
+*Jan se virou para ela.*
+
+Luna: "Tudo o que o mestre disse. Eu vi a cabeça do basilisco. Está atrás da cadeira dele, na tenda de comando, o senhor passou por ela hoje ao meio-dia e não reparou porque estava olhando para mim." — ela sorriu docemente. — "E se servir de alguma coisa, sir, ele está na minha lista dos rapazes mais inteligentes, mais bonitos e mais misteriosos que eu já conheci. Uma lista curta. Muito curta."
+
+*Sir Jan soltou uma risada e levou a mão ao peito, onde a armadura brilhava.*
+
+Sir Jan: "Ah. Então eu vou ter de desafiar esse rapaz para um duelo. Pelo coração da senhora Luna. É o que um cavaleiro faz, não é? Uma justa ao pôr do sol, diante da tropa, e o vencedor leva o..."
+
+Luna: "Sir. O meu coração é um prêmio grande demais para ser decidido num duelo de espadas." — ela deixou a égua andar um passo à frente da dele. — "E o rapaz tem dezessete anos. Ele está na lista dos rapazes, não na dos pretendentes. Eu faço listas separadas. É o meu método."
+
+*Jan abriu a boca, achou uma resposta, achou que a resposta era fraca e fechou a boca de novo, o que, nele, era uma coisa tão rara quanto um eclipse.*
+
+Hadrian: — que tinha acompanhado a troca toda com o rosto impassível — "Theron. A tua conselheira acabou de derrotar o meu primo duas vezes no mesmo dia."
+
+Theron: "Três, general. O escrivão anotou a primeira."
+
+*E então, mais sério, Theron puxou as rédeas do baio, e os outros três puxaram também. Estavam no alto de uma lomba rasa do caminho, de onde já se via, a quinhentos passos, a paliçada dupla do Forte Imperador e o campo aberto a oeste dele.*
+
+Theron: "General. Eu passei trinta anos aconselhando um duque do Império e oitenta comandando a Espada. Já descrevi muita coisa a muita gente. Mas não sei descrever aquele rapaz com palavras sem parecer que estou mentindo. Já tentei com o Duque de Thara. Já tentei com os meus próprios mestres." — ele apontou com o queixo para o campo a oeste do forte, onde se via, mesmo àquela distância, uma mancha enorme de homens em movimento. — "Então eu não vou descrever. Vou deixar que os senhores vejam."
+
+---
+
+*No Forte Imperador, meia hora antes, o dia tinha acabado do jeito que acabava todos os dias.*
+
+*Desde a segunda semana de março, todo fim de tarde, depois do treino, da obra, da forja, do rancho do meio-dia e de todo o resto, a Décima Segunda inteira saía pelo portão oeste e se apresentava em formação de batalha no campo de treino. Mil e duzentos homens. Ninguém faltava, nem os doentes que conseguiam ficar de pé, nem os cozinheiros, nem os ferreiros de Vavra, nem os cavalariços de Havel. Era a última hora de cada dia, e eu não abria mão dela por nada no mundo.*
+
+*No centro exato do campo, a quinze passos da primeira fileira, ficava a plataforma: um tablado de pinho de pouco mais de um homem de altura, com degraus de um lado e, em cima, uma mesa de campo, três cadeiras e uma vara de bandeira com o estandarte da divisão — o cervo coroado de Karên, com um galo bordado no canto de baixo por uma lavadeira de Zelenice que eu não tinha coragem de mandar descosturar.*
+
+*Eu estava de pé atrás da mesa, com as duas mãos espalmadas sobre os papéis. Ali estava o trabalho de quatro semanas: o desempenho de cada esquadrão nas últimas doze batalhas simuladas, quantos "mortos" cada um tinha sofrido e causado, quanto terreno tinha ganhado ou perdido, quanto tempo cada formação levava para fechar e para abrir, os erros que se repetiam e os que tinham parado de se repetir. Colunas de números na minha letra e na de Mathias, e um esboço que eu vinha rabiscando havia dias nas margens: uma estimativa honesta do que aquela divisão faria se encontrasse, num campo aberto, mil e duzentos homens de Drennor em vez de mil e duzentos homens dela mesma.*
+
+*Ainda não gostava da estimativa. Mas gostava mais do que da de abril.*
+
+*Bellatrix estava esparramada numa cadeira de campo à minha direita, com a raposa sobre os ombros, as botas cruzadas no tornozelo e uma taça de vinho na mão — a terceira desde que tínhamos subido, pelas minhas contas. Nerith estava sentada na cadeira da esquerda, com as costas retas e o tratado de geometria arcana aberto no colo, virando as páginas como quem conta moedas.*
+
+*Lá embaixo, os quatro tenentes andavam entre as fileiras organizando a formação: Jorolav na infantaria, Svan nos arqueiros, Jarv cuidando dos que tinham vindo do trem e da forja e não sabiam ainda onde ficar, e Mathias com o livro, conferindo os nomes.*
+
+Bellatrix: "Todo dia." — ela olhou para o campo cheio de homens como uma duquesa olharia para um mercado de peixe. — "Todo santo dia, capitão. Às quatro e meia da tarde, quando todo homem civilizado neste continente está tomando um vinho decente e pensando no jantar, você enfia mil e duzentos homens neste pasto e me faz assistir eles se baterem com pau."
+
+Nerith: — sem levantar os olhos do livro — "Ninguém te obriga a assistir. A estrada de Drennor fica para o leste. É só seguir a fumaça das fogueiras de Volkovar. O Valmir deve estar morrendo de saudade."
+
+Bellatrix: "Ah, que gentil, Nerizinha. Lembrando-se de mim nas tuas orações."
+
+Nerith: "Eu não rezo."
+
+Bellatrix: "Não. Tu lês livros de geometria arcana durante o desjejum, o almoço e, aparentemente, a guerra. Diz-me uma coisa, querida, sinceramente: essa página que tu viraste agora, a da prova do tetraedro de Selmyr, tu entendeste ou viraste porque achaste que eu estava olhando?"
+
+Nerith: — virando a página seguinte com uma calma assassina — "Entendi. Entendi também o tetraedro, o cubo e a pirâmide de Aurélia, que tem um erro na segunda proposição. O que eu ainda não entendi é como uma mulher de cem anos bebe três taças de vinho antes das cinco da tarde e ainda consegue ficar sentada direito."
+
+Bellatrix: "Prática, querida. Cem anos de prática. Daqui a uns oitenta, se nenhum homem bêbado de uma grota te matar antes, tu também chegas lá."
+
+*Nerith fechou o livro com um estalo seco. O violeta subiu na ponta de dois dedos.*
+
+*Eu ri.*
+
+*Não muito alto. Só o bastante para as duas pararem e olharem para mim ao mesmo tempo, com a mesma expressão de ofensa. Era a terceira vez naquela semana que elas brigavam na plataforma, e eu tinha descoberto, sem querer, que era uma das coisas de que eu mais gostava no fim do dia. Duas das pessoas mais perigosas daquele vale trocando farpas como duas gatas num telhado, e nenhuma das duas disposta a ser a primeira a sacar as garras de verdade.*
+
+André: "Continuem. Eu tenho dez minutos até a formação fechar."
+
+Bellatrix: "Ele está se divertindo, Nerith. Olha a cara dele. Isso é crueldade."
+
+Nerith: "É a primeira coisa sensata que você diz hoje."
+
+*Foi aí que o sargento Bedrich subiu os degraus da plataforma.*
+
+*Vinha da estrada leste, com a patrulha da manhã formada lá embaixo, ao pé do tablado: cinquenta homens cobertos de poeira e de suor de oito horas de marcha. Bedrich parou a dois passos da mesa, bateu o calcanhar, ergueu o punho ao peito e falou na voz de relatório que eu tinha ensinado a todos os sargentos — sem enfeite, sem opinião, uma frase por fato.*
+
+Sargento Bedrich: "Capitão. Sargento Bedrich, patrulha leste, apresentando relatório."
+
+André: — sem tirar os olhos dos papéis — "Fala."
+
+Sargento Bedrich: "Saída pelo portão sul às nove e quinze. Cinquenta homens, quatro esquadras de doze mais o sargento e um batedor. Rota: estrada da floresta leste até o marco de pedra das três léguas, retorno pela margem do córrego. Nenhum contato com o inimigo. Nenhum sinal de batedor de Drennor. Uma família de carvoeiros na clareira das duas léguas, três adultos e quatro crianças, sem documento; mandados para o Vado de Bren com aviso da guarnição. Encontramos o local do combate do capitão às dez e quarenta. Marcas de luta na estrada numa extensão de quarenta passos. Sangue verde no barro e no capim. Dois fragmentos de carapaça, do tamanho da palma da mão, recolhidos." — ele tirou da bolsa do cinto um pedaço de quitina cinzenta e o pousou na beira da mesa. — "Pira na clareira a oeste da estrada, apagada. Restos humanos queimados, três corpos. Não tocamos."
+
+*Assenti sem erguer os olhos. Ele continuou.*
+
+Sargento Bedrich: "Senhor. O corpo da criatura não estava na estrada."
+
+*Ergui os olhos.*
+
+André: "Como assim, não estava?"
+
+Sargento Bedrich: "Não estava, senhor. Procuramos num raio de cento e cinquenta passos. Mato, valas, beira de córrego, debaixo das árvores tombadas. Nada. Nem o corpo, nem as patas, nem a cabeça que o capitão disse que tinha... perdão, a cabeça estava com o capitão. Mas o resto, nada. Só o sangue, as marcas da luta e o rastro."
+
+André: "Que rastro?"
+
+Sargento Bedrich: "Um rastro de arrasto, senhor. Largo, como de um tronco puxado pela lama. Sai da estrada para o norte, entra no mato, e depois de vinte passos desaparece. Não termina. Desaparece. Como se a terra tivesse engolido."
+
+*Larguei os papéis.*
+
+André: "Isso é impossível. Uma coisa daquele tamanho não some. Pesava mais que um boi. Não tinha cabeça. Estava morta, sargento, eu separei o cefalotórax do resto do corpo com a espada. Uma carcaça daquelas não levanta e vai embora andando."
+
+Sargento Bedrich: "Sim, senhor. Não levantou, senhor. Foi levada."
+
+*Bellatrix pousou a taça no braço da cadeira. Pela primeira vez naquela tarde, as botas dela se descruzaram.*
+
+Bellatrix: "Sargento. Tem mais alguma coisa errada naquele lugar, não tem? Está escrito na tua testa, rapaz. Diz."
+
+*Bedrich olhou para mim. Eu assenti.*
+
+Sargento Bedrich: "Tem, senhora. As árvores." — ele hesitou, procurando a palavra certa, e eu vi que era a parte do relatório que ele mais tinha temido. — "As árvores em volta do lugar da luta estavam... estranhas, senhora. Os galhos retorcidos. Não quebrados pela tempestade, senhora, eu sei como fica um galho quebrado por vento, eu sou de Zelenice, a gente vive de lenha. Retorcidos. Enrolados em volta deles mesmos, como corda molhada. E as raízes." — ele engoliu em seco. — "Raízes saindo da terra. Muitas. Finas e grossas, sinuosas, como cobras, saindo do mato dos dois lados e atravessando a estrada até o lugar onde o corpo devia estar. De manhã, quando o capitão passou, aquilo não estava ali. Os homens que estiveram lá antes da gente, os carvoeiros, disseram que não estava. Às dez e quarenta, estava."
+
+*Nerith fechou o livro.*
+
+*Não com estalo dessa vez. Devagar, com as duas mãos, do jeito que se fecha uma porta atrás de uma coisa que dormia.*
+
+Nerith: "Liche."
+
+*Bellatrix ficou calada um instante. Depois assentiu, devagar.*
+
+Bellatrix: "A nossa Nerizinha tem razão. Galho retorcido sem vento, raiz que anda, rastro que a terra engole. É assinatura de liche, tão clara quanto um selo de cera." — ela tamborilou os dedos enluvados no braço da cadeira. — "E aquele teu soldado da Sétima, capitão, o que acharam empalado nos galhos em abril, aquele que fez o meu tio proibir a caça nesta floresta... Galho não empala homem sozinho."
+
+André: "Mas."
+
+Bellatrix: "Mas." — ela se inclinou para a frente na cadeira, e os olhos lilás ganharam aquela luz de quem resolve um enigma por esporte. — "Mas é estranho, capitão. É muito estranho. Um liche não come carne. Caça, sim. Mata o que entra no território dele, sim, e às vezes com muito gosto. Mas não come. E mesmo que comesse, ninguém em juízo perfeito, homem, fera ou relicto, come miriápode: a carne é venenosa até a medula, qualquer alquimista sabe disso. Então o liche não levou o corpo para comer." — ela ergueu um dedo. — "Primeiro: a tua miriápode tinha o dobro do tamanho que o livro do teu feiticeiro morto diz que ela tem. Segundo: um liche, que não tem motivo nenhum para querer aquela carcaça, foi buscá-la na estrada, em plena manhã, a menos de duas léguas de um acampamento de dois mil homens. E terceiro, se eu juntar o primeiro com o segundo..."
+
+André: "Alguém fez aquela coisa crescer."
+
+Bellatrix: "Alguém fez aquela coisa crescer. Com magia, capitão, e não da mais limpa. E alguém mandou buscar o corpo quando ela morreu. Ninguém recupera a carcaça de uma miriápode por apego sentimental. A única coisa que justifica arriscar um relicto à luz do dia a duas léguas de um exército para recuperar um cadáver venenoso é que aquele cadáver não era só um bicho." — ela recostou-se de novo e pegou a taça. — "Era um investimento."
+
+*O vento da tarde passou pela plataforma e mexeu as folhas da mesa.*
+
+*Lá embaixo, mil e duzentos homens terminavam de se alinhar.*
+
+*Cruzei os braços. Olhei para o pedaço de quitina cinzenta na beira da mesa, que Bedrich tinha trazido. Depois para Bedrich.*
+
+André: "Bom relatório, sargento. A tua patrulha está dispensada do treino final de hoje. Rancho dobrado para os cinquenta. E manda o batedor que viu o rastro falar com o tenente Svan antes do jantar. Quero o lugar exato num mapa."
+
+Sargento Bedrich: "Sim, capitão."
+
+*Ele desceu. Esperei até ele estar longe o bastante para não ouvir. Depois me virei para Bellatrix.*
+
+André: "Três meses."
+
+*Ela ergueu os olhos da taça.*
+
+André: "Três meses que eu venho te pagando, Bellatrix. Cinquenta ouros por mês, do meu bolso, contados na tua mão no último dia de cada mês. Cento e cinquenta ouros até agora. E sinceramente..." — deixei a frase pendurada no ar por um instante. — "...até agora eu não tive um retorno que valesse a pena."
+
+*Era mentira, e nós dois sabíamos disso.*
+
+*O dossiê de Volkovar, as quarenta e duas folhas sobre o Voivoda Volk, valia mais que o salário dela de um ano, e eu mesmo tinha dito isso na cara dela em fevereiro. Mas eu não estava falando do dossiê. Eu queria ver o que ela fazia com o medo.*
+
+*E ela fez exatamente o que eu esperava.*
+
+*Não mexeu um músculo do rosto. Bellatrix tinha cem anos de corte e trinta e seis de conselho real, e o rosto dela era uma máscara de esmalte que nenhum rei de Drennor tinha conseguido rachar. Mas a mão esquerda subiu meio palmo, sozinha, na direção do disco de obsidiana na garganta, e parou no meio do caminho, porque ela percebeu que estava subindo. Os olhos lilás desceram um instante para a taça. A respiração ficou meio tom mais curta. Ela estava fazendo contas. Eu conhecia aquele tipo de conta: era a conta de uma mulher que tinha fugido de um reino com a roupa do corpo, que tinha perdido o grimório e a bolsa num desfiladeiro, que dormia numa tenda de lona a dez passos de uma feiticeira que a odiava, e que dependia daqueles cinquenta ouros por mês para tudo — o vinho, as velas, o óleo das botas, o silêncio dos criados, a própria vida longe das fogueiras de Halvard. Se o menino se arrependesse, ela estava em sérios problemas. E ela não tinha a menor ideia do que dizer para convencê-lo do contrário.*
+
+*Deixei que ela ficasse pensando.*
+
+*Um. Dois. Três. Quatro. Cinco.*
+
+*Nerith, do meu outro lado, tinha parado de respirar também. Não por Bellatrix. Estava olhando para mim.*
+
+*Em cinco segundos de silêncio, eu li mais de Bellatrix do que em três meses de vinho e farpas. Li que ela tinha medo de fome mais do que de fogo. Li que ela não tinha nenhum plano para o dia seguinte se eu a mandasse embora. E li, por baixo de tudo, uma coisa que eu não esperava: ela não queria ir. Não pelo ouro. Pelo lugar.*
+
+André: "Pelo menos até agora."
+
+*Os olhos dela subiram.*
+
+André: "Porque finalmente eu achei alguma coisa útil para você fazer, além de beber vinho o dia inteiro e ficar de fofoca com a nossa bela Nerith aqui."
+
+Nerith: "Eu não faço fofoca."
+
+André: "Eu sei. É ela que faz. Você só responde."
+
+*Bellatrix soltou o ar que estava segurando. Fez isso com elegância, como fazia tudo, transformando o alívio num suspiro entediado. Mas eu vi.*
+
+André: "Você é inteligente, Bellatrix. É a mulher mais inteligente que eu conheço, e eu conheço a minha noiva. E é poderosa, mesmo com o Selo meio vazio, mais poderosa do que qualquer coisa que se mexa naquela floresta. Descobrir o que está acontecendo lá dentro tem de ser fácil para você." — bati com o dedo no pedaço de quitina. — "Cace o liche. Ache-o. Descubra a causa do distúrbio na floresta: quem está engordando os bichos, e para quê, e para onde levaram aquele corpo. E volte para me contar antes de tomar qualquer decisão. Qualquer uma. Não mata, não negocia, não queima. Ache, olhe e conte."
+
+Bellatrix: "E as condições do meu tio? 'Nenhuma magia no platô sem a palavra dele. Não deixar o perímetro.'"
+
+André: "A floresta não é o platô. E o teu tio vai saber de tudo hoje à noite. Por mim."
+
+*Nerith fechou o livro sobre o colo de novo.*
+
+Nerith: "Capitão. Peço permissão para acompanhar a tenente Bellatrix."
+
+André: "Não."
+
+Nerith: "É para garantir que ela vai cumprir a missão. Que vai voltar. Que não vai aproveitar a floresta para..."
+
+André: "Não, Nerith."
+
+Nerith: "André."
+
+André: "Eu já tenho outra missão para você." — olhei para ela de frente. — "Amanhã. Depois que o general for embora. Você vai saber de manhã."
+
+*Ela abriu a boca. Fechou. Me encarou por um momento longo, com o queixo erguido, e depois baixou os olhos para o livro com a mesma emburração quieta do meio-dia.*
+
+Nerith: (Outra missão. Ele já sabe qual é. Já sabia antes de eu perguntar. E não vai me dizer até de manhã porque quer que eu passe a noite inteira pensando nisso.) — e, logo depois, sem querer: — (Desgraçado.)
+
+André: — de volta a Bellatrix — "E não se preocupe com a parte de ela voltar ou não, Nerith. Ela volta. É uma missão fácil para alguém como ela. E ela sabe que, se não voltar, a próxima pessoa que vai entrar naquela floresta atrás dela sou eu."
+
+*Bellatrix inclinou a cabeça, e havia nos olhos lilás uma coisa entre o alívio e o desafio.*
+
+Bellatrix: "Começo ao anoitecer, capitão. Liches gostam do escuro. Eu também."
+
+---
+
+*Lá embaixo, a formação estava fechada.*
+
+*Mil e duzentos homens em ordem de batalha, olhando para a plataforma. A infantaria no centro, em três linhas de quatrocentos, os escudos encostados na perna e as lanças sem ponta na vertical como uma floresta de varas. Os arqueiros em dois blocos nos flancos, atrás da infantaria, as aljavas cheias de flechas com a ponta envolta em trapo acolchoado e costurado — "veludo", os homens chamavam, por ironia, porque a única coisa macia que um lavrador de Zelenice já tinha visto na vida era o forro da capa de um nobre de passagem. A cavalaria de Havel em duas alas de vinte e seis nas pontas, os cavalos mexendo as orelhas, pacientes. E ao pé da plataforma, à direita, Milos com a corneta de cobre do arsenal pendurada no peito, esperando.*
+
+*Os quatro tenentes subiram os degraus e se postaram atrás de mim.*
+
+*Desci as mãos da mesa. Dei a volta. Fui até a borda da plataforma.*
+
+*Mil e duzentos rostos.*
+
+André: "Décima Segunda!"
+
+*Mil e duzentas vozes.*
+
+Tropa: "CAPITÃO!"
+
+André: "Fase um! Comando!"
+
+*E começou.*
+
+André: "Em coluna de quarteirão! Pela direita! MARCHE!"
+
+*Milos levou a corneta à boca: um longo, um curto, um longo. A formação de batalha se desfez como um novelo que alguém puxa pela ponta certa: a primeira linha girou para a direita, quarteirão por quarteirão, e cada quarteirão se encaixou atrás do anterior, Zelenice atrás de Dubrava, Dubrava atrás de Kragenhall, os desertores perdoados atrás de todos. Em menos de dois minutos, a divisão inteira era uma coluna de marcha de oito homens de largura, serpenteando pelo campo, com a cavalaria fechando a frente e a retaguarda e os arqueiros nos flancos da coluna.*
+
+*Deixei que andassem duzentos passos.*
+
+André: "Abrir em linha! Pela esquerda! FRENTE AO FORTE!"
+
+*Dois longos. A coluna parou, girou sobre o eixo do primeiro quarteirão e se desdobrou para a esquerda como um leque se abre: quarteirão após quarteirão saindo da coluna e indo ocupar seu lugar na linha, sem correr, sem empurrar, sem nenhum homem perguntar ao vizinho para onde ia. Quando o último quarteirão chegou, a linha estava refeita, três fileiras de profundidade, de frente para o forte. Jorolav, atrás de mim, deixou escapar um grunhido. Era a coisa mais próxima de um elogio que ele sabia fazer.*
+
+André: "Parede! Passo de batalha! AVANÇAR!"
+
+*Um longo. A linha da frente ergueu os escudos e encostou um no outro, CLAC, e a divisão começou a andar. Não marchava: andava, no passo curto e pesado de quem anda com o peso de um escudo e de um homem atrás, os pés esquerdos todos no chão ao mesmo tempo, como um tambor. Cinquenta passos.*
+
+André: "SEGURAR!"
+
+*Dois curtos. A parede parou num único passo, e o chão parou de tremer.*
+
+André: "Troca de linha!"
+
+*Um curto e dois longos — o toque que eu tinha acrescentado ao Manual em março, quando descobri, numa noite, lendo o tratado do Duque, que as legiões do velho Império ganhavam batalhas longas não por serem mais fortes, mas por saberem cansar menos. A primeira fileira abriu um palmo entre os escudos, e por cada abertura a segunda fileira passou, de lado, os escudos erguidos, enquanto a primeira recuava pela mesma brecha e ia ocupar o lugar da segunda. Era a manobra mais difícil do Manual. Em março, levava quatro minutos e deixava a parede aberta como uma boca desdentada. Agora levava quarenta batidas de coração e, olhando de cima, quase não se via a parede abrir.*
+
+André: "Recusar a esquerda!"
+
+*Três curtos e um longo. A ponta esquerda da linha, os últimos quatro quarteirões, recuou e girou em ângulo, como uma porta que se fecha até a metade, formando um cotovelo. Era o que se fazia quando a cavalaria inimiga tentava contornar a linha: o flanco virava e passava a olhar para ela, em vez de dar-lhe as costas.*
+
+André: "Linha de projéteis! Flanco direito!"
+
+*Um longo e um curto. Os arqueiros do bloco da direita avançaram por entre os quarteirões da infantaria em duplas — o escudeiro na frente, o arqueiro atrás, encostado no escudo como numa porta —, cinquenta duplas que brotaram da linha como espinhos brotam de um galho.*
+
+André: "Disparar!"
+
+*Cinquenta flechas acolchoadas subiram ao céu de maio num arco único e caíram cem passos à frente, num campo vazio, levantando uma nuvem de poeira e de trapo.*
+
+André: "RECOLHER!"
+
+*As cinquenta duplas recuaram pelos mesmos espaços e sumiram atrás da parede como se nunca tivessem saído.*
+
+André: "Havel! Fingir carga pela direita! Voltar!"
+
+*Havel não precisou de corneta. Ergueu o braço, e as vinte e seis montarias da ala direita saíram a trote, depois a meio galope, numa linha tão reta que parecia traçada com régua, avançaram cem passos em direção a um inimigo imaginário e, a vinte passos do ponto onde estaria a primeira fileira desse inimigo, viraram todas ao mesmo tempo, como um bando de estorninhos, e voltaram ao flanco no mesmo galope.*
+
+André: "Recuar! Em ordem!"
+
+*Três curtos. A parede inteira deu um passo para trás, os escudos ainda erguidos, os olhos ainda à frente. Outro passo. Outro. Ninguém virava as costas. Era a lição que mais tinha custado a entrar na cabeça daqueles homens, e a que mais salvaria vidas: recuar não é fugir. Quem foge vira as costas, e as costas não têm escudo.*
+
+André: "Unha!"
+
+*Três longos. A única ordem do Manual que ninguém naquela divisão podia dar além de mim. O centro da parede avançou dois passos à frente das pontas, as pontas recuaram em diagonal, e em seis batidas de coração a linha reta tinha virado uma cunha de escudos com o vértice apontado para o forte, os homens mais fortes de cada quarteirão empurrando para a frente o ombro do vizinho.*
+
+André: "SEGURAR!"
+
+*Dois curtos. A cunha parou.*
+
+André: "Descansar."
+
+*Quatro curtos. Mil e duzentos homens soltaram o ar ao mesmo tempo, e o som foi como o de uma onda se desfazendo na areia.*
+
+*Tirei a ampulheta de meia hora da sacola presa à cela de Cavalo, que o cavalariço tinha trazido até o pé da plataforma, e a pousei na mesa.*
+
+André: "Fase dois. Batalha simulada."
+
+*Olhei para Mathias. Ele abriu o livro na página do dia e leu em voz alta, para que os quatro tenentes ouvissem, a lista que eu tinha feito de manhã cedo, antes de sair para a floresta.*
+
+Mathias: "Faixa branca: tenente Jorolav, no comando. Esquadrões de Bohdan, Lubor, Gorek, Šimon, Hynek, Vojta, Dalimil, Přemysl, Radek, Ota, Kryštof e Vavřinec. Arqueiros de Ondra, Ctirad e Jiří. Cavalaria: sargento Havel. Faixa preta: tenente Mathias — eu, capitão — e tenente Svan. Esquadrões de Bedrich, Kuba, Tomik, Zdeněk, Matěj, Kamil, Lukáš, Oldřich, Bořivoj, Vratislav, Mirko e Jaroš. Arqueiros de Mirek, Bořek e Sobek. Cavalaria: sargento Stanislav."
+
+*Os sargentos foram para os lados que lhes tinham sido sorteados, e eu os vi, de cima, procurarem uns aos outros com os olhos: quem tinha estado do mesmo lado na semana passada estava hoje do outro. Era de propósito. Eu nunca deixava a mesma equipe junta duas vezes seguidas. Misturava sargentos, trocava tenentes de lado, separava os quarteirões que já se conheciam de cor. Uma divisão que só sabe lutar com os mesmos vizinhos de sempre perde a batalha no dia em que o vizinho morre.*
+
+*Os homens amarraram as faixas no braço. As duas metades se afastaram uma da outra, cada uma para a sua linha de partida, a duzentos passos de distância, com a plataforma exatamente no meio e um marco de pedra pintado de cal a cada vinte passos no chão entre elas, para medir o terreno.*
+
+*As regras eram as de sempre, e todos as sabiam de cor. Quem fosse tocado no tronco ou na cabeça por uma lança sem ponta, uma espada de madeira ou uma flecha de "veludo" estava morto e sentava no chão de braços cruzados, até o fim. Quem fosse tocado num braço não podia mais usar aquele braço. Numa perna, ajoelhava e ficava onde estava. A cavalaria de cada lado tinha uma única tarefa: impedir que a cavalaria do outro lado contornasse a linha da sua infantaria. Os arqueiros, flanquear e quebrar o avanço inimigo, sem se expor à cavalaria contrária. Vencia quem, quando a areia da ampulheta acabasse, tivesse ganhado vinte passos de terreno ou matado um sexto a mais de homens que o outro. Fora disso, era empate.*
+
+*A última vitória tinha sido no mês anterior. Desde então, onze empates seguidos.*
+
+*Desci da plataforma, montei em Cavalo, prendi a tabuleta de cera no antebraço esquerdo e o estilete entre os dentes.*
+
+*Virei a ampulheta.*
+
+---
+
+*Os primeiros cinco minutos foram de silêncio.*
+
+*As duas metades da Décima Segunda avançaram uma em direção à outra no passo de batalha, em Parede, devagar, sem um grito, e o único som que atravessava o campo era o das botas batendo no chão em compasso, e o dos escudos se encostando e desencostando no ritmo do passo. Nos flancos, os arqueiros das duas faixas avançavam atrás dos quarteirões, em duplas, procurando o ângulo. Nas pontas, as duas cavalarias andavam a passo, paralelas, cada uma de olho na outra.*
+
+*De cima da plataforma, com a taça na mão e a raposa nos ombros, Bellatrix deixou escapar um som baixo.*
+
+Bellatrix: "Olha a cavalaria."
+
+Nerith: — que tinha parado de fingir que lia — "O que é que tem a cavalaria?"
+
+Bellatrix: "Ninguém carrega. Vinte e seis cavalos de cada lado, e ninguém carrega. Olha como andam: paralelos, a passo, a cem passos um do outro. Parecem duas bestas carregadas, apontadas uma para a outra no mesmo corredor de castelo. Quem atirar primeiro dá ao outro o tempo exato de que ele precisa para atirar no buraco que ficou." — ela tomou um gole. — "Em Saravault eu vi cavalaria de dois mil homens fazer isto. Nunca vi cavalaria de lavrador fazer."
+
+*Na borda oeste do campo, a trinta passos da última fileira, quatro cavaleiros pararam no alto da lomba de onde a estrada da Sétima descia.*
+
+*Theron puxou as rédeas do baio. Hadrian, ao lado dele, puxou também, e ficou imóvel na sela, com o elmo ainda debaixo do braço. Luna parou a égua um pouco atrás. Sir Jan Žižka de Trocnov, no garanhão negro, parou ao lado do primo e não disse nada. E continuou não dizendo nada pelos trinta minutos seguintes.*
+
+Hadrian: "O que é isto, Theron?"
+
+Theron: "Não sei, general. Nunca vim ver."
+
+*Era verdade. Em três meses, Theron tinha lido todos os relatórios que eu mandava ao Fayfar toda semana, tinha conversado com Luna sobre tudo o que acontecia no forte, tinha jantado duas vezes na tenda de comando e tinha passado pelo portão sul uma dúzia de vezes. Mas nunca tinha vindo ver o treino do fim da tarde. Não por desinteresse. Por um medo pequeno, que ele não confessava nem a si mesmo, do que encontraria.*
+
+Luna: "Batalha simulada, general. Todo fim de tarde. Seiscentos contra seiscentos, mesma infantaria, mesmos arqueiros, mesma cavalaria, mesmas armas. Espada de madeira, lança sem ponta, flecha com trapo na ponta. O capitão divide a divisão em duas e troca os sargentos e os tenentes de lado todo dia, para ninguém se acostumar com o vizinho. Vence quem ganhar vinte passos de terreno, ou matar um sexto a mais do que o outro, antes de a areia da ampulheta acabar." — ela fez uma pausa. — "Eu vi uma vez, em abril. Fiquei com a mesma cara que os senhores estão fazendo agora."
+
+*Aos seis minutos, as duas paredes se encontraram no centro do campo, exatamente sobre o marco do meio.*
+
+*O som foi o de duas portas de celeiro se fechando uma contra a outra. CLAC. E depois o empurrão, surdo, de quatrocentos ombros contra quatrocentos ombros, as lanças sem ponta passando por cima dos escudos da primeira linha, procurando rosto, procurando peito, recuando, procurando outra vez.*
+
+*Eu cavalgava devagar por trás da faixa preta, a três passos da última fileira, olhando. O estilete riscava a cera.*
+
+*E foi aí que o primeiro erro aconteceu.*
+
+*O esquadrão de Kuba, na faixa preta, terceiro da esquerda — o rapaz da braçadeira de três semanas, que de manhã jurava que a esquadra dele fechava a tartaruga em catorze batidas sozinha —, empurrou com vontade demais. A parede dele avançou meio passo à frente da dos vizinhos. Meio passo. Num campo de duzentos passos, não era nada.*
+
+*Na parede, era uma porta aberta.*
+
+*Do outro lado, o esquadrão de Bohdan de Zelenice — o mesmo Bohdan que, em fevereiro, tinha "matado" o capitão com um ferrão de treino e tinha virado sargento em março por isso — viu a porta. Bohdan não gritou. Bateu duas vezes com o cabo da lança no escudo do homem da direita, e os três homens da segunda linha dele enfiaram as lanças sem ponta no buraco que o meio passo de Kuba tinha aberto entre o escudo dele e o do vizinho. Quatro "mortos" na faixa preta em três batidas de coração. Quatro homens de Kuba sentaram no chão de braços cruzados, com cara de quem tinha engolido uma pedra.*
+
+*E então o esquadrão de Bedrich, ao lado, fez a coisa certa: em vez de avançar para socorrer Kuba, que era o que o instinto mandava, deu um passo para o lado e fechou a brecha com o próprio escudo, encostando no escudo do último homem de pé de Kuba. A parede se recompôs. O buraco sumiu.*
+
+*Risquei: Kuba, erro. Bohdan, acerto. Bedrich, acerto.*
+
+Hadrian: — a trinta passos dali, sem tirar os olhos do campo — "Viu aquilo, Theron? Aquele esquadrão da esquerda que fechou o buraco do vizinho em vez de avançar?"
+
+Theron: "Vi."
+
+Hadrian: "Eu tenho coronéis que não fariam aquilo. Eu tenho coronéis que, vendo um buraco na parede do vizinho, mandariam a tropa inteira avançar para 'aproveitar o momento'. E perderiam a parede inteira no processo."
+
+*Theron não respondeu. Estava olhando para o campo, mas não estava vendo só o campo.*
+
+Theron: (Isto é uma legião. Uma legião de lavradores. Eu servi trinta anos ao lado de um duque do Império. Vi as legiões de Saravault em parada, de armadura espelhada, com vinte anos de tradição e mestres de armas pagos a peso de ouro. Fechavam a tartaruga em doze batidas e trocavam a linha da frente debaixo de flecha sem perder um palmo. Levaram trezentos anos para chegar a isso. Ele levou três meses.)
+
+*Aos dez minutos, o flanco esquerdo da faixa branca começou a ceder.*
+
+*Não por fraqueza. Por isca. Os arqueiros da faixa preta, os de Mirek, tinham avançado pelo lado esquerdo da linha, em duplas, rente ao campo, e começado a disparar contra o flanco branco em arco baixo, de oitenta passos, flechas de veludo caindo em cima dos quarteirões de Dalimil e de Přemysl. Três brancos "mortos". Cinco. Sete.*
+
+*Jorolav, do outro lado, não mandou avançar contra os arqueiros. Mandou recusar a esquerda: três curtos e um longo, soprados pela corneta da faixa branca. Os quatro últimos quarteirões brancos giraram em cotovelo e passaram a apresentar os escudos de frente para as flechas, e as flechas de Mirek começaram a bater em madeira em vez de bater em homem.*
+
+*Mirek viu e avançou mais. Quis o ângulo de volta. Avançou trinta passos além do que devia, para fora da sombra da própria infantaria, com as vinte duplas dele expostas no campo aberto.*
+
+*E Havel, que estava esperando exatamente aquilo havia dez minutos, mandou seis.*
+
+*Não as vinte e seis. Seis. Seis cavaleiros da ala direita branca saíram a galope, cortaram o campo em diagonal, passaram por cima das duplas de Mirek como vento sobre trigo — as lanças sem ponta batendo em ombro, em escudo, em costas —, deixaram cinco duplas "mortas" no chão e viraram de volta antes que os arqueiros conseguissem armar o segundo disparo.*
+
+*Mas viraram tarde. Dois segundos tarde. E naqueles dois segundos, o flanco direito branco ficou com seis cavaleiros a menos e um buraco do tamanho de um celeiro entre a ala de Havel e a infantaria.*
+
+*Do outro lado, Stanislav, sargento da cavalaria preta, viu o buraco.*
+
+*E hesitou.*
+
+*Hesitou um segundo a mais do que devia. Quando decidiu, Havel já tinha voltado e fechado o flanco. A besta tinha passado de engatilhada a desarmada, e Stanislav continuava com a mão no gatilho.*
+
+*Risquei: Mirek, erro. Havel, acerto e erro. Stanislav, erro. Mas Stanislav tinha conseguido, durante toda a escaramuça, manter as vinte e seis montarias dele exatamente entre os arqueiros de Ondra e o flanco preto, sem nunca deixar que Ondra se aproximasse. Acerto também.*
+
+*Lá em cima, Bellatrix tinha se inclinado para a frente na cadeira.*
+
+Bellatrix: "Viste aquilo, Nerith?"
+
+Nerith: "Vi. O ruivo da cavalaria preta dormiu."
+
+Bellatrix: "Dormiu um segundo. E o velho da cavalaria branca soube que ele ia dormir. É isso que me assombra, querida. Não é a técnica. É que eles se conhecem. Eles sabem o que o outro vai fazer antes de o outro saber." — ela girou a taça nos dedos. — "Ele os mistura todo dia para que não se acostumem com os vizinhos, e mesmo assim eles se conhecem. Isso é o que três meses de sopa na mesma fila fazem."
+
+*Nerith não respondeu. Estava olhando para baixo, para o cavaleiro de cabelo negro e cacheado que passava devagar por trás da faixa preta, de tabuleta no braço e estilete na boca, no cavalo castanho-escuro, sem dar uma única ordem.*
+
+Nerith: (Ele não manda nada. Passou a vida inteira mandando: mandando no estalajadeiro de Coldbeck, mandando nos quatro tenentes, mandando em mim, mandando na Bellatrix, mandando no Theron do jeito dele, sem parecer que manda. E agora está ali embaixo, em cima do cavalo, no meio de mil e duzentos homens que se batem por ele, e não dá uma única ordem. Só olha. Anota. Deixa eles errarem.) — e, logo depois: — (Hoje de manhã ele deixou uma criança morrer nos braços dele. Na hora do almoço, enforcou uma mentira sem enforcar ninguém. E agora está aí, anotando onde cada lavrador pisou errado. Como é que uma pessoa carrega tudo isso no mesmo dia sem quebrar?)
+
+*Ela não tinha resposta. Fechou o livro em cima do colo e não o abriu de novo.*
+
+*Aos quinze minutos, foi a vez de Mathias.*
+
+*A faixa preta vinha aguentando o centro havia nove minutos seguidos. Os homens da primeira linha estavam vermelhos, encharcados de suor, os braços tremendo debaixo do peso do escudo e da lança. Jorolav, do outro lado, sabia disso, e mandou a faixa branca empurrar: um longo, a parede branca avançando um passo, dois, três, o marco do meio ficando para trás dos brancos, a faixa preta cedendo terreno.*
+
+*Mathias, o magro dos dedos de tinta, o escrivão que tinha sido sargento de registro e virado tenente porque era o único homem na divisão de fevereiro que sabia ler, levou a mão à corneta da faixa preta. Um curto, dois longos.*
+
+*Troca de linha.*
+
+*No meio de uma parede debaixo de pressão. No meio de um empurrão.*
+
+*Foi a coisa mais bonita que eu vi naquele dia.*
+
+*A primeira linha preta abriu um palmo entre os escudos — um palmo só, no momento exato em que a parede branca recuava o ombro para o próximo empurrão — e a segunda linha passou pelas brechas como água por uma grade, de lado, de escudo erguido, e o empurrão branco seguinte encontrou homens descansados no lugar dos cansados. A parede branca bateu numa parede preta que não estava mais tremendo. E parou.*
+
+*Os esquadrões de Zdeněk e de Matěj, no centro preto, tinham feito a passagem sem perder um homem.*
+
+*Risquei: Mathias, acerto. Zdeněk, acerto. Matěj, acerto.*
+
+*E a trinta passos dali, Hadrian, o general do Primeiro Exército do Leste, que tinha visto quatro invernos de guerra e cento e tantas batalhas, soltou um palavrão que nenhum dos outros três jamais tinha ouvido sair da boca dele.*
+
+Hadrian: "Puta que pariu."
+
+Luna: — muito baixo, sorrindo de lado — "É mais ou menos o que eu disse em abril, general."
+
+Hadrian: "Ele trocou a linha da frente. Debaixo de empurrão. No meio do empurrão, Theron. Eu tenho coronéis de trinta anos de exército que não sabem que essa manobra existe. E um rapaz que era escrivão de vila em fevereiro acabou de fazer, sozinho, sem que ninguém mandasse."
+
+Theron: "Ninguém mandou hoje, general. Alguém ensinou antes."
+
+Hadrian: "Quem?"
+
+*Theron não respondeu. Não precisava.*
+
+Theron: (Maelstrom ensinava as pessoas a ter medo dele. Era a única coisa que ele sabia ensinar, e ensinava com perfeição. Este menino ensina as pessoas a não precisarem dele. Os sargentos decidem. Os tenentes decidem. Ninguém olha para a plataforma esperando ordem. E é por isso, exatamente por isso, que todos o seguiriam até o fim do mundo.) — e, logo depois, uma coisa mais fria, que ele não quis pensar e pensou: — (Um homem que ensina mil e duzentos soldados a decidir sozinhos pode, um dia, ensiná-los a decidir contra qualquer um. Contra o general. Contra o rei. Contra mim.)
+
+*Aos vinte minutos, Jorolav quis a Unha.*
+
+*Eu vi. Do lado de trás da faixa branca, montado, eu vi o gigante calado olhar para o centro preto recomposto, depois para a corneta da faixa branca, depois para a plataforma vazia onde eu não estava. A Unha teria rachado o centro preto. Uma cunha de escudos, com os homens mais fortes da faixa branca na ponta, enfiada no ponto onde a parede preta acabava de trocar de linha e ainda não tinha firmado o pé. Teria dado à faixa branca os vinte passos que faltavam para a vitória.*
+
+*Jorolav não mandou.*
+
+*Ninguém podia mandar a Unha além de mim. Estava no Manual, estava na Ordenança, estava gravado na cabeça de cada sargento. E o gigante calado olhou para a vitória que estava a um toque de corneta de distância, e não tocou, porque não era dele para tocar.*
+
+*Em vez disso, mandou a Tartaruga. Um longo, dois curtos. O centro branco se fechou em caixas de escudo, por cima e pelos lados, e se preparou para aguentar.*
+
+*Risquei: Jorolav, acerto. O maior do dia.*
+
+Bellatrix: — da plataforma, pousando a taça no chão pela primeira vez naquela tarde — "Ele não usou."
+
+Nerith: "Não usou o quê?"
+
+Bellatrix: "A cunha. A Unha. O gigante de lá podia ter usado, teria ganhado, e não usou. Porque só o menino pode mandar a Unha." — ela riu, baixo, quase sem fôlego. — "Cem anos, Nerith. Cem anos de corte, de exército, de rei. Já vi generais desobedecerem reis para ganhar uma batalha. Já vi reis perderem a coroa por isso. E aquele homem ali embaixo acabou de abrir mão de uma vitória só porque o garoto dele escreveu num papel que a Unha era dele." — ela recostou-se na cadeira. — "Isso não é disciplina. É religião."
+
+*Aos vinte e cinco minutos, a faixa preta respondeu à Tartaruga branca com os ferrões.*
+
+*Svan, que comandava o flanco preto, mandou os esquadrões de Tomik e de Kamil abrirem a parede e arremessarem: os ferrões de treino, com a ponta envolta em trapo como as flechas, voando em arco curto sobre a primeira linha branca e caindo sobre as caixas de escudo da Tartaruga. Bateram em madeira. Quase todos. Mas no esquadrão de Gorek, na Tartaruga branca, um homem viu um escudo de cima escorregar da mão do vizinho e cair no chão, e fez o que nenhum homem devia fazer numa Tartaruga: abaixou-se para pegar.*
+
+*Saiu da caixa. Meio corpo para fora.*
+
+*Dois ferrões no ombro. Um no pescoço. Morto. E o vizinho, sem o escudo de cima e sem o homem do lado, morto logo depois.*
+
+*Gorek era um dos desertores perdoados. Quarenta anos, quinze deles de exército, dois de deserção, três meses de Décima Segunda. Tinha virado sargento em abril porque sabia de cor uma coisa que a maioria daqueles lavradores ainda estava aprendendo. E o esquadrão dele, de todos, tinha sido o que quebrou a caixa.*
+
+*Risquei: Gorek, erro. E, logo abaixo: Tomik, acerto — o esquadrão dele tinha guardado o marco de pedra do flanco preto por vinte e cinco minutos sem ceder um palmo.*
+
+*Aos vinte e oito minutos, os dois lados estavam esgotados.*
+
+*Não havia mais empurrão de verdade. As paredes se encontravam, se empurravam por dez batidas de coração e se separavam de novo, em recuo ordenado, três curtos, um passo para trás, outro, outro, os escudos ainda erguidos, os olhos ainda à frente. E depois voltavam a avançar. E depois se separavam de novo. Era uma batalha de paciência. De precisão. De atrito puro, em que não vencia quem batia mais forte, mas quem tinha mais fôlego, mais disciplina, mais coesão, mais vontade de continuar quando o braço já não queria levantar o escudo.*
+
+*Ninguém corria. Ninguém gritava. Ninguém avançava como um bando de camponeses atrás de um saque. Havia mil e duzentos homens se batendo num campo de maio, e o único som que se ouvia, além da madeira contra a madeira, era o das cornetas dos dois lados e o da respiração de mil e duzentos peitos, pesada, em compasso.*
+
+*Luna, a trinta passos, olhou de lado para Hadrian. O general estava inclinado para a frente na sela, as duas mãos no arção, o rosto imóvel. Atrás dele, Sir Jan Žižka de Trocnov, o cavaleiro que nunca tinha perdido uma batalha, estava tão parado no garanhão negro que parecia uma estátua equestre de praça. Só os olhos se mexiam. Seguiam cada parede, cada recuo, cada troca de linha, com uma atenção de falcão que Luna nunca tinha visto naquele rosto. Ele não tinha aberto a boca uma única vez desde que pararam na lomba.*
+
+*Lá em cima, na plataforma, Bellatrix tinha puxado o capuz da raposa sobre a cabeça. Tinha feito isso no instante em que vira os quatro cavaleiros parados na lomba, sem uma palavra, e Nerith tinha reparado e não tinha perguntado. Generais e Bellatrix tinham um acordo antigo: eles não a viam, e ela não os via. A bruxa de olhos lilás de Brokran estava sentada numa cadeira de campo de pinho a trinta passos do general do Primeiro Exército de Karên, com o rosto na sombra de uma pele de raposa e uma taça de vinho pousada no chão, e o general estava olhando para outra coisa.*
+
+*Aos trinta minutos, o último grão de areia caiu.*
+
+*Ergui o braço.*
+
+*Milos, ao pé da plataforma, soprou o toque que encerrava tudo — quatro curtos, descansar — e as duas paredes pararam onde estavam, no meio de um avanço, no meio de um recuo, e os homens baixaram os escudos e as lanças e ficaram de pé, suando, arquejando, olhando uns para os outros como homens que acabam de voltar de muito longe.*
+
+*Cavalguei pela linha entre as duas metades, contando. Mathias, lá em cima, contava os mortos sentados de cada lado com o livro aberto.*
+
+*Faixa branca: sessenta e três mortos, quarenta e um feridos. Faixa preta: cinquenta e nove mortos, quarenta e sete feridos. O marco do meio tinha ido seis passos para o lado dos pretos e voltado quatro. Dois passos de terreno para os brancos, quatro mortos a mais para os brancos.*
+
+*Empate técnico.*
+
+*O décimo segundo seguido.*
+
+*E eu, que tinha começado aquela guerra querendo vencer em menos de um ano, montado em Cavalo no meio de mil e duzentos homens exaustos que tinham passado meia hora se matando de mentira sem que nenhum dos lados conseguisse romper o outro, achei aquilo o melhor resultado que podia ter.*
+
+*Porque se dois pedaços iguais da mesma divisão não conseguiam se quebrar, ninguém mais ia conseguir quebrá-la com facilidade.*
+
+---
+
+*Voltei para a plataforma a trote, desmontei ao pé dos degraus e subi. Os tenentes já estavam lá em cima: Jorolav, suado, com o rosto de pedra; Mathias, com o livro; Svan, encostado na vara do estandarte; Jarv, de olho bom e olho leitoso, sorrindo para ninguém. Nerith se levantou da cadeira quando eu passei. Bellatrix, debaixo do capuz, não se mexeu.*
+
+*E foi então que os quatro cavaleiros da lomba desceram.*
+
+*Vieram a passo, pela borda do campo, até o pé da plataforma, e pararam ali, ao lado de Cavalo. Hadrian desmontou primeiro, devagar, com o rangido da armadura amassada. Depois Theron, Luna, e por último Jan, que desceu do garanhão negro com um movimento só, como se a armadura de placas pesasse o que pesa uma camisa.*
+
+*Hadrian subiu os degraus da plataforma. Estava animado. Pela primeira vez naquele dia, o rosto cansado tinha uma cor de homem vivo.*
+
+Hadrian: "Capitão. Capitão André, eu presumo. Eu sou Hadrian, general do Primeiro Exército do Leste, e eu tenho de dizer que o que eu acabei de ver ali embaixo é a coisa mais impressionante que eu vi em quatro invernos de guerra, e eu quero saber exatamente como você..."
+
+*Ergui a palma da mão.*
+
+*Não alto. Não brusco. Só a palma aberta, à altura do peito, entre mim e ele, do jeito que se pede silêncio a uma sala.*
+
+*O general do Primeiro Exército do Leste ficou em silêncio no meio da frase.*
+
+*Atrás dele, ao pé da plataforma, Sir Jan Žižka de Trocnov fez a única coisa que fez naquela tarde: o queixo dele endureceu meio dedo. Só isso. Theron fechou os olhos por um segundo. Luna levou a mão à boca para esconder alguma coisa que podia ser um sorriso ou um susto. Nerith, ao meu lado, prendeu o ar.*
+
+*Não olhei para nenhum deles. Me virei para o campo.*
+
+*Mil e duzentos homens de pé, suados, sujos de terra, ainda com as faixas brancas e pretas nos braços, olhando para a plataforma. Os mortos tinham se levantado. Os feridos tinham se levantado. As duas metades da Décima Segunda estavam espalhadas pelo campo como as peças de um tabuleiro no fim de uma partida, esperando a mão que as recolhesse.*
+
+*Enchi o peito.*
+
+André: "OMBRO A OMBRO!"
+
+*Milos: dois longos.*
+
+*E as duas metades viraram uma.*
+
+*Os quarteirões brancos e os quarteirões pretos andaram uns na direção dos outros pelo campo, sem correr, sem empurrar, e se encaixaram como duas metades de uma tábua de carpinteiro, e onde havia duas linhas inimigas a duzentos passos uma da outra passou a haver uma única linha de mil homens, em três fileiras, ombro a ombro, de frente para a plataforma, com os arqueiros atrás e a cavalaria nas pontas. Não levou dois minutos.*
+
+*Atrás de mim, Hadrian tinha se virado para o campo e não tirava os olhos dele. Prestava atenção em cada passo.*
+
+André: "PAREDE DE ESCUDOS!"
+
+*Dois longos e um curto.*
+
+*A primeira fileira bateu os escudos um no outro — CLAC — e a parede se fechou sem uma única brecha, borda sobre borda, de ponta a ponta da linha. A segunda fileira ergueu os escudos por cima da cabeça da primeira, inclinados para a frente, cobrindo os elmos dos homens da frente como um telhado. A terceira fincou a ponta dos escudos no chão, atrás da segunda, como estacas, e passou as lanças sem ponta por entre os vãos da primeira fileira, à altura do peito, de modo que a parede inteira ficou eriçada de varas como um ouriço do tamanho de uma aldeia. Três camadas. Uma muralha de madeira, couro e carne, com dentes.*
+
+André: "ESQUADRÕES!"
+
+*Um curto e um longo.*
+
+*A parede se desfez. Não rachou: desfez-se, fluida, como uma onda que se retira da areia, sem empurrão, sem tropeço, e em menos de um minuto a linha de mil homens era um tabuleiro de quadrados perfeitos espalhados pelo campo, trinta e dois esquadrões de quarenta, cada um com o seu sargento à frente, a lança erguida, o rosto virado para a plataforma. Os quatro tenentes estavam ali, atrás de mim, de braços cruzados. Lá embaixo, ninguém precisava deles.*
+
+André: "CÍRCULO DE BANDEIRA!"
+
+*Um curto e dois longos.*
+
+*Os trinta e dois quadrados viraram trinta e dois círculos. Cada esquadrão girou em volta do próprio sargento como água em volta de uma pedra, os escudos para fora, as lanças para fora, o sargento no centro com o estandarte do quarteirão erguido — a formação contra a cavalaria que cerca, sem frente e sem costas, sem um único vão por onde um cavalo enfiasse o focinho. Contei em silêncio. Quinze batidas de coração.*
+
+André: "TARTARUGA!"
+
+*Um longo, dois curtos.*
+
+*Os círculos voltaram a ser quadrados, e os quadrados se fecharam em caixas: escudos na frente, nos lados, atrás e por cima, a fileira de dentro erguendo os escudos acima da cabeça e encaixando-os na borda dos da fileira de fora, até que cada esquadrão era um caixote de madeira de quarenta homens, sem uma fresta. Trinta e duas caixas no campo de maio. Treze batidas.*
+
+André: "TARTARUGA: FERRÕES!"
+
+*Um longo, dois curtos, um longo.*
+
+*As trinta e duas caixas abriram a frente e o telhado ao mesmo tempo, os escudos de cima baixando para os lados como abas de uma tenda, e mil mãos desceram ao mesmo tempo às aljavas de ferrões presas às costas. Mil homens prontos para arremessar, com o braço armado para trás, esperando a ordem que não veio.*
+
+André: "DESCANSAR."
+
+*Quatro curtos.*
+
+*Mil braços baixaram.*
+
+André: "HAVEL! CAVALARIA EM QUADRADO NOS FLANCOS! SVAN! ARQUEIROS À RETAGUARDA!"
+
+*Havel ergueu o braço e as cinquenta e duas montarias se dividiram em dois quadrados de vinte e seis, um em cada ponta da linha, de frente para fora. Os arqueiros de Svan passaram por entre os esquadrões e se formaram em três blocos atrás da infantaria, as aljavas cheias.*
+
+*E ali estava, no campo de treino a oeste do Forte Imperador, à luz alaranjada do fim da tarde: a Décima Segunda Divisão inteira, em formação completa de batalha. A infantaria no centro, em esquadrões. A cavalaria nos flancos. Os arqueiros atrás. E na frente de tudo, de pé numa plataforma de pinho, um rapaz de dezessete anos sem barba na cara, com as mãos para trás e o sangue de um lanceiro de Zelenice ainda secando nos nós dos dedos.*
+
+*Cada ordem que eu tinha dado tinha saído duas vezes: uma da minha boca e outra da corneta de Milos. Eu podia ter gritado tudo sozinho. Os primeiros quarteirões me ouviriam, os do meio talvez, os do fundo não. Mas todos, até o último homem da última fileira, ouviam a corneta. E num campo de batalha de verdade, com dez mil homens gritando, com cavalos relinchando e aço batendo em aço, ninguém ia ouvir a minha voz. Iam ouvir Milos. Por isso eles obedeciam à corneta mesmo quando me ouviam. Era assim que tinha de ser.*
+
+*Enchi o peito de novo. Dessa vez não gritei ordem. Gritei nomes.*
+
+André: "ESQUADRÃO DE BOHDAN!"
+
+*Lá embaixo, no centro, um sargento ergueu a lança.*
+
+André: "Errou aos dezoito minutos. Recuou dois passos quando a faixa preta trocou de linha, achando que a linha nova ia empurrar, e deixou o esquadrão de Lubor sozinho na frente por quatro batidas de coração. Numa batalha de verdade, eram quatro homens de Lubor mortos. Acertou aos seis minutos. Viu o buraco que o esquadrão de Kuba abriu e enfiou três lanças nele antes que alguém do outro lado percebesse. Quatro mortos em três batidas. Foi o melhor golpe do dia."
+
+*Bohdan baixou a lança. Não sorriu. Mas o esquadrão atrás dele se endireitou um palmo.*
+
+André: "ESQUADRÃO DE KUBA!"
+
+*À esquerda, o rapaz da braçadeira de três semanas ergueu a lança como quem ergue um peso de cem quilos.*
+
+André: "Errou aos seis minutos. Empurrou com vontade demais e saiu meio passo à frente da parede. Meio passo, Kuba. Num campo de batalha, meio passo é uma porta aberta, e quem passou por aquela porta hoje foram quatro lanças sem ponta. Na guerra, seriam quatro lanças de Drennor, e você estaria escrevendo quatro cartas para quatro mães de Dubrava. Acertou aos onze minutos. Quando a parede preta recuou em ordem, o teu esquadrão foi o único do flanco que recuou no passo exato do toque, nem antes nem depois. Corrige o primeiro. Repete o segundo."
+
+*Kuba baixou a lança, vermelho até as orelhas, e assentiu.*
+
+André: "ESQUADRÃO DE BEDRICH! Acertou aos seis minutos. Fechou o buraco do vizinho em vez de avançar para salvar o vizinho. É a coisa mais difícil que existe numa parede: não socorrer quem cai, e cobrir o lugar dele. Errou aos vinte e dois. Gritou durante o empurrão. Numa parede se respira, não se grita. Grito gasta o fôlego que vai faltar no décimo empurrão. ESQUADRÃO DE LUBOR! Acertou aos dezenove: recuo ordenado, perfeito, os três passos no compasso do toque, nenhum homem virou as costas. Nenhum erro que eu tenha visto. Hoje."
+
+*E fui assim, um por um. Os trinta e dois. Os esquadrões de Gorek, de Šimon, de Hynek, de Vojta, de Dalimil, de Přemysl. Os arqueiros de Mirek, que avançaram trinta passos além da sombra da própria infantaria e perderam cinco duplas para seis cavaleiros. Os arqueiros de Ondra, que dispararam a primeira saraivada a cento e vinte passos, quando a flecha de veludo só chegava a cem, e jogaram fora vinte flechas no capim. Os esquadrões de Zdeněk e de Matěj, que fizeram a troca de linha mais bonita que aquele campo já tinha visto, debaixo de empurrão, sem perder um homem. O de Tomik, que guardou o marco de pedra do flanco preto por vinte e cinco minutos sem ceder um palmo.*
+
+André: "SARGENTO HAVEL! Mandou seis cavaleiros contra os arqueiros de Mirek quando eles saíram da sombra. Seis, e não vinte e seis. É exatamente a quantidade certa: o bastante para o estrago, pouco para deixar o flanco vazio. Acertou. E depois voltou dois segundos tarde, e deixou um buraco do tamanho de um celeiro entre a tua ala e a infantaria. Errou. SARGENTO STANISLAV! Você viu o buraco do Havel. Eu vi você ver. E hesitou um segundo. Na guerra, aquele segundo é a diferença entre rachar o flanco inimigo e ver o flanco inimigo se fechar na tua cara. Errou. Mas durante os trinta minutos inteiros manteve as tuas vinte e seis montarias entre os arqueiros de Ondra e o flanco preto, e Ondra não chegou a cinquenta passos da tua infantaria uma única vez. Acertou.
+
+"ESQUADRÃO DE GOREK!"
+
+*Gorek, o desertor de quarenta anos, ergueu a lança. Devagar. Sabia o que vinha.*
+
+André: "Aos vinte e cinco minutos, na Tartaruga, um homem teu viu um escudo de cima cair e se abaixou para pegar. Saiu meio corpo da caixa. Três ferrões nele e um no vizinho. Dois mortos." — fiz uma pausa. — "Gorek. Você tem quinze anos de exército. Sabe melhor do que qualquer homem neste campo o que acontece com quem sai da Tartaruga debaixo de dardo. Você sabe porque já viu. Ensina isso ao teu esquadrão. Ensina com a cara que você tinha no dia em que viu."
+
+*Gorek baixou a lança e não disse nada. Não precisava.*
+
+André: "TENENTE JOROLAV!"
+
+*Atrás de mim, o gigante calado deu um passo à frente.*
+
+André: "Aos vinte minutos, você olhou para o centro preto que acabava de trocar de linha e ainda não tinha firmado o pé. A Unha teria rachado aquele centro e dado a vitória à faixa branca. Você olhou para a corneta. Olhou para a plataforma. E não mandou." — me virei para o campo inteiro. — "Ele não mandou porque a Unha é minha. Está escrito no Manual, está escrito na Ordenança, e ele preferiu um empate dentro da lei a uma vitória fora dela. É o maior acerto do dia." — me virei de volta para ele. — "E também foi um erro, tenente. Porque quando eu escrevi que a Unha só sai por ordem do capitão, eu não sabia que um dia ia ter tenentes que sabem quando usá-la. Vamos conversar sobre isso amanhã."
+
+*Jorolav ficou imóvel por um instante. Depois baixou a cabeça, uma vez, devagar. Foi a coisa mais parecida com emoção que eu já tinha visto naquele rosto de pedra.*
+
+*Esperei o silêncio pesar.*
+
+André: "Hoje vocês erraram menos do que acertaram. Bem menos. Isso é bom." — deixei a frase cair. — "E eu não tolero nenhum dos erros. Nenhum. Amanhã de manhã, cada sargento que eu chamei pelo erro vai treinar esse erro com o esquadrão até ele sumir. E depois de amanhã, a gente faz tudo de novo."
+
+*Respirei fundo. Olhei para eles. Mil e duzentos rostos sujos de terra, suados, cansados, de pé num campo de maio ao pôr do sol, olhando para a plataforma como se a plataforma fosse a única coisa firme no mundo.*
+
+André: "Décima Segunda.
+
+"Em fevereiro, quando eu cheguei neste platô, vocês eram cadáveres. Cadáveres de pé, dentro de gambesons podres, numa lama que fedia a merda e a febre, comendo sopa rala depois da Sétima e esperando a primeira flecha de Drennor para confirmar uma morte que já tinha acontecido. Era isso que o exército de Karên achava de vocês. Era o que vocês achavam de vocês mesmos. A divisão maldita. Os queimadores de Dornefeld. Os que ninguém contava.
+
+"Olhem para vocês agora.
+
+"Vocês não são mais cadáveres esperando a morte. Vocês são a morte. A morte em forma de treino, de disciplina, de fileira, de corneta, de sopa na mesma fila e de suor no mesmo campo, todo santo dia, às quatro e meia da tarde. Vocês são a coisa que Drennor vai encontrar quando vier por este vale. E quando encontrar, não vai encontrar camponeses fugindo de uma vila em chamas. Vai encontrar uma parede.
+
+"E a parede não passa."
+
+*Por um segundo, não aconteceu nada.*
+
+*Depois, Bohdan de Zelenice bateu o cabo da lança no chão.*
+
+*Uma vez.*
+
+*E então o esquadrão dele. E o de Lubor. E o de Kuba, e o de Bedrich, e o de Tomik, e o de Gorek, e todos, os trinta e dois, mil lanças e mil escudos batendo no chão de maio no mesmo compasso, BUM, BUM, BUM, até que o campo inteiro tremia debaixo dos pés, e o som subiu numa única voz de mil e duzentos peitos — não uma palavra, não um nome, só um urro, rouco, enorme, de bicho que acaba de descobrir que tem dentes —, e a cavalaria de Havel urrou junto, e os arqueiros de Svan, e lá longe, no topo do mastro do Forte Imperador, um galo ruivo esticou o pescoço e cantou por cima de tudo.*
+
+*Deixei que urrassem até cansar.*
+
+*Depois ergui o braço.*
+
+André: "Dispensados. Em fila tripla. Para o forte. Rancho às cinco e meia."
+
+*Milos tocou o recolher, e a Décima Segunda Divisão se virou, esquadrão por esquadrão, e voltou em fila tripla pelo portão oeste, em ordem, em silêncio, as lanças no ombro, os escudos nas costas, sem que um único homem olhasse para trás.*
+
+---
+
+*Só então me virei para o general.*
+
+*Hadrian estava parado exatamente onde eu o tinha deixado, a dois passos de mim, com o elmo debaixo do braço e a boca ainda meio aberta da frase que eu tinha cortado. Atrás dele, nos degraus, Theron, Luna e Jan. Do meu lado, Nerith. Debaixo do capuz da raposa, imóvel na cadeira de pinho, Bellatrix, que não tinha dito uma palavra desde que os quatro cavaleiros apareceram na lomba.*
+
+André: "General. Peço desculpas por ter interrompido o senhor."
+
+*Fiz uma reverência curta. Não de servo. De soldado.*
+
+André: "Mas eu não podia deixar os homens perderem o ritmo. Aquela meia hora depois da batalha é o momento mais alto do dia de cada um deles. É quando o corpo está cansado e a cabeça ainda está quente, e é quando a lição entra e não sai mais. Se eu parasse para conversar com o senhor, eles iam esfriar. E um homem frio esquece metade do que errou." — endireitei o corpo. — "Agora sou todo seu."
+
+*Hadrian ficou olhando para mim por um tempo longo. Depois olhou para o campo, onde a última fileira entrava pelo portão oeste. Depois para mim de novo.*
+
+Hadrian: "Capitão." — a voz dele saiu baixa, quase rouca. — "Eu sou general há onze anos. Comandei vinte mil homens. Perdi três comandantes de regimento numa única manhã em Pedravale, e já mandei enforcar coronéis por covardia. Nunca, em onze anos, um oficial meu me mandou calar a boca com a palma da mão."
+
+*Atrás dele, Theron não se mexeu. Nerith, ao meu lado, apertou os dedos contra a coxa.*
+
+Hadrian: "E nunca, em onze anos, eu achei que um oficial meu estivesse tão certo em fazer isso."
+
+*Ele estendeu a mão. Não para apertar a minha pelo antebraço, como se apertam os soldados. Estendeu de palma aberta, como se cumprimenta um igual.*
+
+Hadrian: "Theron me disse que não sabia descrever o senhor sem parecer mentira. Eu achei que ele estava exagerando. Ele estava sendo modesto."
+
+*Apertei a mão dele.*
+
+*Atrás do general, ao pé dos degraus, Sir Jan Žižka de Trocnov, o cavaleiro que nunca tinha perdido uma batalha, continuava sem dizer nada. Mas os olhos claros dele já não estavam no campo. Tinham descido, devagar, até o pomo da espada na minha cintura — a cabeça de dragão esculpida em aço anão —, e ficaram ali, parados, com a atenção de quem mede um adversário.*
+
+---
+
+((**FIM DO CAPÍTULO XXXVIII — "Ombro a Ombro" · Estado e Linha do Tempo**
+
+**DATA:** 20 de Maio de 852, ~17h · campo de treino a oeste do Forte Imperador.
+
+**ANDRÉ:**
+- **Corpo:** mana ~150, toxicidade 0, nenhum ferimento novo. As cãibras do Trovão vão até a noite.
+- **Equipamento:** sem alterações. Tabuleta de cera e estilete de campo; ampulheta de meia hora na sacola da sela de Cavalo.
+- **Moeda:** 260 ouros, 24 pratas e 1 cobre.
+
+**CANONIZADO NO ACAMPAMENTO DA SÉTIMA:**
+- **Inventário:** o oficial de Jan e Dalibor bate 100% com o de Luna. Única diferença: a égua de carga nº 19, que é manca, e Luna estava certa.
+- **A "lista" de Theron:** os melhores são Luna, Soren, Faelar e André; Seraphine encabeça a dos piores. Ela respondeu com ironia, sem fogo — um degrau de maturidade.
+- **Jan × Seraphine:** cortejo de salão. Jan conheceu o Conde Aldric numa justa em Veldhal, há seis anos. Brasão Valenne: três cálices de prata sobre campo vermelho.
+- **Seraphine:** chamou a 12ª de "a divisão do André". O relatório da patrulha da ravina leste fica para depois.
+- **Banquete esta noite** na tenda principal da Sétima, com as provisões trazidas pelo general. Hadrian e a comitiva passam a noite e partem amanhã, depois da revista.
+
+**A ESTRADA PARA O FORTE:**
+- Theron contou os feitos de André a Hadrian e Jan, sem mencionar a tortura.
+- Jan duvidou; Luna confirmou. Jan brincou com um duelo "pelo coração de Luna"; ela respondeu que André "está na lista dos rapazes, não na dos pretendentes".
+
+**A FLORESTA LESTE:**
+- **O relatório de Bedrich:** o corpo da Miriápode sumiu. Há um rastro de arrasto que a terra engole, galhos retorcidos sem vento e raízes sinuosas atravessando a estrada.
+- **A leitura:** Nerith disse "liche"; Bellatrix concordou e o ligou ao soldado da Sétima empalado em galhos.
+- **A dedução de Bellatrix:** alguém fez a Miriápode crescer com magia, e um liche foi buscar o corpo porque o corpo era "um investimento".
+- **Missão de Bellatrix, começando ao anoitecer:** achar o liche, descobrir a causa do distúrbio e contar a André antes de qualquer decisão. Nada de matar, negociar ou queimar.
+  - O teste dos cinco segundos: André fingiu desdém ("três meses sem retorno") para ler o medo dela.
+  - André vai informar Theron à noite. A floresta não conta como o platô das condições de Theron.
+- **Nerith:** pediu para ir e ouviu um não. André tem **outra missão para ela, revelada amanhã de manhã**.
+- **Bellatrix:** ficou de capuz durante toda a visita. Hadrian não a reconheceu nem reparou nela; Theron sabe que ela estava lá.
+
+**O TREINO (canon):**
+- **A 12ª:** 32 esquadrões de infantaria de 40 homens, 6 de arqueiros, 2 alas de cavalaria com 26 cada.
+- **Rotina:** formação diária no fim da tarde, no campo a oeste do forte. A plataforma de pinho fica no centro, a 15 passos da primeira fileira; o estandarte tem um galo bordado.
+- **Novos toques de Milos** (os seis antigos seguem valendo):
+
+| Toque | Ordem |
+|---|---|
+| longo, curto, longo | coluna de marcha |
+| dois longos | formar linha / ombro a ombro |
+| dois longos e um curto | parede de escudos |
+| um curto e dois longos | troca de linha; também círculo de bandeira |
+| três curtos e um longo | recusar a esquerda |
+| um curto e um longo | esquadrões |
+| longo, dois curtos, longo | tartaruga: ferrões |
+| quatro curtos | descansar / encerrar |
+
+- **A Parede de escudos agora tem três camadas:** escudos da frente, escudos sobre as cabeças, e escudos fincados no chão com lanças passando pelos vãos.
+- **Tempos:** círculo de bandeira em 15 batidas; tartaruga em 13; esquadrões em menos de 1 minuto.
+- **A batalha simulada de hoje:**
+
+| Lado | Comando | Mortos | Feridos |
+|---|---|---|---|
+| Faixa branca | Jorolav, com Havel na cavalaria | 63 | 41 |
+| Faixa preta | Mathias e Svan, com Stanislav na cavalaria | 59 | 47 |
+
+  - Terreno: +2 passos para os brancos. **Empate técnico, o 12º seguido**; a última vitória foi em abril.
+  - Para vencer: 20 passos de terreno ou 1/6 a mais de mortos.
+- **Sargentos nomeados:** Bohdan, Kuba, Bedrich, Lubor, Gorek (desertor perdoado, 40 anos), Tomik, Zdeněk, Matěj e mais 24. Arqueiros: Mirek, Ondra, Ctirad, Jiří, Bořek, Sobek. Cavalaria: Havel e Stanislav.
+- **Jorolav** abriu mão da vitória para não usar a Unha sem ordem. André promete "conversar sobre isso amanhã" — possível delegação da Unha aos tenentes.
+
+**O ENCONTRO COM HADRIAN:**
+- André calou o general com a palma da mão erguida e o deixou assistir à sequência final antes de lhe dar atenção.
+- Depois pediu desculpas, e Hadrian o cumprimentou de palma aberta, como a um igual.
+- Jan ficou calado o capítulo inteiro, de olho no pomo de dragão da espada de André.
+
+**PARA CONFIRMAR:**
+- **"Halden":** você chamou o general de "Halden" de novo. Mantive **Hadrian**, o nome dele desde o Cap. XXI. Se quiser os dois, posso fazer dele **General Halden Hadrian** — Halden o nome, Hadrian o sobrenome.
+- **Milos:** continua **corneteiro**. Se o "tenente de confiança" da sua semente quer dizer que ele foi promovido, me diga.
+- **A hora da chegada:** Hadrian chegou **por volta do meio-dia**, não às duas da tarde como escrevi no XXXVII, para fechar com as "4 horas depois, 16h".))
+
+**20 de Maio de 852 — Forte Imperador. Fim da tarde.**
+
+*O sol já tinha descido atrás das colinas do oeste quando atravessamos a ponte de terra, e a luz que sobrava era aquela cor de cobre velho que deixa tudo mais bonito do que é.*
+
+*Fui na frente, a pé, puxando Cavalo pela rédea. Hadrian vinha ao meu lado, também a pé — tinha recusado montar de novo para percorrer um quilômetro de chão, "porque quem inspeciona a cavalo inspeciona a garupa do próprio cavalo" —, e atrás de nós vinham Theron, Luna e Sir Jan, que levava o garanhão negro pela rédea como quem leva um estandarte. Nerith tinha descido da plataforma e caminhava três passos atrás de todos, do jeito de sempre, sem fazer barulho nenhum. Bellatrix não tinha vindo. Desceu da plataforma pelo lado de trás antes que os cavaleiros desmontassem, com o capuz da raposa puxado até as sobrancelhas, e sumiu na direção da tenda dela para se preparar para a noite.*
+
+*No meio da ponte de terra, deixei Hadrian dois passos à frente olhando para o portão e me aproximei de Theron.*
+
+André: — baixo — "Mestre. Mandei a tua sobrinha para a floresta do leste. Esta noite."
+
+*Theron não virou a cabeça.*
+
+Theron: "Por quê?"
+
+André: "A patrulha de Bedrich voltou. O corpo da miriápode que eu matei hoje de manhã sumiu da estrada. Galhos retorcidos sem vento, raízes atravessando o caminho, rastro de arrasto que entra na terra. A Nerith disse liche, e a Bellatrix concordou. E a Bellatrix acha que alguém fez aquela coisa crescer com magia, e que o liche foi buscar o corpo porque o corpo vale alguma coisa para alguém." — pausa. — "Ela vai achar, olhar e me contar. Não mata, não negocia, não queima. A floresta não é o platô, mas eu prometi que o senhor saberia hoje. Está sabendo."
+
+*Theron ficou calado por quatro passos.*
+
+Theron: "O soldado da Sétima. O de abril, nos galhos."
+
+André: "Foi a primeira coisa em que ela pensou também."
+
+Theron: "Está bem." — e então, mais baixo ainda: — "E se ela não voltar?"
+
+André: "Ela volta. Não tem para onde ir."
+
+*Ele me olhou de lado, rápido, com uma coisa no rosto que eu não soube ler. Depois voltou a olhar para frente, e eu adiantei o passo até o general.*
+
+---
+
+*Hadrian tinha parado na beira da ponte de terra, onde ela tocava o fosso, e olhava para baixo.*
+
+*O fosso estava cheio. A água do degelo tinha subido de março a abril pelo canal que Radim cavara sob a muralha oeste e encontrado o próprio nível a dois palmos da borda, escura e parada, com a luz de cobre refletida na superfície e alguns sapos coaxando em algum ponto do lado de lá. A boca do fosso tinha quatro passos de largura. O fundo, eu sabia, tinha a altura de dois homens, um em cima do outro, e as paredes não eram retas: desciam em ângulo de faca, inclinadas para dentro, de modo que quem caísse lá dentro não encontrasse apoio para subir de volta.*
+
+Hadrian: "Quanto tem de fundo?"
+
+André: "Dois homens, general. Um em cima do outro. E as paredes são em ângulo, mais estreitas embaixo do que em cima. Um homem de armadura que cair aí dentro não sai sem corda. Um cavalo, não sai nunca."
+
+Hadrian: "E a água?"
+
+André: "A água foi o degelo. Eu desenhei o fosso seco, porque o forte foi feito em fevereiro, com o chão congelado. Mas fiz o canal do córrego entrar pela muralha oeste e passar por baixo dela antes de chegar aqui, de modo que quando o gelo derretesse o fosso enchesse sozinho. Encheu em três semanas." — apontei com o queixo para a superfície escura. — "Hoje, quem quiser chegar à paliçada tem de nadar quatro passos com a armadura nas costas, debaixo das bestas das torres, e depois subir um barranco inclinado para dentro sem ter onde pôr o pé."
+
+*Hadrian não disse nada. Ergueu os olhos do fosso para o que vinha depois.*
+
+*O que vinha depois era a muralha.*
+
+*Não era de pedra, e de longe, da Sétima, ninguém diria que não fosse. Era terra. Toda a terra que tinha saído do fosso, quarenta mil carroças dela, socada camada por camada por trezentos homens em turnos, com pilões de madeira e com os próprios pés, até ficar dura como tijolo cozido. A muralha subia a altura de um homem e meio acima do nível do campo, inclinada para fora em talude, e no alto dela, cravada no aterro, corria a paliçada dupla: duas fileiras de troncos de freixo e de carvalho, encostadas uma na outra, apontadas, com a face de fora preta.*
+
+*Hadrian caminhou até o pé do talude, do lado da ponte, e pôs a mão aberta nos troncos.*
+
+Hadrian: "Isto é grosso como uma muralha de pedra das antigas."
+
+André: "Quase, general. A paliçada sozinha tem a grossura de dois troncos. Atrás dela tem a muralha de terra socada, que tem seis passos na base e quatro no alto. Uma pedra de catapulta que acertar esta paliçada racha a madeira e para na terra. Uma pedra que acertar uma muralha de pedra de vila racha a pedra e entra." — passei a mão pela face preta dos troncos. — "Os troncos foram endurecidos a fogo por fora. Valas de brasa ao longo da linha, longe do depósito, e cada tronco ficou meio dia em cima delas, virando, até a casca virar carvão e a madeira por baixo ficar dura como osso. Assim não apodrece com a chuva, não pega fogo fácil com flecha incendiária e não aceita machado."
+
+*Hadrian bateu com os nós dos dedos num tronco. O som foi o de bater numa porta de igreja.*
+
+Hadrian: "Quem te ensinou isso?"
+
+André: "Os mortos, general." — ele me olhou. — "No tratado de teoria militar que o Duque de Thara me deu, tem um capítulo inteiro sobre as primeiras cidades do centro de Karên. Antes de Karên ter rei, antes de ter pedreiro, quando os primeiros homens que vieram pela Fenda começaram a erguer burgos no meio das planícies. Eles não tinham pedra. Não tinham tempo. Tinham pá, terra e medo do que vinha do mato à noite. E erguiam as muralhas de terra socada, com paliçada no alto e fosso na frente. Algumas daquelas cidades ficaram de pé trezentos anos antes de alguém se dar ao trabalho de trocar a terra por pedra." — encostei o ombro na paliçada. — "Eu li aquilo numa noite de fevereiro e entendi uma coisa que qualquer camponês do sul do Aurach sabe de nascença: terra é a coisa mais barata, mais rápida e mais teimosa que existe. Não precisa ser cortada, não precisa ser carregada de pedreira, não precisa de mestre. Precisa de pá e de braço. E eu tinha trezentos e trinta e um lavradores que nasceram com uma pá na mão."
+
+Hadrian: "Quanto tempo levou?"
+
+André: "Oito dias, general. Do quarto ao décimo segundo de fevereiro. Trezentos homens por dia na obra, em turnos."
+
+*Hadrian não respondeu. Atrás dele, Luna sorriu para o chão, e Sir Jan, que até então tinha olhado para o forte com o ar de quem olha uma cerca de chiqueiro bem-feita, ergueu a cabeça e olhou de novo.*
+
+*Passamos pelo portão sul.*
+
+*O portão era a única entrada do forte. Uma só. Eu tinha pensado em fazer duas e tinha desistido na primeira noite: uma porta a mais é um buraco a mais para defender, e um forte de terra não precisa de pressa para sair, precisa de dificuldade para entrar. As torres gêmeas o abraçavam dos dois lados, de madeira e terra, com as bestas de Drennor capturadas por Nerith montadas nas plataformas de cima. Os batentes eram de carvalho ferrado, nas dobradiças que os nove ferreiros de Vavra tinham forjado. Do lado de fora, a vinte passos, à esquerda, o tablado da forca com a corda clara e, ao lado, os três troncos do castigo da lama. Hadrian olhou para os dois ao passar. Olhou para a forca por mais tempo do que olhou para os troncos.*
+
+*Depois do portão, em vez de seguir pela rua principal, levei-o para a esquerda, até a rampa.*
+
+---
+
+*A rampa corria por dentro da muralha, por toda a extensão do perímetro.*
+
+*Era o próprio aterro, socado do lado de dentro em plano inclinado, largo o bastante para três homens lado a lado, subindo do nível da rua até o alto da muralha, atrás da paliçada, num declive tão suave que um homem de armadura subia correndo sem pôr as mãos no chão. Não havia escada em lugar nenhum do perímetro. Não havia uma única escada no forte inteiro, a não ser as das torres.*
+
+André: "Aqui está a coisa de que eu mais me orgulho neste lugar, general. E é a mais simples de todas."
+
+*Subimos. No alto, atrás da paliçada, havia um passadiço de terra batida de dois passos de largura, com a paliçada à altura do peito de um homem e, a cada vinte passos, um estrado de madeira um pouco mais alto para os arqueiros.*
+
+André: "Num forte com escada, quando o inimigo chega, os homens têm de subir um por um. A escada vira gargalo. Quem chega primeiro sobe, quem chega depois espera embaixo, e enquanto espera, o inimigo está escalando o outro lado. Aqui, não. Aqui, quando a corneta toca o alarme, mil homens sobem a rampa ao mesmo tempo, por qualquer ponto do perímetro, em menos de um minuto, sem um único gargalo. Se o inimigo ataca a muralha leste, eu ponho quatrocentos homens na muralha leste em sessenta batidas de coração, correndo pela rampa, sem precisar passar pela praça." — bati com a bota no chão de terra. — "E se a muralha cair num ponto, a rampa vira uma ladeira de onde os meus homens descem em parede de escudos para o pátio, e não um buraco por onde o inimigo entra."
+
+*Hadrian andou devagar pelo passadiço, com a mão na paliçada, olhando para fora. Daqui de cima se via todo o platô: a Sétima ao norte, a um quilômetro, com as primeiras fogueiras do jantar acendendo; o córrego descendo em curva; o campo de treino a oeste, vazio, com a plataforma de pinho no meio; e a leste, longe, além da terra de ninguém, a linha de fumaça de Volkovar contra o céu que escurecia.*
+
+Hadrian: "E de dentro?"
+
+André: "De dentro, general, venha ver."
+
+*Descemos pela rampa até a rua principal.*
+
+---
+
+*Levei-o pelo forte inteiro, devagar, e fui explicando cada coisa do jeito que eu explicaria a um mestre de obras, porque era a única maneira de explicar sem parecer que estava me gabando.*
+
+André: "A rua principal é reta de propósito. Do portão sul até a praça de armas, sem uma curva, larga o bastante para uma carroça e uma formação de oito homens de frente. Se eu tiver de mandar a divisão inteira para fora do portão de uma vez, ela sai em coluna, já formada, sem ninguém ter de procurar o caminho. E se o inimigo entrar pelo portão, ele entra numa rua reta que termina numa praça onde eu tenho mil homens esperando em parede. É um corredor de abate."
+
+*As ruas transversais saíam da principal em ângulo reto, como os dentes de um pente, e entre elas ficavam os quarteirões.*
+
+André: "Cada quarteirão é uma aldeia. Zelenice aqui. Dubrava ali. Kragenhall, os de Stromov, os do Vado. Os desertores perdoados ficam nos dois quarteirões do fundo, juntos, porque eles se entendem entre si melhor do que com os outros. Cada homem dorme ao lado do vizinho com quem cresceu, e o sargento do quarteirão sabe o nome da mãe de cada um. Quando a corneta toca de noite, ninguém procura a própria esquadra no escuro. A esquadra é a barraca do lado."
+
+Hadrian: "E as barracas?"
+
+André: "Lona dupla, general. Comprada com o primeiro soldo, de um mascate de Aurevin, a dois cobres a vara. Armação de madeira, estrado a um palmo do chão para a umidade não subir pelas costas. Oito homens por barraca. Seiscentas barracas."
+
+Hadrian: "Seiscentas barracas de oito são quase cinco mil homens, capitão. Você tem mil e duzentos."
+
+André: "Dormir, general, cabem quase cinco mil, apertados. Viver, cabem três mil." — fiz um gesto largo que abrangia o forte inteiro. — "Eu desenhei este lugar para três mil. A água do canal, as latrinas, os fornos, o celeiro, a forja, a enfermaria — tudo foi feito para dar conta de três mil homens sem que nenhum adoeça de merda na água, nenhum passe fome e nenhum durma no chão molhado. As barracas a mais são para o dia em que eu precisar receber mais gente. Ou para o dia em que um general me mandar cinco mil homens com duas semanas de aviso."
+
+*Hadrian me olhou de lado, rápido. Eu não tinha como saber dos cinco mil da Sétima. Ninguém tinha me contado. Mas ele já tinha entendido, a essa altura, que eu adivinhava as coisas antes de contarem.*
+
+*Fomos até a praça de armas.*
+
+André: "A praça é o coração do forte. Formação, treino, revista, leitura das penas e das recompensas, pagamento do soldo. Tudo o que a divisão faz junta, ela faz aqui." — apontei para o mastro no centro, onde a coisa pequena e ruiva que Hadrian não conseguira distinguir da Sétima estava empoleirada, de peito estufado, olhando para nós como quem cobra um pedágio. — "E aquele é o Imperador."
+
+Hadrian: "O galo."
+
+André: "O galo, general. A única morte de basilisco no registro desta divisão. Foi ele que deu nome ao forte. A tropa batizou, e eu perdi a votação."
+
+*Hadrian olhou para o galo por um longo momento, como se tentasse decidir se aquilo era piada. O galo olhou de volta e não piscou.*
+
+*Levei-o ao celeiro.*
+
+André: "Celeiro sobre estacas, general. A base das estacas foi carbonizada a fogo, como a paliçada, para não apodrecer. E o estrado fica um palmo acima do chão. Rato não pula um palmo de estaca lisa, e a umidade não sobe um palmo de ar. Em fevereiro, quando eu cheguei, metade do grão da Décima Segunda estava mofando em sacos no chão molhado do depósito velho. Hoje eu não perco um saco por mês."
+
+*Os doze fornos de barro e pedra, alinhados atrás do celeiro, ainda soltavam calor do pão da tarde.*
+
+André: "Doze fornos. Cada um assa duzentos pães por fornada, três fornadas por dia. A divisão come pão de trigo fresco todo dia. Pão de trigo, general. Não biscoito de marcha, que racha o dente, e não papa de centeio mofado, que era o que a Décima Segunda comia em fevereiro."
+
+*A forja, na linha norte, com as nove bigornas de Vavra já silenciosas e as brasas cobertas de cinza para a noite.*
+
+André: "A forja fica na linha norte, longe do depósito e do celeiro, e encostada na muralha, porque o vento aqui sopra do sul e leva a fumaça e as faíscas para fora. Tudo o que pode pegar fogo neste forte fica a cinquenta passos de qualquer brasa. O piche, o óleo e o breu ficam no arsenal trancado, do outro lado da praça, debaixo de chave que só Jarv e eu temos." — fiz uma pausa. — "Em fevereiro, o piche da Décima Segunda ficava a dez passos de uma forja acesa, e o sentinela que guardava o piche dormia em cima do barril."
+
+Hadrian: "Eu me lembro desse sentinela."
+
+André: "Eu sei. O senhor mandou açoitar."
+
+*Ele não perguntou como eu sabia.*
+
+*O canal do córrego, entrando por baixo da muralha oeste por um bueiro de grade de ferro, correndo por uma vala calçada de pedra até a cisterna, e da cisterna para os cochos dos currais, e dos cochos de volta para fora pela muralha, rio abaixo.*
+
+André: "A água entra por aqui, general, por baixo da muralha, com grade de ferro para que ninguém entre junto. Passa pela cisterna, onde decanta. Dali vai para os caldeirões, onde é fervida antes de alguém beber, e para os cochos dos cavalos. E sai pelo outro lado, rio abaixo, levando o que tem de levar. Ninguém neste forte bebe água que não tenha sido fervida. Está na Ordenança, Artigo V. Esconder doença também é falta, pelo mesmo artigo. O senhor sabe quantos homens a Décima Segunda perdeu de doença no outono e no inverno, antes de eu chegar?"
+
+Hadrian: "Noventa e um."
+
+André: "Noventa e um. Nenhum de flecha. Este trimestre, perdi três de febre." — deixei a frase pesar. — "Três, general."
+
+*E por fim, fora da muralha sul, cinquenta passos além, morro abaixo da tomada d'água, o lugar que eu fazia questão de mostrar a todo visitante, e que todo visitante fazia questão de não ver.*
+
+André: "As latrinas."
+
+*Sir Jan fez uma careta. Hadrian, não.*
+
+André: "Foi a primeira coisa que esta divisão construiu, general. Antes da muralha, antes das barracas, antes do celeiro. No primeiro dia da obra, eu disse aos homens que ninguém armaria a própria barraca antes de a divisão ter onde cagar direito. Valas cobertas, morro abaixo, longe da água, com fossas de composto ao lado. O que sai daqui vai para as hortas de primavera que os moleiros plantaram encostadas à muralha leste." — fiz uma pausa. — "Todo general fala de muralha. Quase nenhum fala de latrina. Mas eu já vi mais exércitos morrerem de latrina do que de muralha."
+
+*Hadrian ficou um longo tempo olhando para as valas cobertas, morro abaixo, à luz que ia embora.*
+
+Hadrian: "Theron me disse hoje à tarde que o milagre da Sétima tinha sido 'latrina, senha e sopa'. Eu achei que ele estava sendo modesto."
+
+André: "Ele estava sendo exato, general. É a mesma coisa."
+
+---
+
+*Voltamos para dentro pelo portão sul. A primeira tocha do anoitecer já tinha sido acesa na torre gêmea da esquerda, e o sentinela de cima pediu a senha a Theron, a Luna, a Sir Jan, ao general — e a mim. Dei a senha. Era a senha certa, a daquele crepúsculo, trocada vinte minutos antes.*
+
+*Hadrian parou no meio da rua principal, com as mãos cruzadas nas costas, e olhou em volta uma última vez: as ruas retas, os quarteirões em pente, as barracas de lona dupla, a fumaça dos fornos, os homens voltando do rancho em grupos de três e quatro, falando baixo, as lanças no ombro.*
+
+Hadrian: "Defesa, logística e eficiência."
+
+André: "General?"
+
+Hadrian: "É o que estou vendo. Tudo neste lugar foi pensado para três coisas. Para ser defendido. Para ser abastecido. E para funcionar sem desperdício. Não tem uma estaca que não sirva para alguma coisa."
+
+André: "Foram as três coisas em que eu pensei, general. Nessa ordem. Defesa, porque um forte que não se defende é um cemitério com paliçada. Logística, porque um forte que não come, não bebe e não caga direito vira um hospital em três semanas. E eficiência, porque eu tinha seiscentos homens doentes, mal comidos, e um inverno para terminar antes do degelo. Não podia gastar um tronco a mais do que o necessário, nem um dia a mais do que o possível." — pausa. — "E uma quarta, que não está em tratado nenhum. Que os homens dormissem secos."
+
+*Hadrian assentiu devagar. Depois fez a pergunta que eu sabia que ia fazer desde que ele pusera a mão na paliçada.*
+
+Hadrian: "Capitão. Por que tudo isso?"
+
+*Esperei.*
+
+Hadrian: "Este forte é temporário. Você sabe disso. Eu sei disso. Daqui a um mês, ou dois, ou três, a Décima Segunda vai sair daqui marchando, e este lugar vai ficar para trás. Para as lebres, para os carniçais, para os bandidos que vierem depois. Talvez para Drennor. Você investiu oito dias de trabalho de mil homens, mais toda a madeira do córrego, mais o ferro de nove ferreiros, num lugar que vai abandonar. Por quê?"
+
+*Olhei para a rua principal, para os homens que passavam.*
+
+André: "Porque eu não construí o forte para ficar nele, general."
+
+Hadrian: "Então para quê?"
+
+André: "Para eles."
+
+*Apontei com o queixo para um grupo de lanceiros de Dubrava que passava naquele momento, de volta do rancho, rindo de alguma coisa.*
+
+André: "Quando eu cheguei aqui, em fevereiro, a Décima Segunda não era uma divisão. Era um monte de homens doentes, mal treinados, mal pagos, sem disciplina nenhuma e com a moral no fundo da lama. Comiam depois da Sétima, do que sobrava. Bebiam a água em que os cavalos cagavam. Os sargentos roubavam a ração dos mortos que não tinham sido riscados da lista, e os homens vendiam a própria lança a mascates para comprar cerveja. E todo mundo neste platô, da Sétima ao padre da capelania, chamava eles de queimadores de criança. Eles mesmos já acreditavam nisso. Achavam que eram um castigo. Que estavam aqui para morrer, e que era isso que mereciam."
+
+*Hadrian não disse nada.*
+
+André: "Não adianta dizer a um homem desses que ele vale alguma coisa, general. Ele não acredita. Já ouviu de muita gente que não valia nada, e a palavra do capitão novo não pesa mais que a de todos os outros. Então eu não disse. Mostrei." — fiz um gesto para o forte inteiro. — "Eu dei a eles uma pá e disse: construam. E eles construíram. Com as próprias mãos, em oito dias, no gelo, a coisa mais forte que existe neste vale do lado de cá de Volkovar. E no dia em que o Radim cravou a última estaca, eles olharam para isto e entenderam, sem que ninguém precisasse dizer, que eram capazes. De erguer uma coisa. De manter uma coisa. De trabalhar junto, com disciplina, e ver a disciplina virar parede."
+
+*Fiz uma pausa.*
+
+André: "E aí eu mostrei que cada uma dessas coisas tinha recompensa. Que trabalho virava pão. Que disciplina virava soldo em dia. Que latrina virava ninguém morrendo de febre. Que treino virava ninguém morrendo de flecha. Eu chamo isso de autoconstrução, general. O forte não é a coisa que eu construí. O forte é a ferramenta com que eles se construíram."
+
+*Hadrian ficou calado um longo tempo.*
+
+Hadrian: "E o sistema? Theron me falou de uma Ordenança. De fichas de rancho. De um livro."
+
+André: "A Ordenança são dez artigos, general. Cabe numa folha. Hora para acordar, hora para comer, hora para trabalhar, hora para dormir. Quem trabalha onde, e quando. Como se come — por fichas de madeira marcadas a ferro, uma por homem, por refeição, em doze filas, uma por forno. Ninguém come duas vezes, ninguém come a ração do morto. Quem falsifica ficha comete falta grave. Higiene: água fervida, mãos lavadas com cinza e cal, roupa fervida uma vez por semana. Treino, duas horas por dia no mínimo, para todo mundo, e a formação de batalha no fim da tarde, que o senhor viu. Conduta: aposta no máximo de cinco cobres por noite, cerveja só a da ração. Quem briga cava fossa ao lado do outro até fazerem as pazes. E as mulheres do trem são intocáveis." — pausa. — "Hoje de manhã eu acrescentei um parágrafo. Dentro desta divisão não se compra mulher."
+
+Hadrian: "Ouvi falar. No portão, um sentinela me contou de um julgamento ao meio-dia."
+
+André: "Teve um julgamento ao meio-dia. Ninguém foi enforcado. Mas todo mundo viu a corda."
+
+Hadrian: "E as punições?"
+
+André: "Escalonadas, general. Advertência. Fossa ou serviço pesado. O tronco da lama, que o senhor viu do lado de fora do portão, e que a tropa adora, porque é a única punição do exército que faz os outros rirem. Meia ração por até três dias. Detenção. E as faltas graves vão a julgamento do capitão, pela lei de Karên, com direito de fala para o acusado. Ninguém neste forte açoita, marca ou enforca por vontade própria. Nem eu. A pena é lida em formação, na frente de todos, para que todo homem saiba exatamente o que custa cada coisa."
+
+Hadrian: "E as recompensas?"
+
+André: "Toda semana, o melhor homem da divisão escolhe entre meio dia de descanso pago ou ração dobrada por três dias, e ganha o nome escrito no Livro da Divisão, na frente da tropa. Quem traz uma ideia que funciona ganha o mesmo. Treze semanas, treze nomes. E o soldo, general, em dia. Desde fevereiro, todo dia cinco, contado na mão de cada um, nome a nome. A minha tenente foi buscar em Aurevin, descobriu quem estava roubando e mandou enforcar o tesoureiro. Desde então, o chanceler de Aurevin paga até o dia cinco com responsabilidade pessoal perante a Coroa, e manda um bilhete junto."
+
+*Hadrian soltou um som que podia ter sido uma risada.*
+
+André: "É por isso que eu tenho certeza de três coisas, general. A primeira: a Décima Segunda é a divisão que mais come bem neste exército. Melhor que a Sétima, que tem a mesa dos oficiais mais farta do avanço. Melhor que qualquer outra. Porque a minha caça abastece a carne, os meus moleiros moem o meu grão, os meus fornos assam o meu pão, e eu não perco um saco de trigo para rato nem um barril de carne para mofo. A segunda: é a divisão que mais chance tem de sobreviver a uma batalha. Não porque os meus homens sejam mais fortes que os de Drennor. Não são. Porque não morrem de febre antes da batalha, porque não fogem durante a batalha e porque sabem recuar sem virar as costas. E a terceira..."
+
+*Fiz uma pausa.*
+
+André: "A terceira é que, se o senhor perguntar a qualquer general honesto o que é uma divisão de elite, ele vai dizer que é uma divisão que come, que obedece, que aguenta e que não quebra. A Décima Segunda come, obedece, aguenta e não quebra. Ela não é de elite porque é bonita, general. É de elite porque é inteira."
+
+*Ninguém disse nada por um tempo. Lá em cima, no mastro, o Imperador ajeitou as penas para a noite.*
+
+*Hadrian me olhava como quem olha uma coisa que não consegue classificar.*
+
+Hadrian: "Capitão. Eu preciso perguntar. Quem é você?"
+
+*Pensei em responder muita coisa. Pensei em Caius e na mesa de parto. No livrinho de Maelstrom. Numa fazenda com um cão, numa cabana queimada, num lago cheio de afogadores. Numa masmorra embaixo de um palácio. Numa menina sem nome deitada no capim, naquela mesma manhã.*
+
+André: "Alguém que gosta de ordem, general."
+
+---
+
+*A tenda de comando ficava no fim da rua principal, do lado norte da praça de armas: uma tenda de campanha grande, de lona dupla, montada sobre um estrado de tábuas para não pegar umidade. Svana nos esperava na entrada com a aba erguida e uma lamparina acesa na mão.*
+
+*Por dentro, era o forte em miniatura.*
+
+*Uma mesa comprida de pinho, sem nada fora do lugar. Os mapas do Aurach presos à lona da parede do fundo, com alfinetes coloridos marcando as posições conhecidas de Drennor, as aldeias, os vaus, as estradas. Uma estante de tábuas com os livros em fila por assunto: os dois tratados do Duque, o Livro da Divisão, os livros de pagamento, os róis de Mathias, o Manual das Três Formações, já na segunda edição, a Ordenança. Uma arca de ferro com cadeado, onde ficavam os documentos que eu não queria que ninguém lesse. No canto, separados por uma cortina de lona, os meus aposentos: catre, baú, o kit de alquimia, o couro albino dobrado no pé da cama. Um braseiro aceso para afastar o frio da noite de maio. E uma mesa de campo menor, perto da entrada, com um jarro de vinho e seis taças de estanho limpas.*
+
+*Hadrian entrou e olhou em volta como tinha olhado para as latrinas.*
+
+*Fui até a estante, tirei o rol de capa de couro que Mathias tinha terminado na véspera e o pousei na mesa comprida, diante do general.*
+
+André: "O inventário da Décima Segunda Divisão, general. De ontem, vinte e um de maio — de ontem à noite, quero dizer. Lavrado pelo tenente Mathias, conferido por mim, linha por linha."
+
+*Hadrian abriu o rol e começou a ler.*
+
+*Mil duzentos e onze homens no rol — um a menos que de manhã, porque Ctibor Mareš tinha saído pelo portão sul ao meio-dia com o soldo do mês, as próprias dez pratas e as minhas dezesseis. Mil cento e oitenta e sete aptos. Vinte e quatro doentes ou mancos, nenhum de febre. Trinta e dois esquadrões de infantaria, de vinte e oito a trinta e dois homens cada, cada um com seu sargento. Seis de arqueiros. Duas alas de cavalaria. Cento e trinta e nove seguidores. Mil e vinte lanças de guerra, mil e dez escudos, duzentas e dez espadas, cento e cinquenta machados, cento e noventa e seis arcos, onze mil e duzentas flechas, oito bestas e quatrocentos virotes, cinco mil e oitocentos ferrões, mil cento e cinquenta gambesons — costurados, a maior parte, pelas mulheres do trem, por um cobre a peça —, cento e sessenta cotas de malha, oitocentos e vinte capacetes. Cinquenta e duas montarias, catorze cavalos de tração, onze mulas, quatro carroças. Provisões até o fim de junho. Soldo em dia. Nove mortos no trimestre. Zero deserções.*
+
+*Hadrian leu até o fim. Depois fechou o rol.*
+
+*Não se virou para Jan. Não chamou o escrivão. Não pediu a ninguém para conferir nada.*
+
+Hadrian: "Está correto."
+
+Sir Jan: — atrás dele, cauteloso — "Primo, se quiser, eu posso amanhã de manhã, com o Dalibor..."
+
+Hadrian: "Não precisa, Jan. Está correto." — e olhou para mim. — "Eu passei a tarde inteira vendo este forte, capitão. Se este rol tivesse um único número errado, eu não estaria surpreso de descobrir que o erro é meu."
+
+*Sentei na ponta da mesa comprida. Svana serviu vinho nas seis taças e se retirou para o lado de fora da aba, sem fazer barulho nenhum. Theron e Luna se sentaram do outro lado. Nerith ficou de pé, encostada no mastro da tenda, de braços cruzados, do jeito que ficava sempre que não confiava em ninguém dentro de uma sala. Sir Jan ficou de pé ao lado do primo, com a mão pousada no cabo da espada — sem segurá-la, só pousada, como um homem que pousa a mão no ombro de um cão.*
+
+*Hadrian sentou à minha frente. Pegou a taça e não bebeu.*
+
+Hadrian: "Capitão, eu vou lhe contar uma coisa que contei hoje à tarde ao Mestre Theron. Em duas semanas, chegam a este platô cinco mil homens de armas para a Sétima. Daqui a um mês, haverá uma operação de avanço, e a Sétima vai na vanguarda." — ele pousou a taça. — "A Décima Segunda é subordinada à Sétima. E o Mestre Theron o nomeou capitão dela. Portanto, a Décima Segunda faz parte dessa vanguarda."
+
+*Fiquei olhando para ele.*
+
+André: "Vanguarda."
+
+Hadrian: "Vanguarda."
+
+André: "Ou seja." — rodei a taça devagar na mesa, sem beber. — "Nós vamos ser a força que vai testar as defesas de Drennor. Os primeiros a chegar, os primeiros a bater, os primeiros a morrer. Os homens que o alto comando manda à frente para ver onde a parede do inimigo está mais grossa e onde está mais fina." — ergui os olhos. — "O sacrifício, general. Para que o resto do exército tenha uma medida do exército de Drennor antes de se comprometer."
+
+*A tenda ficou em silêncio.*
+
+Hadrian: "Vocês não são sacrifício, capitão. São a ponta da lança."
+
+André: "A ponta da lança é a primeira coisa que quebra, general."
+
+Hadrian: "E é a única que fura."
+
+*Olhei para ele de frente. Fundo. Do jeito que eu olhava para os homens no portão, para Bellatrix na plataforma, para a moça de Stromov no tablado da forca.*
+
+André: "Onde nós vamos atacar?"
+
+*Hadrian sustentou o olhar.*
+
+Hadrian: "Isso é segredo, capitão. Eu não contei nem ao Mestre Theron. Não vou contar a você."
+
+*Assenti devagar.*
+
+*Levantei da ponta da mesa comprida. Fui até a mesa de campo perto da entrada, onde estava o jarro, puxei a cadeira e me sentei. Peguei o jarro e enchi a minha taça até a borda. Depois fiquei olhando para o vinho, para a luz do braseiro tremendo na superfície vermelha, por um tempo longo o bastante para que todos na tenda percebessem que eu estava pensando e não bebendo.*
+
+*Quando falei, foi para a taça.*
+
+André: "Drennor é um estado militarmente superior ao nosso, general.
+
+"Os números deles são maiores. Os soldados deles são mais disciplinados, porque são soldados de ofício, pagos o ano inteiro, e não lavradores convocados em bloco por aldeia, como os meus. A máquina militar deles é mais eficiente: o Valmir passou vinte anos construindo um exército profissional enquanto o nosso rei construía uma corte. Eles têm o melhor aço, porque Vornheim vende para eles com mais gosto do que para nós, e têm o melhor dinheiro, porque a coroa deles ainda é de ouro e a nossa já está ficando de estanho."
+
+*Ninguém disse nada. Continuei.*
+
+André: "A melhor chance de Karên, contra um inimigo assim, sempre foi uma guerra defensiva. Em posições que a gente conhece, num terreno onde a gente sabe onde fica cada vau, cada mata e cada lomba, com fosso na frente e muralha atrás, deixando que eles se quebrem contra nós e gastem o ouro deles, os homens deles e a paciência deles, até o Valmir decidir que este vale custa mais do que vale." — girei a taça. — "Mas nós já perdemos um pedaço grande do Aurach. Pedravale caiu três vezes. Castelos caíram. Kragenhall está em cinzas, e o castelo do barão de Kragenhall foi cercado e queimado. Milhares já morreram. E uma guerra defensiva, numa posição em que já se perdeu tanto, não é uma guerra que se ganha. É uma guerra que se sangra devagar."
+
+*Ergui os olhos da taça e olhei para Hadrian.*
+
+André: "Então eu suponho que esta decisão, de mandar a Sétima e a minha divisão para a frente daqui a um mês, venha de uma série de fatores que não têm nada a ver com o que é militarmente sensato. Vocês estão sob pressão, general. Alguém está pressionando. Porque um general sério, olhando para um inimigo mais forte do que ele, nunca teria outra visão que não a de uma guerra defensiva." — pausa. — "E o senhor é um general sério. Correto?"
+
+*Sir Jan deu um passo à frente.*
+
+Sir Jan: "Capitão." — a voz dele saiu baixa, sem nenhum dos floreios de salão daquela tarde. — "Tenha cuidado com as palavras. O senhor está falando com o general do Primeiro Exército do Leste."
+
+*Não me virei para ele. Continuei olhando para Hadrian.*
+
+André: "Sir Jan, eu nunca na vida tive cuidado com nada quando se tratava de me manter vivo." — tomei o primeiro gole de vinho. — "Fui mercenário antes de aprender a ler direito. Hoje sou um mago de batalha da Espada de Thara, e o que me mantém vivo é dizer as coisas como elas são para os homens que vão decidir se eu morro ou não. Se eu tivesse cuidado com as palavras, sir, eu não teria chegado aos dezessete."
+
+*Hadrian ergueu a mão, de leve, sem tirar os olhos de mim, e Sir Jan parou onde estava.*
+
+*Pousei a taça na mesa de campo.*
+
+André: "O senhor é claramente um homem consciente, general. Do contrário, não teria escrito ao Duque de Thara em janeiro pedindo magos. Um general que pede magos com a Chama Branca soprando no ouvido dele, e com metade dos próprios coronéis achando que mago só serve para lenha de fogueira, não é um general tolo. É um general desesperado. E um general desesperado e inteligente é a coisa mais perigosa que existe num exército, para os dois lados."
+
+*Hadrian não respondeu. Mas também não desviou os olhos.*
+
+André: "Nós temos soldados, general. Temos suprimentos. Temos mais terra e mais grão do que Drennor, e mais fundo para recuar. O que não temos, e nunca tivemos nesta guerra, são exércitos que prestem. Os nossos exércitos, no geral, eram como a Décima Segunda era em fevereiro. Doentes, mal comandados, mal pagos, mal alimentados. E o meu mestre Theron provou com a Sétima, e eu provei com a Décima Segunda, que sim, um comandante faz diferença. Muita. Em três meses."
+
+*Fiz uma pausa.*
+
+André: "Mas três meses de Theron e três meses meus não dão ao senhor um exército capaz de entrar em Drennor. O senhor nunca vai entrar no território de Drennor com o exército que tem, general. Nós perdemos seis de cada dez batalhas desde o começo desta guerra. Eu vi os registros. O intendente Fayfar tem todos eles, de capa a capa, e eu li cada um nas noites de março." — inclinei-me para a frente na cadeira. — "O senhor está sob pressão, sim. Mas não é idiota. E um general que está sob pressão mas não é idiota não manda o exército dele contra o ponto mais forte do inimigo. Manda contra o ponto onde o inimigo é obrigado a defender."
+
+*Ninguém respirava na tenda. Theron tinha baixado os olhos para a mesa. Luna tinha os dedos imóveis em volta da taça. Nerith, encostada no mastro, me olhava como quem olha um homem andando na beira de um telhado.*
+
+André: "O senhor vai focar em retomar território perdido, general. Não em conquistar território novo. Vai forçar um ataque agressivo no sul do Aurach, onde Drennor tomou os castelos e as terras de que a Coroa mais sente falta, onde ficam as aldeias de onde vieram os meus homens: Zelenice, Dubrava, Kragenhall. Um ataque grande, barulhento, que pareça a ofensiva de primavera que todo mundo em Veldhal está esperando. E com isso vai obrigar Drennor a concentrar a defesa lá, no sul, para não perder os castelos que levou três anos para tomar. O senhor vai pôr talvez oito regimentos nisso. Trinta mil homens. Seria uma bela força de distração."
+
+*Hadrian continuava imóvel.*
+
+André: "E enquanto o Valmir estiver olhando para o sul, com o Volk e os dezesseis mil de Volkovar puxados para defender os castelos, o senhor vai retomar o norte. O norte do Aurach, os vaus, as passagens, as terras que dão para a única passagem fluvial navegável deste vale. Calado, rápido, enquanto todo mundo olha para outro lado." — pausa. — "E quando o norte estiver nas mãos de Karên, e o sul ainda estiver nas mãos de Drennor, a Coroa vai oferecer uma paz branca. Ninguém ganha, ninguém perde. Drennor fica com as fortalezas do sul, que já são dele, e pode voltar para Skarnholt dizendo que defendeu o que conquistou. Karên fica com o norte e com o rio, e o rei pode voltar para a mesa do banquete dizendo que a guerra acabou e que o Aurach é nosso. E os cofres de Veldhal param de sangrar antes que a coroa de guerra vire chumbo de vez, e antes que as ligas do oeste e do sul decidam que preferem um primo que trabalha a um rei que banqueteia."
+
+*Peguei a taça de novo e tomei outro gole.*
+
+*Na tenda, o único som era o estalar das brasas no braseiro.*
+
+*Hadrian não disse nada. Não negou. Não confirmou. Ficou sentado à mesa comprida, com a taça de estanho intocada diante dele, olhando para mim.*
+
+*E o silêncio dele disse tudo.*
+
+---
+
+((**FIM DO CAPÍTULO XXXIX — "Alguém Que Gosta de Ordem" · Estado e Linha do Tempo**
+
+**DATA:** 20 de Maio de 852, início da noite · tenda de comando do Forte Imperador. Hadrian chegou ao platô ao meio-dia.
+
+**ANDRÉ:**
+- **Corpo:** mana ~150, toxicidade 0, sem ferimentos. Cãibras do Trovão diminuindo.
+- **Moeda:** 260 ouros, 24 pratas e 1 cobre.
+
+**O FORTE (canon):**
+- **Capacidade:** desenhado para **3.000 homens** — água, latrinas, fornos, celeiro, forja e enfermaria. As 600 barracas de 8 cabem quase 5.000 dormindo apertados, "mas viver, cabem três mil".
+- **Fosso:** 4 passos de boca, 2 homens de fundo, paredes em ângulo de faca inclinadas para dentro. Cheio pelo degelo em 3 semanas, pelo canal que passa sob a muralha oeste.
+- **Muralha:** terra do fosso socada, 6 passos na base e 4 no alto, em talude por fora. No alto, a **paliçada dupla** de freixo e carvalho, endurecida a fogo por fora (meio dia virando sobre valas de brasa, longe do depósito).
+- **Rampa interna** contínua por todo o perímetro, para três homens lado a lado. Não há escadas no forte, só nas torres. No alto, um passadiço de 2 passos e estrados de arqueiro a cada 20 passos.
+- **Origem da ideia:** um capítulo do tratado do Duque sobre as primeiras cidades do centro de Karên, erguidas em terra socada antes de haver pedreiros.
+- **Portão único**, ao sul, com torres gêmeas e as bestas de Drennor.
+- **Por dentro:**
+  - rua principal reta até a praça, "corredor de abate";
+  - quarteirões por aldeia; os desertores perdoados ficam juntos nos dois do fundo;
+  - lona dupla comprada com o primeiro soldo, de um mascate de Aurevin;
+  - 12 fornos de 200 pães por fornada, 3 fornadas por dia;
+  - forja na linha norte, porque o vento sopra do sul;
+  - arsenal trancado, com chave só de Jarv e de André;
+  - água por cisterna e caldeirões, sempre fervida;
+  - hortas dos moleiros encostadas à muralha leste;
+  - senha trocada a cada crepúsculo.
+- **Doutrina declarada:** defesa, logística e eficiência — "e que os homens dormissem secos". O forte é a ferramenta da "autoconstrução" da tropa.
+
+**INVENTÁRIO DA 12ª (rol de Mathias):**
+- **Efetivo:** 1.211 no rol (Ctibor saiu ao meio-dia), 1.187 aptos, 24 doentes ou mancos. 139 seguidores (Hedvika banida).
+- **Organização:** 32 esquadrões de infantaria de **28 a 32 homens**, 6 de arqueiros, 2 alas de cavalaria.
+- **Armas:** 1.020 lanças, 1.010 escudos, 210 espadas, 150 machados, 196 arcos, 11.200 flechas, 8 bestas e 400 virotes, 5.800 ferrões.
+- **Proteção:** 1.150 gambesons, a maioria costurada pelas mulheres do trem a 1 cobre a peça; 160 cotas de malha; 820 capacetes.
+- **Animais e carga:** 52 montarias, 14 cavalos de tração, 11 mulas, 4 carroças.
+- **Provisões** até o fim de junho. Soldo em dia. 9 mortos e 0 deserções no trimestre.
+- **Hadrian** aceitou o rol sem conferência.
+
+**A VANGUARDA:**
+- Hadrian confirmou que a 12ª, subordinada à Sétima, entra na vanguarda do avanço de ~20/Jun.
+- André chamou a vanguarda de "sacrifício"; Hadrian respondeu "a ponta da lança". O alvo é segredo.
+- **A dedução de André, que Hadrian não negou nem confirmou:**
+  - um ataque grande no **sul do Aurach** (castelos e terras de Zelenice, Dubrava e Kragenhall), com uns **8 regimentos, ~30 mil homens**, como distração;
+  - para puxar a defesa de Drennor — inclusive o Volk e Volkovar — para o sul;
+  - enquanto Karên retoma o **norte** e a passagem fluvial;
+  - e depois uma **paz branca**: Drennor fica com as fortalezas do sul, Karên com o norte e o rio.
+- **Dados usados por André:** "perdemos seis de cada dez batalhas desde o começo da guerra", tirados dos registros de Fayfar, lidos em março.
+- Jan mandou André ter cuidado com as palavras: "Se eu tivesse cuidado com as palavras, eu não teria chegado aos dezessete."
+
+**BELLATRIX:** saiu ao anoitecer para a floresta leste. Theron foi informado por André na ponte de terra.
+
+**CORREÇÕES DO CAP. XXXVIII:**
+- A tropa sai e entra pelo **portão sul** e contorna até o campo a oeste. O forte não tem portão oeste.
+- Os esquadrões são de **até 40 homens**, com média de ~30, e não de 40 cheios.))
